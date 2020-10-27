@@ -1,0 +1,803 @@
+index,title,genre,release_date,ranking,director,cast,budget,runtime,cum_worldwide_gross,combined
+0,The Shawshank Redemption ,Drama,14 October 1994,9.3,FrankDarabont,Tim Robbins;Morgan Freeman;Bob Gunton;William Sadler;Clancy Brown;Gil Bellows;Mark Rolston;James Whitmore;Jeffrey DeMunn;Larry Brandenburg;Neil Giuntoli;Brian Libby;David Proval;Joseph Ragno;Jude Ciccolella,25000000.0,142.0,58500000.0,Drama 9.3 FrankDarabont Tim Robbins;Morgan Freeman;Bob Gunton;William Sadler;Clancy Brown;Gil Bellows;Mark Rolston;James Whitmore;Jeffrey DeMunn;Larry Brandenburg;Neil Giuntoli;Brian Libby;David Proval;Joseph Ragno;Jude Ciccolella
+1,The Godfather ,"Crime; 
+Drama",24 March 1972,9.2,FrancisFordCoppola,Marlon Brando;Al Pacino;James Caan;Richard S. Castellano;Robert Duvall;Sterling Hayden;John Marley;Richard Conte;Al Lettieri;Diane Keaton;Abe Vigoda;Talia Shire;Gianni Russo;John Cazale;Rudy Bond,6000000.0,175.0,245066411.0,"Crime; 
+Drama 9.2 FrancisFordCoppola Marlon Brando;Al Pacino;James Caan;Richard S. Castellano;Robert Duvall;Sterling Hayden;John Marley;Richard Conte;Al Lettieri;Diane Keaton;Abe Vigoda;Talia Shire;Gianni Russo;John Cazale;Rudy Bond"
+2,The Godfather: Part II ,"Crime; 
+Drama",20 December 1974,9.0,FrancisFordCoppola,Al Pacino;Robert Duvall;Diane Keaton;Robert De Niro;John Cazale;Talia Shire;Lee Strasberg;Michael V. Gazzo;G.D. Spradlin;Richard Bright;Gastone Moschin;Tom Rosqui;Bruno Kirby;Frank Sivero;Francesca De Sapio,13000000.0,202.0,,"Crime; 
+Drama 9.0 FrancisFordCoppola Al Pacino;Robert Duvall;Diane Keaton;Robert De Niro;John Cazale;Talia Shire;Lee Strasberg;Michael V. Gazzo;G.D. Spradlin;Richard Bright;Gastone Moschin;Tom Rosqui;Bruno Kirby;Frank Sivero;Francesca De Sapio"
+3,The Dark Knight ,"Action; 
+Crime; 
+Drama",18 July 2008,9.0,ChristopherNolan,Christian Bale;Heath Ledger;Aaron Eckhart;Michael Caine;Maggie Gyllenhaal;Gary Oldman;Morgan Freeman;Monique Gabriela Curnen;Ron Dean;Cillian Murphy;Chin Han;Nestor Carbonell;Eric Roberts;Ritchie Coster;Anthony Michael Hall,185000000.0,152.0,1004558444.0,"Action; 
+Crime; 
+Drama 9.0 ChristopherNolan Christian Bale;Heath Ledger;Aaron Eckhart;Michael Caine;Maggie Gyllenhaal;Gary Oldman;Morgan Freeman;Monique Gabriela Curnen;Ron Dean;Cillian Murphy;Chin Han;Nestor Carbonell;Eric Roberts;Ritchie Coster;Anthony Michael Hall"
+4,12 Angry Men ,Drama,April 1957,8.9,SidneyLumet,Martin Balsam;John Fiedler;Lee J. Cobb;E.G. Marshall;Jack Klugman;Edward Binns;Jack Warden;Henry Fonda;Joseph Sweeney;Ed Begley;George Voskovec;Robert Webber,350000.0,96.0,,Drama 8.9 SidneyLumet Martin Balsam;John Fiedler;Lee J. Cobb;E.G. Marshall;Jack Klugman;Edward Binns;Jack Warden;Henry Fonda;Joseph Sweeney;Ed Begley;George Voskovec;Robert Webber
+5,Schindler's List ,,25 December 1993,8.9,StevenSpielberg,Liam Neeson;Ben Kingsley;Ralph Fiennes;Caroline Goodall;Jonathan Sagall;Embeth Davidtz;Malgorzata Gebel;Shmuel Levy;Mark Ivanir;Béatrice Macola;Andrzej Seweryn;Friedrich von Thun;Krzysztof Luft;Harry Nehring;Norbert Weisser,22000000.0,195.0,221000000.0, 8.9 StevenSpielberg Liam Neeson;Ben Kingsley;Ralph Fiennes;Caroline Goodall;Jonathan Sagall;Embeth Davidtz;Malgorzata Gebel;Shmuel Levy;Mark Ivanir;Béatrice Macola;Andrzej Seweryn;Friedrich von Thun;Krzysztof Luft;Harry Nehring;Norbert Weisser
+6,The Lord of the Rings: The Return of the King ,"Action; 
+Adventure; 
+Drama",17 December 2003,8.9,PeterJackson,Noel Appleby;Ali Astin;Sean Astin;David Aston;John Bach;Sean Bean;Cate Blanchett;Orlando Bloom;Billy Boyd;Sadwyn Brophy;Alistair Browning;Marton Csokas;Richard Edge;Jason Fitch;Bernard Hill,94000000.0,201.0,1119929521.0,"Action; 
+Adventure; 
+Drama 8.9 PeterJackson Noel Appleby;Ali Astin;Sean Astin;David Aston;John Bach;Sean Bean;Cate Blanchett;Orlando Bloom;Billy Boyd;Sadwyn Brophy;Alistair Browning;Marton Csokas;Richard Edge;Jason Fitch;Bernard Hill"
+7,Pulp Fiction ,"Crime; 
+Drama",14 October 1994,8.9,QuentinTarantino,Tim Roth;Amanda Plummer;Laura Lovelace;John Travolta;Samuel L. Jackson;Phil LaMarr;Frank Whaley;Burr Steers;Bruce Willis;Ving Rhames;Paul Calderon;Bronagh Gallagher;Rosanna Arquette;Eric Stoltz;Uma Thurman,8000000.0,154.0,213928762.0,"Crime; 
+Drama 8.9 QuentinTarantino Tim Roth;Amanda Plummer;Laura Lovelace;John Travolta;Samuel L. Jackson;Phil LaMarr;Frank Whaley;Burr Steers;Bruce Willis;Ving Rhames;Paul Calderon;Bronagh Gallagher;Rosanna Arquette;Eric Stoltz;Uma Thurman"
+8,"Il buono, il brutto, il cattivo ",,23 December 1966,8.9,SergioLeone,Eli Wallach;Clint Eastwood;Lee Van Cleef;Aldo Giuffrè;Luigi Pistilli;Rada Rassimov;Enzo Petito;Claudio Scarchilli;John Bartha;Livio Lorenzon;Antonio Casale;Sandro Scarchilli;Benito Stefanelli;Angelo Novi;Antonio Casas,1200000.0,161.0,, 8.9 SergioLeone Eli Wallach;Clint Eastwood;Lee Van Cleef;Aldo Giuffrè;Luigi Pistilli;Rada Rassimov;Enzo Petito;Claudio Scarchilli;John Bartha;Livio Lorenzon;Antonio Casale;Sandro Scarchilli;Benito Stefanelli;Angelo Novi;Antonio Casas
+9,Fight Club ,Drama,15 October 1999,8.8,DavidFincher,Edward Norton;Brad Pitt;Meat Loaf;Zach Grenier;Richmond Arquette;David Andrews;George Maguire;Eugenie Bondurant;Helena Bonham Carter;Christina Cabot;Sydney 'Big Dawg' Colston;Rachel Singer;Christie Cronenweth;Tim DeZarn;Ezra Buzzington,63000000.0,139.0,71000000.0,Drama 8.8 DavidFincher Edward Norton;Brad Pitt;Meat Loaf;Zach Grenier;Richmond Arquette;David Andrews;George Maguire;Eugenie Bondurant;Helena Bonham Carter;Christina Cabot;Sydney 'Big Dawg' Colston;Rachel Singer;Christie Cronenweth;Tim DeZarn;Ezra Buzzington
+10,The Lord of the Rings: The Fellowship of the Ring ,"Adventure; 
+Drama; 
+Fantasy",19 December 2001,8.8,PeterJackson,Alan Howard;Noel Appleby;Sean Astin;Sala Baker;Sean Bean;Cate Blanchett;Orlando Bloom;Billy Boyd;Marton Csokas;Megan Edwards;Michael Elsworth;Mark Ferguson;Ian Holm;Christopher Lee;Lawrence Makoare,93000000.0,178.0,871530324.0,"Adventure; 
+Drama; 
+Fantasy 8.8 PeterJackson Alan Howard;Noel Appleby;Sean Astin;Sala Baker;Sean Bean;Cate Blanchett;Orlando Bloom;Billy Boyd;Marton Csokas;Megan Edwards;Michael Elsworth;Mark Ferguson;Ian Holm;Christopher Lee;Lawrence Makoare"
+11,Forrest Gump ,"Drama; 
+Romance",6 July 1994,8.8,RobertZemeckis,Tom Hanks;Rebecca Williams;Sally Field;Michael Conner Humphreys;Harold G. Herthum;George Kelly;Bob Penny;John Randall;Sam Anderson;Margo Moorer;Ione M. Telech;Christine Seabrook;John Worsham;Peter Dobson;Siobhan Fallon Hogan,55000000.0,142.0,677945399.0,"Drama; 
+Romance 8.8 RobertZemeckis Tom Hanks;Rebecca Williams;Sally Field;Michael Conner Humphreys;Harold G. Herthum;George Kelly;Bob Penny;John Randall;Sam Anderson;Margo Moorer;Ione M. Telech;Christine Seabrook;John Worsham;Peter Dobson;Siobhan Fallon Hogan"
+12,Star Wars: Episode V - The Empire Strikes Back ,"Action; 
+Adventure; 
+Fantasy",20 June 1980,8.8,IrvinKershner,Mark Hamill;Harrison Ford;Carrie Fisher;Billy Dee Williams;Anthony Daniels;David Prowse;Peter Mayhew;Kenny Baker;Frank Oz;Alec Guinness;Jeremy Bulloch;John Hollis;Jack Purvis;Des Webb;Clive Revill,18000000.0,124.0,247916602.0,"Action; 
+Adventure; 
+Fantasy 8.8 IrvinKershner Mark Hamill;Harrison Ford;Carrie Fisher;Billy Dee Williams;Anthony Daniels;David Prowse;Peter Mayhew;Kenny Baker;Frank Oz;Alec Guinness;Jeremy Bulloch;John Hollis;Jack Purvis;Des Webb;Clive Revill"
+13,Inception ,"Action; 
+Adventure; 
+Sci-Fi",16 July 2010,8.8,ChristopherNolan,Leonardo DiCaprio;Joseph Gordon-Levitt;Ellen Page;Tom Hardy;Ken Watanabe;Dileep Rao;Cillian Murphy;Tom Berenger;Marion Cotillard;Pete Postlethwaite;Michael Caine;Lukas Haas;Tai-Li Lee;Claire Geare;Magnus Nolan,160000000.0,148.0,825532764.0,"Action; 
+Adventure; 
+Sci-Fi 8.8 ChristopherNolan Leonardo DiCaprio;Joseph Gordon-Levitt;Ellen Page;Tom Hardy;Ken Watanabe;Dileep Rao;Cillian Murphy;Tom Berenger;Marion Cotillard;Pete Postlethwaite;Michael Caine;Lukas Haas;Tai-Li Lee;Claire Geare;Magnus Nolan"
+14,The Lord of the Rings: The Two Towers ,"Adventure; 
+Drama; 
+Fantasy",18 December 2002,8.7,PeterJackson,Bruce Allpress;Sean Astin;John Bach;Sala Baker;Cate Blanchett;Orlando Bloom;Billy Boyd;Jed Brophy;Sam Comery;Brad Dourif;Calum Gittins;Bernard Hill;Bruce Hopkins;Paris Howe Strewe;Christopher Lee,94000000.0,179.0,926047111.0,"Adventure; 
+Drama; 
+Fantasy 8.7 PeterJackson Bruce Allpress;Sean Astin;John Bach;Sala Baker;Cate Blanchett;Orlando Bloom;Billy Boyd;Jed Brophy;Sam Comery;Brad Dourif;Calum Gittins;Bernard Hill;Bruce Hopkins;Paris Howe Strewe;Christopher Lee"
+15,One Flew Over the Cuckoo's Nest ,Drama,19 November 1975,8.7,MilosForman,Jack Nicholson;Louise Fletcher;Will Sampson;Michael Berryman;Alonzo Brown;Peter Brocco;Scatman Crothers;Dean R. Brooks;Mwako Cumbuka;Danny DeVito;William Duell;Josip Elic;Lan Fendors;Nathan George;Ken Kenny,4400000.0,133.0,,Drama 8.7 MilosForman Jack Nicholson;Louise Fletcher;Will Sampson;Michael Berryman;Alonzo Brown;Peter Brocco;Scatman Crothers;Dean R. Brooks;Mwako Cumbuka;Danny DeVito;William Duell;Josip Elic;Lan Fendors;Nathan George;Ken Kenny
+16,Goodfellas ,"Crime; 
+Drama",21 September 1990,8.7,MartinScorsese,Robert De Niro;Ray Liotta;Joe Pesci;Lorraine Bracco;Paul Sorvino;Frank Sivero;Tony Darrow;Mike Starr;Frank Vincent;Chuck Low;Frank DiLeo;Henny Youngman;Gina Mastrogiacomo;Catherine Scorsese;Charles Scorsese,25000000.0,146.0,,"Crime; 
+Drama 8.7 MartinScorsese Robert De Niro;Ray Liotta;Joe Pesci;Lorraine Bracco;Paul Sorvino;Frank Sivero;Tony Darrow;Mike Starr;Frank Vincent;Chuck Low;Frank DiLeo;Henny Youngman;Gina Mastrogiacomo;Catherine Scorsese;Charles Scorsese"
+17,The Matrix ,"Action; 
+Sci-Fi",31 March 1999,8.7,LillyWachowski,Keanu Reeves;Laurence Fishburne;Carrie-Anne Moss;Hugo Weaving;Gloria Foster;Joe Pantoliano;Marcus Chong;Julian Arahanga;Matt Doran;Belinda McClory;Anthony Ray Parker;Paul Goddard;Robert Taylor;David Aston;Marc Aden Gray,63000000.0,136.0,463517383.0,"Action; 
+Sci-Fi 8.7 LillyWachowski Keanu Reeves;Laurence Fishburne;Carrie-Anne Moss;Hugo Weaving;Gloria Foster;Joe Pantoliano;Marcus Chong;Julian Arahanga;Matt Doran;Belinda McClory;Anthony Ray Parker;Paul Goddard;Robert Taylor;David Aston;Marc Aden Gray"
+18,Shichinin no samurai ,"Adventure; 
+Drama",26 April 1954,8.7,AkiraKurosawa,Toshirô Mifune;Takashi Shimura;Keiko Tsushima;Yukiko Shimazaki;Kamatari Fujiwara;Daisuke Katô;Isao Kimura;Minoru Chiaki;Seiji Miyaguchi;Yoshio Kosugi;Bokuzen Hidari;Yoshio Inaba;Yoshio Tsuchiya;Kokuten Kôdô;Eijirô Tôno,2000000.0,207.0,,"Adventure; 
+Drama 8.7 AkiraKurosawa Toshirô Mifune;Takashi Shimura;Keiko Tsushima;Yukiko Shimazaki;Kamatari Fujiwara;Daisuke Katô;Isao Kimura;Minoru Chiaki;Seiji Miyaguchi;Yoshio Kosugi;Bokuzen Hidari;Yoshio Inaba;Yoshio Tsuchiya;Kokuten Kôdô;Eijirô Tôno"
+19,Cidade de Deus ,"Crime; 
+Drama",30 August 2002,8.6,"FernandoMeirelles,KátiaLund",Alexandre Rodrigues;Leandro Firmino;Phellipe Haagensen;Douglas Silva;Jonathan Haagensen;Matheus Nachtergaele;Seu Jorge;Jefechander Suplino;Alice Braga;Emerson Gomes;Edson Oliveira;Michel Gomes;Roberta Rodrigues;Luis Otávio;Kiko Marques,3300000.0,130.0,32059295.0,"Crime; 
+Drama 8.6 FernandoMeirelles,KátiaLund Alexandre Rodrigues;Leandro Firmino;Phellipe Haagensen;Douglas Silva;Jonathan Haagensen;Matheus Nachtergaele;Seu Jorge;Jefechander Suplino;Alice Braga;Emerson Gomes;Edson Oliveira;Michel Gomes;Roberta Rodrigues;Luis Otávio;Kiko Marques"
+20,Se7en ,"Crime; 
+Drama; 
+Mystery",22 September 1995,8.6,DavidFincher,Morgan Freeman;Andrew Kevin Walker;Daniel Zacapa;Brad Pitt;Gwyneth Paltrow;John Cassini;Bob Mack;Peter Crombie;Reg E. Cathey;R. Lee Ermey;George Christy;Endre Hules;Hawthorne James;William Davidson;Bob Collins,33000000.0,127.0,327311859.0,"Crime; 
+Drama; 
+Mystery 8.6 DavidFincher Morgan Freeman;Andrew Kevin Walker;Daniel Zacapa;Brad Pitt;Gwyneth Paltrow;John Cassini;Bob Mack;Peter Crombie;Reg E. Cathey;R. Lee Ermey;George Christy;Endre Hules;Hawthorne James;William Davidson;Bob Collins"
+21,Star Wars ,"Action; 
+Adventure; 
+Fantasy",25 May 1977,8.6,GeorgeLucas,Mark Hamill;Harrison Ford;Carrie Fisher;Peter Cushing;Alec Guinness;Anthony Daniels;Kenny Baker;Peter Mayhew;David Prowse;Phil Brown;Shelagh Fraser;Jack Purvis;Alex McCrindle;Eddie Byrne;Drewe Henley,11000000.0,121.0,775398007.0,"Action; 
+Adventure; 
+Fantasy 8.6 GeorgeLucas Mark Hamill;Harrison Ford;Carrie Fisher;Peter Cushing;Alec Guinness;Anthony Daniels;Kenny Baker;Peter Mayhew;David Prowse;Phil Brown;Shelagh Fraser;Jack Purvis;Alex McCrindle;Eddie Byrne;Drewe Henley"
+22,The Silence of the Lambs ,"Crime; 
+Drama; 
+Thriller",14 February 1991,8.6,JonathanDemme,Jodie Foster;Lawrence A. Bonney;Kasi Lemmons;Lawrence T. Wrentz;Scott Glenn;Anthony Heald;Frankie Faison;Don Brockett;Frank Seals Jr.;Stuart Rudin;Anthony Hopkins;Maria Skorobogatov;Jeffrie Lane;Leib Lensky;George 'Red' Schwartz,19000000.0,118.0,272742922.0,"Crime; 
+Drama; 
+Thriller 8.6 JonathanDemme Jodie Foster;Lawrence A. Bonney;Kasi Lemmons;Lawrence T. Wrentz;Scott Glenn;Anthony Heald;Frankie Faison;Don Brockett;Frank Seals Jr.;Stuart Rudin;Anthony Hopkins;Maria Skorobogatov;Jeffrie Lane;Leib Lensky;George 'Red' Schwartz"
+23,It's a Wonderful Life ,"Drama; 
+Family; 
+Fantasy",7 January 1947,8.6,FrankCapra,James Stewart;Donna Reed;Lionel Barrymore;Thomas Mitchell;Henry Travers;Beulah Bondi;Frank Faylen;Ward Bond;Gloria Grahame;H.B. Warner;Frank Albertson;Todd Karns;Samuel S. Hinds;Mary Treen;Virginia Patton,3180000.0,130.0,,"Drama; 
+Family; 
+Fantasy 8.6 FrankCapra James Stewart;Donna Reed;Lionel Barrymore;Thomas Mitchell;Henry Travers;Beulah Bondi;Frank Faylen;Ward Bond;Gloria Grahame;H.B. Warner;Frank Albertson;Todd Karns;Samuel S. Hinds;Mary Treen;Virginia Patton"
+24,La vita è bella ,"Comedy; 
+Drama; 
+Romance",6 November 1998,8.6,RobertoBenigni,Roberto Benigni;Nicoletta Braschi;Giorgio Cantarini;Giustino Durano;Sergio Bini Bustric;Marisa Paredes;Horst Buchholz;Lidia Alfonsi;Giuliana Lojodice;Amerigo Fontani;Pietro De Silva;Francesco Guzzo;Raffaella Lebboroni;Claudio Alfonsi;Gil Baroni,20000000.0,116.0,229163264.0,"Comedy; 
+Drama; 
+Romance 8.6 RobertoBenigni Roberto Benigni;Nicoletta Braschi;Giorgio Cantarini;Giustino Durano;Sergio Bini Bustric;Marisa Paredes;Horst Buchholz;Lidia Alfonsi;Giuliana Lojodice;Amerigo Fontani;Pietro De Silva;Francesco Guzzo;Raffaella Lebboroni;Claudio Alfonsi;Gil Baroni"
+25,The Usual Suspects ,"Crime; 
+Mystery; 
+Thriller",15 September 1995,8.6,BryanSinger,Stephen Baldwin;Gabriel Byrne;Benicio Del Toro;Kevin Pollak;Kevin Spacey;Chazz Palminteri;Pete Postlethwaite;Suzy Amis;Giancarlo Esposito;Dan Hedaya;Paul Bartel;Carl Bressler;Phillipe Simon;Jack Shearer;Christine Estabrook,6000000.0,106.0,34449356.0,"Crime; 
+Mystery; 
+Thriller 8.6 BryanSinger Stephen Baldwin;Gabriel Byrne;Benicio Del Toro;Kevin Pollak;Kevin Spacey;Chazz Palminteri;Pete Postlethwaite;Suzy Amis;Giancarlo Esposito;Dan Hedaya;Paul Bartel;Carl Bressler;Phillipe Simon;Jack Shearer;Christine Estabrook"
+26,Sen to Chihiro no kamikakushi ,,20 July 2001,8.6,HayaoMiyazaki,Rumi Hiiragi;Miyu Irino;Mari Natsuki;Takashi Naitô;Yasuko Sawaguchi;Tatsuya Gashûin;Ryûnosuke Kamiki;Yumi Tamai;Yô Ôizumi;Koba Hayashi;Tsunehiko Kamijô;Takehiko Ono;Bunta Sugawara;Shigeru Wakita;Shirô Saitô,19000000.0,125.0,274925095.0, 8.6 HayaoMiyazaki Rumi Hiiragi;Miyu Irino;Mari Natsuki;Takashi Naitô;Yasuko Sawaguchi;Tatsuya Gashûin;Ryûnosuke Kamiki;Yumi Tamai;Yô Ôizumi;Koba Hayashi;Tsunehiko Kamijô;Takehiko Ono;Bunta Sugawara;Shigeru Wakita;Shirô Saitô
+27,Saving Private Ryan ,"Drama; 
+War",24 July 1998,8.6,StevenSpielberg,Tom Hanks;Tom Sizemore;Edward Burns;Barry Pepper;Adam Goldberg;Vin Diesel;Giovanni Ribisi;Jeremy Davies;Matt Damon;Ted Danson;Paul Giamatti;Dennis Farina;Joerg Stadler;Max Martini;Dylan Bruno,70000000.0,169.0,481840909.0,"Drama; 
+War 8.6 StevenSpielberg Tom Hanks;Tom Sizemore;Edward Burns;Barry Pepper;Adam Goldberg;Vin Diesel;Giovanni Ribisi;Jeremy Davies;Matt Damon;Ted Danson;Paul Giamatti;Dennis Farina;Joerg Stadler;Max Martini;Dylan Bruno"
+28,Spider-Man: Into the Spider-Verse ,,14 December 2018,8.7,PeterRamsey,Shameik Moore;Jake Johnson;Hailee Steinfeld;Mahershala Ali;Brian Tyree Henry;Lily Tomlin;Luna Lauren Velez;Zoë Kravitz;John Mulaney;Kimiko Glenn;Nicolas Cage;Kathryn Hahn;Liev Schreiber;Chris Pine;Natalie Morales,90000000.0,117.0,149653583.0, 8.7 PeterRamsey Shameik Moore;Jake Johnson;Hailee Steinfeld;Mahershala Ali;Brian Tyree Henry;Lily Tomlin;Luna Lauren Velez;Zoë Kravitz;John Mulaney;Kimiko Glenn;Nicolas Cage;Kathryn Hahn;Liev Schreiber;Chris Pine;Natalie Morales
+29,Léon ,"Crime; 
+Drama; 
+Thriller",14 September 1994,8.6,LucBesson,Jean Reno;Gary Oldman;Natalie Portman;Danny Aiello;Peter Appel;Willi One Blood;Don Creech;Keith A. Glascoe;Randolph Scott;Michael Badalucco;Ellen Greene;Elizabeth Regen;Carl J. Matusovich;Frank Senger;Lucius Wyatt Cherokee,,110.0,45501238.0,"Crime; 
+Drama; 
+Thriller 8.6 LucBesson Jean Reno;Gary Oldman;Natalie Portman;Danny Aiello;Peter Appel;Willi One Blood;Don Creech;Keith A. Glascoe;Randolph Scott;Michael Badalucco;Ellen Greene;Elizabeth Regen;Carl J. Matusovich;Frank Senger;Lucius Wyatt Cherokee"
+30,The Green Mile ,"Crime; 
+Drama; 
+Fantasy",10 December 1999,8.5,FrankDarabont,Tom Hanks;David Morse;Bonnie Hunt;Michael Clarke Duncan;James Cromwell;Michael Jeter;Graham Greene;Doug Hutchison;Sam Rockwell;Barry Pepper;Jeffrey DeMunn;Patricia Clarkson;Harry Dean Stanton;Dabbs Greer;Eve Brent,60000000.0,189.0,286801374.0,"Crime; 
+Drama; 
+Fantasy 8.5 FrankDarabont Tom Hanks;David Morse;Bonnie Hunt;Michael Clarke Duncan;James Cromwell;Michael Jeter;Graham Greene;Doug Hutchison;Sam Rockwell;Barry Pepper;Jeffrey DeMunn;Patricia Clarkson;Harry Dean Stanton;Dabbs Greer;Eve Brent"
+31,Interstellar ,"Adventure; 
+Drama; 
+Sci-Fi",7 November 2014,8.6,ChristopherNolan,Ellen Burstyn;Matthew McConaughey;Mackenzie Foy;John Lithgow;Timothée Chalamet;David Oyelowo;Collette Wolfe;Francis X. McCarthy;Bill Irwin;Anne Hathaway;Andrew Borba;Wes Bentley;William Devane;Michael Caine;David Gyasi,165000000.0,169.0,675020017.0,"Adventure; 
+Drama; 
+Sci-Fi 8.6 ChristopherNolan Ellen Burstyn;Matthew McConaughey;Mackenzie Foy;John Lithgow;Timothée Chalamet;David Oyelowo;Collette Wolfe;Francis X. McCarthy;Bill Irwin;Anne Hathaway;Andrew Borba;Wes Bentley;William Devane;Michael Caine;David Gyasi"
+32,Psycho ,,8 September 1960,8.5,AlfredHitchcock,Anthony Perkins;Vera Miles;John Gavin;Janet Leigh;Martin Balsam;John McIntire;Simon Oakland;Frank Albertson;Patricia Hitchcock;Vaughn Taylor;Lurene Tuttle;John Anderson;Mort Mills,806947.0,109.0,50000000.0, 8.5 AlfredHitchcock Anthony Perkins;Vera Miles;John Gavin;Janet Leigh;Martin Balsam;John McIntire;Simon Oakland;Frank Albertson;Patricia Hitchcock;Vaughn Taylor;Lurene Tuttle;John Anderson;Mort Mills
+33,American History X ,Drama,20 November 1998,8.5,TonyKaye,Edward Norton;Edward Furlong;Beverly D'Angelo;Jennifer Lien;Ethan Suplee;Fairuza Balk;Avery Brooks;Elliott Gould;Stacy Keach;William Russ;Guy Torry;Joe Cortese;Jason Bose Smith;Antonio David Lyons;Alex Sol,7500000.0,119.0,23875127.0,Drama 8.5 TonyKaye Edward Norton;Edward Furlong;Beverly D'Angelo;Jennifer Lien;Ethan Suplee;Fairuza Balk;Avery Brooks;Elliott Gould;Stacy Keach;William Russ;Guy Torry;Joe Cortese;Jason Bose Smith;Antonio David Lyons;Alex Sol
+34,City Lights ,"Comedy; 
+Drama; 
+Romance",7 March 1931,8.5,CharlesChaplin,Virginia Cherrill;Florence Lee;Harry Myers;Al Ernest Garcia;Hank Mann;Charles Chaplin,1500000.0,87.0,,"Comedy; 
+Drama; 
+Romance 8.5 CharlesChaplin Virginia Cherrill;Florence Lee;Harry Myers;Al Ernest Garcia;Hank Mann;Charles Chaplin"
+35,Once Upon a Time in the West ,,21 December 1968,8.5,SergioLeone,Claudia Cardinale;Henry Fonda;Jason Robards;Charles Bronson;Gabriele Ferzetti;Paolo Stoppa;Woody Strode;Jack Elam;Keenan Wynn;Frank Wolff;Lionel Stander,5000000.0,165.0,, 8.5 SergioLeone Claudia Cardinale;Henry Fonda;Jason Robards;Charles Bronson;Gabriele Ferzetti;Paolo Stoppa;Woody Strode;Jack Elam;Keenan Wynn;Frank Wolff;Lionel Stander
+36,Casablanca ,"Drama; 
+Romance; 
+War",23 January 1943,8.5,MichaelCurtiz,Humphrey Bogart;Ingrid Bergman;Paul Henreid;Claude Rains;Conrad Veidt;Sydney Greenstreet;Peter Lorre;S.Z. Sakall;Madeleine Lebeau;Dooley Wilson;Joy Page;John Qualen;Leonid Kinskey;Curt Bois,950000.0,102.0,,"Drama; 
+Romance; 
+War 8.5 MichaelCurtiz Humphrey Bogart;Ingrid Bergman;Paul Henreid;Claude Rains;Conrad Veidt;Sydney Greenstreet;Peter Lorre;S.Z. Sakall;Madeleine Lebeau;Dooley Wilson;Joy Page;John Qualen;Leonid Kinskey;Curt Bois"
+37,Modern Times ,"Comedy; 
+Drama; 
+Family",25 February 1936,8.5,CharlesChaplin,Charles Chaplin;Paulette Goddard;Henry Bergman;Tiny Sandford;Chester Conklin;Hank Mann;Stanley Blystone;Al Ernest Garcia;Richard Alexander;Cecil Reynolds;Mira McKinney;Murdock MacQuarrie;Wilfred Lucas;Edward LeSaint;Fred Malatesta,1500000.0,87.0,,"Comedy; 
+Drama; 
+Family 8.5 CharlesChaplin Charles Chaplin;Paulette Goddard;Henry Bergman;Tiny Sandford;Chester Conklin;Hank Mann;Stanley Blystone;Al Ernest Garcia;Richard Alexander;Cecil Reynolds;Mira McKinney;Murdock MacQuarrie;Wilfred Lucas;Edward LeSaint;Fred Malatesta"
+38,The Pianist ,,24 January 2003,8.5,RomanPolanski,Adrien Brody;Emilia Fox;Michal Zebrowski;Ed Stoppard;Maureen Lipman;Frank Finlay;Jessica Kate Meyer;Julia Rayner;Wanja Mues;Richard Ridings;Nomi Sharron;Anthony Milner;Lucy Skeaping;Roddy Skeaping;Ben Harlan,35000000.0,150.0,120072577.0, 8.5 RomanPolanski Adrien Brody;Emilia Fox;Michal Zebrowski;Ed Stoppard;Maureen Lipman;Frank Finlay;Jessica Kate Meyer;Julia Rayner;Wanja Mues;Richard Ridings;Nomi Sharron;Anthony Milner;Lucy Skeaping;Roddy Skeaping;Ben Harlan
+39,The Intouchables ,,2 November 2011,8.5,"OlivierNakache,EricToledano",François Cluzet;Omar Sy;Anne Le Ny;Audrey Fleurot;Joséphine de Meaux;Clotilde Mollet;Alba Gaïa Bellugi;Cyril Mendy;Salimata Kamate;Absa Diatou Toure;Grégoire Oestermann;Dominique Daguier;François Caron;Christian Ameri;Thomas Solivérès,,112.0,426480871.0," 8.5 OlivierNakache,EricToledano François Cluzet;Omar Sy;Anne Le Ny;Audrey Fleurot;Joséphine de Meaux;Clotilde Mollet;Alba Gaïa Bellugi;Cyril Mendy;Salimata Kamate;Absa Diatou Toure;Grégoire Oestermann;Dominique Daguier;François Caron;Christian Ameri;Thomas Solivérès"
+40,The Departed ,"Crime; 
+Drama; 
+Thriller",6 October 2006,8.5,MartinScorsese,Leonardo DiCaprio;Matt Damon;Jack Nicholson;Mark Wahlberg;Martin Sheen;Ray Winstone;Vera Farmiga;Anthony Anderson;Alec Baldwin;Kevin Corrigan;James Badge Dale;David O'Hara;Mark Rolston;Robert Wahlberg;Kristen Dalton,90000000.0,151.0,289847354.0,"Crime; 
+Drama; 
+Thriller 8.5 MartinScorsese Leonardo DiCaprio;Matt Damon;Jack Nicholson;Mark Wahlberg;Martin Sheen;Ray Winstone;Vera Farmiga;Anthony Anderson;Alec Baldwin;Kevin Corrigan;James Badge Dale;David O'Hara;Mark Rolston;Robert Wahlberg;Kristen Dalton"
+41,Terminator 2: Judgment Day ,"Action; 
+Sci-Fi",3 July 1991,8.5,JamesCameron,Arnold Schwarzenegger;Linda Hamilton;Edward Furlong;Robert Patrick;Earl Boen;Joe Morton;S. Epatha Merkerson;Castulo Guerra;Danny Cooksey;Jenette Goldstein;Xander Berkeley;Leslie Hamilton Gearren;Ken Gibbel;Robert Winley;Peter Schrum,102000000.0,137.0,315000000.0,"Action; 
+Sci-Fi 8.5 JamesCameron Arnold Schwarzenegger;Linda Hamilton;Edward Furlong;Robert Patrick;Earl Boen;Joe Morton;S. Epatha Merkerson;Castulo Guerra;Danny Cooksey;Jenette Goldstein;Xander Berkeley;Leslie Hamilton Gearren;Ken Gibbel;Robert Winley;Peter Schrum"
+42,Back to the Future ,"Adventure; 
+Comedy; 
+Sci-Fi",3 July 1985,8.5,RobertZemeckis,Michael J. Fox;Christopher Lloyd;Lea Thompson;Crispin Glover;Thomas F. Wilson;Claudia Wells;Marc McClure;Wendie Jo Sperber;George DiCenzo;Frances Lee McCain;James Tolkan;J.J. Cohen;Casey Siemaszko;Billy Zane;Harry Waters Jr.,19000000.0,116.0,381109762.0,"Adventure; 
+Comedy; 
+Sci-Fi 8.5 RobertZemeckis Michael J. Fox;Christopher Lloyd;Lea Thompson;Crispin Glover;Thomas F. Wilson;Claudia Wells;Marc McClure;Wendie Jo Sperber;George DiCenzo;Frances Lee McCain;James Tolkan;J.J. Cohen;Casey Siemaszko;Billy Zane;Harry Waters Jr."
+43,Whiplash ,"Drama; 
+Music",15 October 2014,8.5,DamienChazelle,Miles Teller;J.K. Simmons;Paul Reiser;Melissa Benoist;Austin Stowell;Nate Lang;Chris Mulkey;Damon Gupton;Suanne Spoke;Max Kasch;Charlie Ian;Jayson Blair;Kofi Siriboe;Kavita Patil;C.J. Vana,3300000.0,106.0,48982041.0,"Drama; 
+Music 8.5 DamienChazelle Miles Teller;J.K. Simmons;Paul Reiser;Melissa Benoist;Austin Stowell;Nate Lang;Chris Mulkey;Damon Gupton;Suanne Spoke;Max Kasch;Charlie Ian;Jayson Blair;Kofi Siriboe;Kavita Patil;C.J. Vana"
+44,Rear Window ,"Mystery; 
+Thriller",September 1954,8.5,AlfredHitchcock,James Stewart;Grace Kelly;Wendell Corey;Thelma Ritter;Raymond Burr;Judith Evelyn;Ross Bagdasarian;Georgine Darcy;Sara Berner;Frank Cady;Jesslyn Fax;Rand Harper;Irene Winston;Havis Davenport,1000000.0,112.0,36888916.0,"Mystery; 
+Thriller 8.5 AlfredHitchcock James Stewart;Grace Kelly;Wendell Corey;Thelma Ritter;Raymond Burr;Judith Evelyn;Ross Bagdasarian;Georgine Darcy;Sara Berner;Frank Cady;Jesslyn Fax;Rand Harper;Irene Winston;Havis Davenport"
+45,Raiders of the Lost Ark ,"Action; 
+Adventure",12 June 1981,8.5,StevenSpielberg,Harrison Ford;Karen Allen;Paul Freeman;Ronald Lacey;John Rhys-Davies;Denholm Elliott;Alfred Molina;Wolf Kahler;Anthony Higgins;Vic Tablian;Don Fellows;William Hootkins;Bill Reimbold;Fred Sorenson;Patrick Durkin,18000000.0,115.0,389925971.0,"Action; 
+Adventure 8.5 StevenSpielberg Harrison Ford;Karen Allen;Paul Freeman;Ronald Lacey;John Rhys-Davies;Denholm Elliott;Alfred Molina;Wolf Kahler;Anthony Higgins;Vic Tablian;Don Fellows;William Hootkins;Bill Reimbold;Fred Sorenson;Patrick Durkin"
+46,The Lion King ,,24 June 1994,8.5,"RobMinkoff,RogerAllers",Rowan Atkinson;Matthew Broderick;Niketa Calame-Harris;Jim Cummings;Whoopi Goldberg;Robert Guillaume;Jeremy Irons;James Earl Jones;Moira Kelly;Nathan Lane;Zoe Leader;Cheech Marin;Ernie Sabella;Madge Sinclair;Jonathan Taylor Thomas,45000000.0,88.0,987483777.0," 8.5 RobMinkoff,RogerAllers Rowan Atkinson;Matthew Broderick;Niketa Calame-Harris;Jim Cummings;Whoopi Goldberg;Robert Guillaume;Jeremy Irons;James Earl Jones;Moira Kelly;Nathan Lane;Zoe Leader;Cheech Marin;Ernie Sabella;Madge Sinclair;Jonathan Taylor Thomas"
+47,Gladiator ,"Action; 
+Adventure; 
+Drama",5 May 2000,8.5,RidleyScott,Russell Crowe;Joaquin Phoenix;Connie Nielsen;Oliver Reed;Richard Harris;Derek Jacobi;Djimon Hounsou;David Schofield;John Shrapnel;Tomas Arana;Ralf Moeller;Spencer Treat Clark;David Hemmings;Tommy Flanagan;Sven-Ole Thorsen,103000000.0,155.0,457640427.0,"Action; 
+Adventure; 
+Drama 8.5 RidleyScott Russell Crowe;Joaquin Phoenix;Connie Nielsen;Oliver Reed;Richard Harris;Derek Jacobi;Djimon Hounsou;David Schofield;John Shrapnel;Tomas Arana;Ralf Moeller;Spencer Treat Clark;David Hemmings;Tommy Flanagan;Sven-Ole Thorsen"
+48,The Prestige ,"Drama; 
+Mystery; 
+Sci-Fi",20 October 2006,8.5,ChristopherNolan,Hugh Jackman;Christian Bale;Michael Caine;Piper Perabo;Rebecca Hall;Scarlett Johansson;Samantha Mahurin;David Bowie;Andy Serkis;Daniel Davis;Jim Piddock;Christopher Neame;Mark Ryan;Roger Rees;Jamie Harris,40000000.0,130.0,109676311.0,"Drama; 
+Mystery; 
+Sci-Fi 8.5 ChristopherNolan Hugh Jackman;Christian Bale;Michael Caine;Piper Perabo;Rebecca Hall;Scarlett Johansson;Samantha Mahurin;David Bowie;Andy Serkis;Daniel Davis;Jim Piddock;Christopher Neame;Mark Ryan;Roger Rees;Jamie Harris"
+49,Apocalypse Now ,"Drama; 
+War",15 August 1979,8.5,FrancisFordCoppola,Marlon Brando;Martin Sheen;Robert Duvall;Frederic Forrest;Sam Bottoms;Laurence Fishburne;Albert Hall;Harrison Ford;Dennis Hopper;G.D. Spradlin;Jerry Ziesmer;Scott Glenn;Bo Byers;James Keane;Kerry Rossall,31500000.0,147.0,,"Drama; 
+War 8.5 FrancisFordCoppola Marlon Brando;Martin Sheen;Robert Duvall;Frederic Forrest;Sam Bottoms;Laurence Fishburne;Albert Hall;Harrison Ford;Dennis Hopper;G.D. Spradlin;Jerry Ziesmer;Scott Glenn;Bo Byers;James Keane;Kerry Rossall"
+50,Memento ,"Mystery; 
+Thriller",25 May 2001,8.5,ChristopherNolan,Guy Pearce;Carrie-Anne Moss;Joe Pantoliano;Mark Boone Junior;Russ Fega;Jorja Fox;Stephen Tobolowsky;Harriet Sansom Harris;Thomas Lennon;Callum Keith Rennie;Kimberly Campbell;Marianne Muellerleile;Larry Holden,9000000.0,113.0,39723096.0,"Mystery; 
+Thriller 8.5 ChristopherNolan Guy Pearce;Carrie-Anne Moss;Joe Pantoliano;Mark Boone Junior;Russ Fega;Jorja Fox;Stephen Tobolowsky;Harriet Sansom Harris;Thomas Lennon;Callum Keith Rennie;Kimberly Campbell;Marianne Muellerleile;Larry Holden"
+51,Alien ,,22 June 1979,8.5,RidleyScott,Tom Skerritt;Sigourney Weaver;Veronica Cartwright;Harry Dean Stanton;John Hurt;Ian Holm;Yaphet Kotto;Bolaji Badejo;Helen Horton,11000000.0,116.0,203630630.0, 8.5 RidleyScott Tom Skerritt;Sigourney Weaver;Veronica Cartwright;Harry Dean Stanton;John Hurt;Ian Holm;Yaphet Kotto;Bolaji Badejo;Helen Horton
+52,The Great Dictator ,"Comedy; 
+Drama; 
+War",7 March 1941,8.5,CharlesChaplin,Charles Chaplin;Jack Oakie;Reginald Gardiner;Henry Daniell;Billy Gilbert;Grace Hayle;Carter DeHaven;Paulette Goddard;Maurice Moscovitch;Emma Dunn;Bernard Gorcey;Paul Weigel;Chester Conklin;Esther Michelson;Hank Mann,2000000.0,125.0,11000000.0,"Comedy; 
+Drama; 
+War 8.5 CharlesChaplin Charles Chaplin;Jack Oakie;Reginald Gardiner;Henry Daniell;Billy Gilbert;Grace Hayle;Carter DeHaven;Paulette Goddard;Maurice Moscovitch;Emma Dunn;Bernard Gorcey;Paul Weigel;Chester Conklin;Esther Michelson;Hank Mann"
+53,Nuovo Cinema Paradiso ,Drama,17 November 1988,8.5,GiuseppeTornatore,Antonella Attili;Enzo Cannavale;Isa Danieli;Leo Gullotta;Marco Leonardi;Pupella Maggio;Agnese Nano;Leopoldo Trieste;Salvatore Cascio;Tano Cimarosa;Nicola Di Pinto;Roberta Lena;Nino Terzo;Jacques Perrin;Philippe Noiret,5000000.0,155.0,,Drama 8.5 GiuseppeTornatore Antonella Attili;Enzo Cannavale;Isa Danieli;Leo Gullotta;Marco Leonardi;Pupella Maggio;Agnese Nano;Leopoldo Trieste;Salvatore Cascio;Tano Cimarosa;Nicola Di Pinto;Roberta Lena;Nino Terzo;Jacques Perrin;Philippe Noiret
+54,Hotaru no haka ,,16 April 1988,8.5,IsaoTakahata,Tsutomu Tatsumi;Ayano Shiraishi;Yoshiko Shinohara;Akemi Yamaguchi;Tadashi Nakamura;Marcy Bannor;Shelley Calene-Black;Luci Christian;Shannon Conley;Justin Doran;Crispin Freeman;Adam Gibbs;Dan Green;Amy Jones;Susan O. Koozin,3700000.0,89.0,, 8.5 IsaoTakahata Tsutomu Tatsumi;Ayano Shiraishi;Yoshiko Shinohara;Akemi Yamaguchi;Tadashi Nakamura;Marcy Bannor;Shelley Calene-Black;Luci Christian;Shannon Conley;Justin Doran;Crispin Freeman;Adam Gibbs;Dan Green;Amy Jones;Susan O. Koozin
+55,Avengers: Infinity War ,"Action; 
+Adventure; 
+Fantasy",27 April 2018,8.5,"JoeRusso,AnthonyRusso",Robert Downey Jr.;Chris Hemsworth;Mark Ruffalo;Chris Evans;Scarlett Johansson;Don Cheadle;Benedict Cumberbatch;Tom Holland;Chadwick Boseman;Zoe Saldana;Karen Gillan;Tom Hiddleston;Paul Bettany;Elizabeth Olsen;Anthony Mackie,321000000.0,149.0,2048709917.0,"Action; 
+Adventure; 
+Fantasy 8.5 JoeRusso,AnthonyRusso Robert Downey Jr.;Chris Hemsworth;Mark Ruffalo;Chris Evans;Scarlett Johansson;Don Cheadle;Benedict Cumberbatch;Tom Holland;Chadwick Boseman;Zoe Saldana;Karen Gillan;Tom Hiddleston;Paul Bettany;Elizabeth Olsen;Anthony Mackie"
+56,Sunset Blvd. ,"Drama; 
+Film-Noir",29 September 1950,8.4,BillyWilder,William Holden;Gloria Swanson;Erich von Stroheim;Nancy Olson;Fred Clark;Lloyd Gough;Jack Webb;Franklyn Farnum;Larry J. Blake;Charles Dayton;Cecil B. DeMille;Hedda Hopper;Buster Keaton;Anna Q. Nilsson;H.B. Warner,1752000.0,110.0,5303175.0,"Drama; 
+Film-Noir 8.4 BillyWilder William Holden;Gloria Swanson;Erich von Stroheim;Nancy Olson;Fred Clark;Lloyd Gough;Jack Webb;Franklyn Farnum;Larry J. Blake;Charles Dayton;Cecil B. DeMille;Hedda Hopper;Buster Keaton;Anna Q. Nilsson;H.B. Warner"
+57,The Lives of Others ,"Drama; 
+Thriller",23 March 2006,8.4,FlorianHenckelvonDonnersmarck,Martina Gedeck;Ulrich Mühe;Sebastian Koch;Ulrich Tukur;Thomas Thieme;Hans-Uwe Bauer;Volkmar Kleinert;Matthias Brenner;Charly Hübner;Herbert Knaup;Bastian Trost;Marie Gruber;Volker Michalowski;Werner Daehn;Martin Brambach,2000000.0,137.0,77356819.0,"Drama; 
+Thriller 8.4 FlorianHenckelvonDonnersmarck Martina Gedeck;Ulrich Mühe;Sebastian Koch;Ulrich Tukur;Thomas Thieme;Hans-Uwe Bauer;Volkmar Kleinert;Matthias Brenner;Charly Hübner;Herbert Knaup;Bastian Trost;Marie Gruber;Volker Michalowski;Werner Daehn;Martin Brambach"
+58,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ,Comedy,29 January 1964,8.4,StanleyKubrick,Peter Sellers;George C. Scott;Sterling Hayden;Keenan Wynn;Slim Pickens;Peter Bull;James Earl Jones;Tracy Reed;Jack Creley;Frank Berry;Robert O'Neil;Glenn Beck;Roy Stephens;Shane Rimmer;Hal Galili,1800000.0,95.0,,Comedy 8.4 StanleyKubrick Peter Sellers;George C. Scott;Sterling Hayden;Keenan Wynn;Slim Pickens;Peter Bull;James Earl Jones;Tracy Reed;Jack Creley;Frank Berry;Robert O'Neil;Glenn Beck;Roy Stephens;Shane Rimmer;Hal Galili
+59,Paths of Glory ,"Drama; 
+War",November 1957,8.4,StanleyKubrick,Kirk Douglas;Ralph Meeker;Adolphe Menjou;George Macready;Wayne Morris;Richard Anderson;Joe Turkel;Christiane Kubrick;Jerry Hausner;Peter Capell;Emile Meyer;Bert Freed;Kem Dibbs;Timothy Carey;Fred Bell,935000.0,88.0,,"Drama; 
+War 8.4 StanleyKubrick Kirk Douglas;Ralph Meeker;Adolphe Menjou;George Macready;Wayne Morris;Richard Anderson;Joe Turkel;Christiane Kubrick;Jerry Hausner;Peter Capell;Emile Meyer;Bert Freed;Kem Dibbs;Timothy Carey;Fred Bell"
+60,The Shining ,"Drama; 
+Horror",13 June 1980,8.4,StanleyKubrick,Jack Nicholson;Shelley Duvall;Danny Lloyd;Scatman Crothers;Barry Nelson;Philip Stone;Joe Turkel;Anne Jackson;Tony Burton;Lia Beldam;Billie Gibson;Barry Dennen;David Baxt;Manning Redwood;Lisa Burns,19000000.0,144.0,,"Drama; 
+Horror 8.4 StanleyKubrick Jack Nicholson;Shelley Duvall;Danny Lloyd;Scatman Crothers;Barry Nelson;Philip Stone;Joe Turkel;Anne Jackson;Tony Burton;Lia Beldam;Billie Gibson;Barry Dennen;David Baxt;Manning Redwood;Lisa Burns"
+61,Django Unchained ,"Drama; 
+Western",25 December 2012,8.4,QuentinTarantino,Jamie Foxx;Christoph Waltz;Leonardo DiCaprio;Kerry Washington;Samuel L. Jackson;Walton Goggins;Dennis Christopher;James Remar;David Steen;Dana Gourrier;Nichole Galicia;Laura Cayouette;Ato Essandoh;Sammi Rotibi;Clay Donahue Fontenot,100000000.0,165.0,425368238.0,"Drama; 
+Western 8.4 QuentinTarantino Jamie Foxx;Christoph Waltz;Leonardo DiCaprio;Kerry Washington;Samuel L. Jackson;Walton Goggins;Dennis Christopher;James Remar;David Steen;Dana Gourrier;Nichole Galicia;Laura Cayouette;Ato Essandoh;Sammi Rotibi;Clay Donahue Fontenot"
+62,WALL·E ,,27 June 2008,8.4,AndrewStanton,Ben Burtt;Elissa Knight;Jeff Garlin;Fred Willard;MacInTalk;John Ratzenberger;Kathy Najimy;Sigourney Weaver;Teddy Newton;Bob Bergen;John Cygan;Pete Docter;Paul Eiding;Donald Fullilove;Teresa Ganzel,180000000.0,98.0,534767889.0, 8.4 AndrewStanton Ben Burtt;Elissa Knight;Jeff Garlin;Fred Willard;MacInTalk;John Ratzenberger;Kathy Najimy;Sigourney Weaver;Teddy Newton;Bob Bergen;John Cygan;Pete Docter;Paul Eiding;Donald Fullilove;Teresa Ganzel
+63,Mononoke-hime ,,26 November 1999,8.4,HayaoMiyazaki,Billy Crudup;Billy Bob Thornton;Minnie Driver;John DiMaggio;Claire Danes;John DeMita;Jada Pinkett Smith;Gillian Anderson;Keith David;Corey Burton;Tara Strong;Julia Fletcher;Debi Derryberry;Alex Fernandez;Jack Fletcher,,134.0,159375308.0, 8.4 HayaoMiyazaki Billy Crudup;Billy Bob Thornton;Minnie Driver;John DiMaggio;Claire Danes;John DeMita;Jada Pinkett Smith;Gillian Anderson;Keith David;Corey Burton;Tara Strong;Julia Fletcher;Debi Derryberry;Alex Fernandez;Jack Fletcher
+64,Witness for the Prosecution ,"Crime; 
+Drama; 
+Mystery",6 February 1958,8.4,BillyWilder,Tyrone Power;Marlene Dietrich;Charles Laughton;Elsa Lanchester;John Williams;Henry Daniell;Ian Wolfe;Torin Thatcher;Norma Varden;Una O'Connor;Francis Compton;Philip Tonge;Ruta Lee,3000000.0,116.0,16350000.0,"Crime; 
+Drama; 
+Mystery 8.4 BillyWilder Tyrone Power;Marlene Dietrich;Charles Laughton;Elsa Lanchester;John Williams;Henry Daniell;Ian Wolfe;Torin Thatcher;Norma Varden;Una O'Connor;Francis Compton;Philip Tonge;Ruta Lee"
+65,American Beauty ,Drama,1 October 1999,8.4,SamMendes,Kevin Spacey;Annette Bening;Thora Birch;Wes Bentley;Mena Suvari;Peter Gallagher;Allison Janney;Chris Cooper;Scott Bakula;Sam Robards;Barry Del Sherman;Ara Celi;John Cho;Fort Atkinson;Sue Casey,15000000.0,122.0,226200000.0,Drama 8.4 SamMendes Kevin Spacey;Annette Bening;Thora Birch;Wes Bentley;Mena Suvari;Peter Gallagher;Allison Janney;Chris Cooper;Scott Bakula;Sam Robards;Barry Del Sherman;Ara Celi;John Cho;Fort Atkinson;Sue Casey
+66,The Dark Knight Rises ,"Action; 
+Thriller",20 July 2012,8.4,ChristopherNolan,Christian Bale;Gary Oldman;Tom Hardy;Joseph Gordon-Levitt;Anne Hathaway;Marion Cotillard;Morgan Freeman;Michael Caine;Matthew Modine;Alon Aboutboul;Ben Mendelsohn;Burn Gorman;Daniel Sunjata;Aidan Gillen;Sam Kennard,250000000.0,164.0,1084939099.0,"Action; 
+Thriller 8.4 ChristopherNolan Christian Bale;Gary Oldman;Tom Hardy;Joseph Gordon-Levitt;Anne Hathaway;Marion Cotillard;Morgan Freeman;Michael Caine;Matthew Modine;Alon Aboutboul;Ben Mendelsohn;Burn Gorman;Daniel Sunjata;Aidan Gillen;Sam Kennard"
+67,Oldeuboi ,"Action; 
+Drama; 
+Mystery",21 November 2003,8.4,Chan-wookPark,Min-sik Choi;Ji-tae Yu;Hye-jeong Kang;Dae-han Ji;Dal-su Oh;Byeong-ok Kim;Seung-shin Lee;Jin-seo Yoon;Dae-yeon Lee;Kwang-rok Oh;Tae-kyung Oh;Yeon-Seok Yoo;Il-han Oo;Su-hyeon Kim;Seung-jin Lee,3000000.0,120.0,14980005.0,"Action; 
+Drama; 
+Mystery 8.4 Chan-wookPark Min-sik Choi;Ji-tae Yu;Hye-jeong Kang;Dae-han Ji;Dal-su Oh;Byeong-ok Kim;Seung-shin Lee;Jin-seo Yoon;Dae-yeon Lee;Kwang-rok Oh;Tae-kyung Oh;Yeon-Seok Yoo;Il-han Oo;Su-hyeon Kim;Seung-jin Lee"
+68,Aliens ,"Action; 
+Adventure; 
+Sci-Fi",18 July 1986,8.4,JamesCameron,Sigourney Weaver;Carrie Henn;Michael Biehn;Paul Reiser;Lance Henriksen;Bill Paxton;William Hope;Jenette Goldstein;Al Matthews;Mark Rolston;Ricco Ross;Colette Hiller;Daniel Kash;Cynthia Dale Scott;Tip Tipping,18500000.0,137.0,131060248.0,"Action; 
+Adventure; 
+Sci-Fi 8.4 JamesCameron Sigourney Weaver;Carrie Henn;Michael Biehn;Paul Reiser;Lance Henriksen;Bill Paxton;William Hope;Jenette Goldstein;Al Matthews;Mark Rolston;Ricco Ross;Colette Hiller;Daniel Kash;Cynthia Dale Scott;Tip Tipping"
+69,Once Upon a Time in America ,"Crime; 
+Drama",1 June 1984,8.4,SergioLeone,Robert De Niro;James Woods;Elizabeth McGovern;Treat Williams;Tuesday Weld;Burt Young;Joe Pesci;Danny Aiello;William Forsythe;James Hayden;Darlanne Fluegel;Larry Rapp;Dutch Miller;Robert Harper;Richard Bright,30000000.0,229.0,,"Crime; 
+Drama 8.4 SergioLeone Robert De Niro;James Woods;Elizabeth McGovern;Treat Williams;Tuesday Weld;Burt Young;Joe Pesci;Danny Aiello;William Forsythe;James Hayden;Darlanne Fluegel;Larry Rapp;Dutch Miller;Robert Harper;Richard Bright"
+70,Coco ,,22 November 2017,8.4,"AdrianMolina,LeeUnkrich",Anthony Gonzalez;Gael García Bernal;Benjamin Bratt;Alanna Ubach;Renee Victor;Jaime Camil;Alfonso Arau;Herbert Siguenza;Gabriel Iglesias;Lombardo Boyar;Ana Ofelia Murguía;Natalia Cordova-Buckley;Selene Luna;Edward James Olmos;Sofía Espinosa,175000000.0,109.0,807082196.0," 8.4 AdrianMolina,LeeUnkrich Anthony Gonzalez;Gael García Bernal;Benjamin Bratt;Alanna Ubach;Renee Victor;Jaime Camil;Alfonso Arau;Herbert Siguenza;Gabriel Iglesias;Lombardo Boyar;Ana Ofelia Murguía;Natalia Cordova-Buckley;Selene Luna;Edward James Olmos;Sofía Espinosa"
+71,Das Boot ,"Adventure; 
+Drama; 
+Thriller",17 September 1981,8.4,WolfgangPetersen,Jürgen Prochnow;Herbert Grönemeyer;Klaus Wennemann;Hubertus Bengsch;Martin Semmelrogge;Bernd Tauber;Erwin Leder;Martin May;Heinz Hoenig;Uwe Ochsenknecht;Claude-Oliver Rudolph;Jan Fedder;Ralf Richter;Joachim Bernhard;Oliver Stritzel,14000000.0,149.0,73482661.0,"Adventure; 
+Drama; 
+Thriller 8.4 WolfgangPetersen Jürgen Prochnow;Herbert Grönemeyer;Klaus Wennemann;Hubertus Bengsch;Martin Semmelrogge;Bernd Tauber;Erwin Leder;Martin May;Heinz Hoenig;Uwe Ochsenknecht;Claude-Oliver Rudolph;Jan Fedder;Ralf Richter;Joachim Bernhard;Oliver Stritzel"
+72,Citizen Kane ,"Drama; 
+Mystery",5 September 1941,8.4,OrsonWelles,Joseph Cotten;Dorothy Comingore;Agnes Moorehead;Ruth Warrick;Ray Collins;Erskine Sanford;Everett Sloane;William Alland;Paul Stewart;George Coulouris;Fortunio Bonanova;Gus Schilling;Philip Van Zandt;Georgia Backus;Harry Shannon,839727.0,119.0,,"Drama; 
+Mystery 8.4 OrsonWelles Joseph Cotten;Dorothy Comingore;Agnes Moorehead;Ruth Warrick;Ray Collins;Erskine Sanford;Everett Sloane;William Alland;Paul Stewart;George Coulouris;Fortunio Bonanova;Gus Schilling;Philip Van Zandt;Georgia Backus;Harry Shannon"
+73,Braveheart ,,24 May 1995,8.4,MelGibson,James Robinson;Sean Lawlor;Sandy Nelson;James Cosmo;Sean McGinley;Alan Tall;Andrew Weir;Gerda Stevenson;Ralph Riach;Mhairi Calvey;Brian Cox;Patrick McGoohan;Peter Hanly;Sophie Marceau;Stephen Billington,72000000.0,178.0,210409945.0, 8.4 MelGibson James Robinson;Sean Lawlor;Sandy Nelson;James Cosmo;Sean McGinley;Alan Tall;Andrew Weir;Gerda Stevenson;Ralph Riach;Mhairi Calvey;Brian Cox;Patrick McGoohan;Peter Hanly;Sophie Marceau;Stephen Billington
+74,Vertigo ,"Mystery; 
+Romance; 
+Thriller",21 July 1958,8.3,AlfredHitchcock,James Stewart;Kim Novak;Barbara Bel Geddes;Tom Helmore;Henry Jones;Raymond Bailey;Ellen Corby;Konstantin Shayne;Lee Patrick,2479000.0,128.0,25000000.0,"Mystery; 
+Romance; 
+Thriller 8.3 AlfredHitchcock James Stewart;Kim Novak;Barbara Bel Geddes;Tom Helmore;Henry Jones;Raymond Bailey;Ellen Corby;Konstantin Shayne;Lee Patrick"
+75,North by Northwest ,"Adventure; 
+Mystery; 
+Thriller",26 September 1959,8.3,AlfredHitchcock,Cary Grant;Eva Marie Saint;James Mason;Jessie Royce Landis;Leo G. Carroll;Josephine Hutchinson;Philip Ober;Martin Landau;Adam Williams;Edward Platt;Robert Ellenstein;Les Tremayne;Philip Coolidge;Patrick McVey;Edward Binns,3101000.0,136.0,22213000.0,"Adventure; 
+Mystery; 
+Thriller 8.3 AlfredHitchcock Cary Grant;Eva Marie Saint;James Mason;Jessie Royce Landis;Leo G. Carroll;Josephine Hutchinson;Philip Ober;Martin Landau;Adam Williams;Edward Platt;Robert Ellenstein;Les Tremayne;Philip Coolidge;Patrick McVey;Edward Binns"
+76,Reservoir Dogs ,"Crime; 
+Drama; 
+Thriller",2 September 1992,8.3,QuentinTarantino,Harvey Keitel;Tim Roth;Michael Madsen;Chris Penn;Steve Buscemi;Lawrence Tierney;Randy Brooks;Kirk Baltz;Edward Bunker;Quentin Tarantino;Rich Turner;David Steen;Tony Cosmo;Stevo Polyi;Michael Sottile,1200000.0,99.0,,"Crime; 
+Drama; 
+Thriller 8.3 QuentinTarantino Harvey Keitel;Tim Roth;Michael Madsen;Chris Penn;Steve Buscemi;Lawrence Tierney;Randy Brooks;Kirk Baltz;Edward Bunker;Quentin Tarantino;Rich Turner;David Steen;Tony Cosmo;Stevo Polyi;Michael Sottile"
+77,Star Wars: Episode VI - Return of the Jedi ,"Action; 
+Adventure; 
+Fantasy",25 May 1983,8.3,RichardMarquand,Mark Hamill;Harrison Ford;Carrie Fisher;Billy Dee Williams;Anthony Daniels;Peter Mayhew;Sebastian Shaw;Ian McDiarmid;Frank Oz;James Earl Jones;David Prowse;Alec Guinness;Kenny Baker;Michael Pennington;Kenneth Colley,32500000.0,131.0,572705079.0,"Action; 
+Adventure; 
+Fantasy 8.3 RichardMarquand Mark Hamill;Harrison Ford;Carrie Fisher;Billy Dee Williams;Anthony Daniels;Peter Mayhew;Sebastian Shaw;Ian McDiarmid;Frank Oz;James Earl Jones;David Prowse;Alec Guinness;Kenny Baker;Michael Pennington;Kenneth Colley"
+78,M - Eine Stadt sucht einen Mörder ,"Crime; 
+Mystery; 
+Thriller",31 August 1931,8.3,FritzLang,Peter Lorre;Ellen Widmann;Inge Landgut;Otto Wernicke;Theodor Loos;Gustaf Gründgens;Friedrich Gnaß;Fritz Odemar;Paul Kemp;Theo Lingen;Rudolf Blümner;Georg John;Franz Stein;Ernst Stahl-Nachbaur;Gerhard Bienert,,117.0,,"Crime; 
+Mystery; 
+Thriller 8.3 FritzLang Peter Lorre;Ellen Widmann;Inge Landgut;Otto Wernicke;Theodor Loos;Gustaf Gründgens;Friedrich Gnaß;Fritz Odemar;Paul Kemp;Theo Lingen;Rudolf Blümner;Georg John;Franz Stein;Ernst Stahl-Nachbaur;Gerhard Bienert"
+79,Kimi no na wa. ,,26 August 2016,8.4,MakotoShinkai,Ryûnosuke Kamiki;Mone Kamishiraishi;Ryô Narita;Aoi Yûki;Nobunaga Shimazaki;Kaito Ishikawa;Kanon Tani;Masaki Terasoma;Sayaka Ôhara;Kazuhiko Inoue;Chafûrin;Kana Hanazawa;Yuka Terasaki;Takashi Onozuka;Yôhei Namekawa,,106.0,357986087.0, 8.4 MakotoShinkai Ryûnosuke Kamiki;Mone Kamishiraishi;Ryô Narita;Aoi Yûki;Nobunaga Shimazaki;Kaito Ishikawa;Kanon Tani;Masaki Terasoma;Sayaka Ôhara;Kazuhiko Inoue;Chafûrin;Kana Hanazawa;Yuka Terasaki;Takashi Onozuka;Yôhei Namekawa
+80,Amadeus ,,19 September 1984,8.3,MilosForman,F. Murray Abraham;Tom Hulce;Elizabeth Berridge;Roy Dotrice;Simon Callow;Christine Ebersole;Jeffrey Jones;Charles Kay;Kenneth McMillan;Kenny Baker;Lisbeth Bartlett;Barbara Bryne;Martin Cavina;Roderick Cook;Milan Demjanenko,18000000.0,160.0,, 8.3 MilosForman F. Murray Abraham;Tom Hulce;Elizabeth Berridge;Roy Dotrice;Simon Callow;Christine Ebersole;Jeffrey Jones;Charles Kay;Kenneth McMillan;Kenny Baker;Lisbeth Bartlett;Barbara Bryne;Martin Cavina;Roderick Cook;Milan Demjanenko
+81,Requiem for a Dream ,Drama,3 November 2000,8.3,DarrenAronofsky,Ellen Burstyn;Jared Leto;Jennifer Connelly;Marlon Wayans;Christopher McDonald;Louise Lasser;Marcia Jean Kurtz;Janet Sarno;Suzanne Shepherd;Joanne Gordon;Charlotte Aronofsky;Mark Margolis;Michael Kaycheck;Jack O'Connell;Chas Mastin,4500000.0,102.0,7390108.0,Drama 8.3 DarrenAronofsky Ellen Burstyn;Jared Leto;Jennifer Connelly;Marlon Wayans;Christopher McDonald;Louise Lasser;Marcia Jean Kurtz;Janet Sarno;Suzanne Shepherd;Joanne Gordon;Charlotte Aronofsky;Mark Margolis;Michael Kaycheck;Jack O'Connell;Chas Mastin
+82,Dangal ,"Action; 
+Biography; 
+Drama",23 December 2016,8.5,NiteshTiwari,Aamir Khan;Fatima Sana Shaikh;Sanya Malhotra;Sakshi Tanwar;Aparshakti Khurana;Zaira Wasim;Suhani Bhatnagar;Ritvik Sahore;Girish Kulkarni;Ravi Aneja;Anurag Arora;Mahesh Balraj;Vivan Bhatena;Anmol Charan;Karmveer Choudhary,,161.0,310000000.0,"Action; 
+Biography; 
+Drama 8.5 NiteshTiwari Aamir Khan;Fatima Sana Shaikh;Sanya Malhotra;Sakshi Tanwar;Aparshakti Khurana;Zaira Wasim;Suhani Bhatnagar;Ritvik Sahore;Girish Kulkarni;Ravi Aneja;Anurag Arora;Mahesh Balraj;Vivan Bhatena;Anmol Charan;Karmveer Choudhary"
+83,Taare Zameen Par ,"Drama; 
+Family",21 December 2007,8.4,"AamirKhan,AmoleGupte",Darsheel Safary;Aamir Khan;Tisca Chopra;Vipin Sharma;Sachet Engineer;Tanay Chheda;Lalitha Lajmi;Girija Oak;Ravi Khanvilkar;Pratima Kulkarni;Meghna Malik;Sonali Sachdev;Sanjay Dadich;Raaj Gopal Iyer;Bugs Bhargava,,165.0,21897373.0,"Drama; 
+Family 8.4 AamirKhan,AmoleGupte Darsheel Safary;Aamir Khan;Tisca Chopra;Vipin Sharma;Sachet Engineer;Tanay Chheda;Lalitha Lajmi;Girija Oak;Ravi Khanvilkar;Pratima Kulkarni;Meghna Malik;Sonali Sachdev;Sanjay Dadich;Raaj Gopal Iyer;Bugs Bhargava"
+84,Lawrence of Arabia ,"Adventure; 
+Biography; 
+Drama",30 January 1963,8.3,DavidLean,Peter O'Toole;Alec Guinness;Anthony Quinn;Jack Hawkins;Omar Sharif;José Ferrer;Anthony Quayle;Claude Rains;Arthur Kennedy;Donald Wolfit;I.S. Johar;Gamil Ratib;Michel Ray;John Dimech;Zia Mohyeddin,15000000.0,216.0,77324144.0,"Adventure; 
+Biography; 
+Drama 8.3 DavidLean Peter O'Toole;Alec Guinness;Anthony Quinn;Jack Hawkins;Omar Sharif;José Ferrer;Anthony Quayle;Claude Rains;Arthur Kennedy;Donald Wolfit;I.S. Johar;Gamil Ratib;Michel Ray;John Dimech;Zia Mohyeddin"
+85,Eternal Sunshine of the Spotless Mind ,"Drama; 
+Romance; 
+Sci-Fi",19 March 2004,8.3,MichelGondry,Jim Carrey;Kate Winslet;Gerry Robert Byrne;Elijah Wood;Thomas Jay Ryan;Mark Ruffalo;Jane Adams;David Cross;Kirsten Dunst;Tom Wilkinson;Ryan Whitney;Debbon Ayer;Amir Ali Said;Brian Price;Paulie Litt,20000000.0,108.0,73169222.0,"Drama; 
+Romance; 
+Sci-Fi 8.3 MichelGondry Jim Carrey;Kate Winslet;Gerry Robert Byrne;Elijah Wood;Thomas Jay Ryan;Mark Ruffalo;Jane Adams;David Cross;Kirsten Dunst;Tom Wilkinson;Ryan Whitney;Debbon Ayer;Amir Ali Said;Brian Price;Paulie Litt"
+86,A Clockwork Orange ,"Crime; 
+Drama; 
+Sci-Fi",13 January 1972,8.3,StanleyKubrick,Malcolm McDowell;Patrick Magee;Michael Bates;Warren Clarke;John Clive;Adrienne Corri;Carl Duering;Paul Farrell;Clive Francis;Michael Gover;Miriam Karlin;James Marcus;Aubrey Morris;Godfrey Quigley;Sheila Raynor,2200000.0,136.0,,"Crime; 
+Drama; 
+Sci-Fi 8.3 StanleyKubrick Malcolm McDowell;Patrick Magee;Michael Bates;Warren Clarke;John Clive;Adrienne Corri;Carl Duering;Paul Farrell;Clive Francis;Michael Gover;Miriam Karlin;James Marcus;Aubrey Morris;Godfrey Quigley;Sheila Raynor"
+87,3 Idiots ,"Comedy; 
+Drama",25 December 2009,8.4,RajkumarHirani,Aamir Khan;Madhavan;Sharman Joshi;Kareena Kapoor;Boman Irani;Omi Vaidya;Mona Singh;Javed Jaffrey;Parikshat Sahni;Olivier Lafont;Rahul Kumar;Amardeep Jha;Farida Dadi;Mukund Bhatt;Chaitali Bose,,170.0,80000000.0,"Comedy; 
+Drama 8.4 RajkumarHirani Aamir Khan;Madhavan;Sharman Joshi;Kareena Kapoor;Boman Irani;Omi Vaidya;Mona Singh;Javed Jaffrey;Parikshat Sahni;Olivier Lafont;Rahul Kumar;Amardeep Jha;Farida Dadi;Mukund Bhatt;Chaitali Bose"
+88,2001: A Space Odyssey ,"Adventure; 
+Sci-Fi",12 May 1968,8.3,StanleyKubrick,Keir Dullea;Gary Lockwood;William Sylvester;Daniel Richter;Leonard Rossiter;Margaret Tyzack;Robert Beatty;Sean Sullivan;Douglas Rain;Frank Miller;Bill Weston;Ed Bishop;Glenn Beck;Alan Gifford;Ann Gillis,12000000.0,149.0,190700000.0,"Adventure; 
+Sci-Fi 8.3 StanleyKubrick Keir Dullea;Gary Lockwood;William Sylvester;Daniel Richter;Leonard Rossiter;Margaret Tyzack;Robert Beatty;Sean Sullivan;Douglas Rain;Frank Miller;Bill Weston;Ed Bishop;Glenn Beck;Alan Gifford;Ann Gillis"
+89,Amélie ,"Comedy; 
+Romance",9 November 2001,8.3,Jean-PierreJeunet,Audrey Tautou;Mathieu Kassovitz;Rufus;Lorella Cravotta;Serge Merlin;Jamel Debbouze;Clotilde Mollet;Claire Maurier;Isabelle Nanty;Dominique Pinon;Artus de Penguern;Yolande Moreau;Urbain Cancelier;Maurice Bénichou;Michel Robin,,122.0,173921954.0,"Comedy; 
+Romance 8.3 Jean-PierreJeunet Audrey Tautou;Mathieu Kassovitz;Rufus;Lorella Cravotta;Serge Merlin;Jamel Debbouze;Clotilde Mollet;Claire Maurier;Isabelle Nanty;Dominique Pinon;Artus de Penguern;Yolande Moreau;Urbain Cancelier;Maurice Bénichou;Michel Robin"
+90,Toy Story ,,22 November 1995,8.3,JohnLasseter,Tom Hanks;Tim Allen;Don Rickles;Jim Varney;Wallace Shawn;John Ratzenberger;Annie Potts;John Morris;Erik von Detten;Laurie Metcalf;R. Lee Ermey;Sarah Freeman;Penn Jillette;Jack Angel;Spencer Aste,30000000.0,81.0,373554033.0, 8.3 JohnLasseter Tom Hanks;Tim Allen;Don Rickles;Jim Varney;Wallace Shawn;John Ratzenberger;Annie Potts;John Morris;Erik von Detten;Laurie Metcalf;R. Lee Ermey;Sarah Freeman;Penn Jillette;Jack Angel;Spencer Aste
+91,Double Indemnity ,"Crime; 
+Drama; 
+Film-Noir",6 July 1944,8.3,BillyWilder,Fred MacMurray;Barbara Stanwyck;Edward G. Robinson;Porter Hall;Jean Heather;Tom Powers;Byron Barr;Richard Gaines;Fortunio Bonanova;John Philliber,927262.0,107.0,,"Crime; 
+Drama; 
+Film-Noir 8.3 BillyWilder Fred MacMurray;Barbara Stanwyck;Edward G. Robinson;Porter Hall;Jean Heather;Tom Powers;Byron Barr;Richard Gaines;Fortunio Bonanova;John Philliber"
+92,Taxi Driver ,"Crime; 
+Drama",8 February 1976,8.3,MartinScorsese,Diahnne Abbott;Frank Adu;Victor Argo;Gino Ardito;Garth Avery;Peter Boyle;Albert Brooks;Harry Cohn;Copper Cunningham;Robert De Niro;Brenda Dickson;Harry Fischler;Jodie Foster;Nat Grant;Leonard Harris,1300000.0,114.0,,"Crime; 
+Drama 8.3 MartinScorsese Diahnne Abbott;Frank Adu;Victor Argo;Gino Ardito;Garth Avery;Peter Boyle;Albert Brooks;Harry Cohn;Copper Cunningham;Robert De Niro;Brenda Dickson;Harry Fischler;Jodie Foster;Nat Grant;Leonard Harris"
+93,Singin' in the Rain ,"Comedy; 
+Musical; 
+Romance",11 April 1952,8.3,"GeneKelly,StanleyDonen",Gene Kelly;Donald O'Connor;Debbie Reynolds;Jean Hagen;Millard Mitchell;Cyd Charisse;Douglas Fowley;Rita Moreno,2540800.0,103.0,13979088.0,"Comedy; 
+Musical; 
+Romance 8.3 GeneKelly,StanleyDonen Gene Kelly;Donald O'Connor;Debbie Reynolds;Jean Hagen;Millard Mitchell;Cyd Charisse;Douglas Fowley;Rita Moreno"
+94,Inglourious Basterds ,"Adventure; 
+Drama; 
+War",21 August 2009,8.3,QuentinTarantino,Brad Pitt;Mélanie Laurent;Christoph Waltz;Eli Roth;Michael Fassbender;Diane Kruger;Daniel Brühl;Til Schweiger;Gedeon Burkhard;Jacky Ido;B.J. Novak;Omar Doom;August Diehl;Denis Ménochet;Sylvester Groth,75000000.0,153.0,313600000.0,"Adventure; 
+Drama; 
+War 8.3 QuentinTarantino Brad Pitt;Mélanie Laurent;Christoph Waltz;Eli Roth;Michael Fassbender;Diane Kruger;Daniel Brühl;Til Schweiger;Gedeon Burkhard;Jacky Ido;B.J. Novak;Omar Doom;August Diehl;Denis Ménochet;Sylvester Groth"
+95,Full Metal Jacket ,"Drama; 
+War",10 July 1987,8.3,StanleyKubrick,Matthew Modine;Adam Baldwin;Vincent D'Onofrio;R. Lee Ermey;Dorian Harewood;Kevyn Major Howard;Arliss Howard;Ed O'Ross;John Terry;Kieron Jecchinis;Kirk Taylor;Tim Colceri;Jon Stafford;Bruce Boa;Ian Tyler,30000000.0,116.0,,"Drama; 
+War 8.3 StanleyKubrick Matthew Modine;Adam Baldwin;Vincent D'Onofrio;R. Lee Ermey;Dorian Harewood;Kevyn Major Howard;Arliss Howard;Ed O'Ross;John Terry;Kieron Jecchinis;Kirk Taylor;Tim Colceri;Jon Stafford;Bruce Boa;Ian Tyler"
+96,To Kill a Mockingbird ,"Crime; 
+Drama",16 March 1963,8.3,RobertMulligan,Gregory Peck;John Megna;Frank Overton;Rosemary Murphy;Ruth White;Brock Peters;Estelle Evans;Paul Fix;Collin Wilcox Paxton;James Anderson;Alice Ghostley;Robert Duvall;William Windom;Crahan Denton;Richard Hale,2000000.0,129.0,,"Crime; 
+Drama 8.3 RobertMulligan Gregory Peck;John Megna;Frank Overton;Rosemary Murphy;Ruth White;Brock Peters;Estelle Evans;Paul Fix;Collin Wilcox Paxton;James Anderson;Alice Ghostley;Robert Duvall;William Windom;Crahan Denton;Richard Hale"
+97,Ladri di biciclette ,Drama,24 November 1948,8.3,VittorioDeSica,Lamberto Maggiorani;Enzo Staiola;Lianella Carell;Elena Altieri;Gino Saltamerenda;Giulio Chiari;Vittorio Antonucci;Michele Sakara;Fausto Guerzoni;Emma Druetti;Carlo Jachino,133000.0,89.0,,Drama 8.3 VittorioDeSica Lamberto Maggiorani;Enzo Staiola;Lianella Carell;Elena Altieri;Gino Saltamerenda;Giulio Chiari;Vittorio Antonucci;Michele Sakara;Fausto Guerzoni;Emma Druetti;Carlo Jachino
+98,The Kid ,"Comedy; 
+Drama; 
+Family",6 February 1921,8.3,CharlesChaplin,Carl Miller;Edna Purviance;Jackie Coogan;Charles Chaplin,250000.0,68.0,,"Comedy; 
+Drama; 
+Family 8.3 CharlesChaplin Carl Miller;Edna Purviance;Jackie Coogan;Charles Chaplin"
+99,The Sting ,"Comedy; 
+Crime; 
+Drama",25 December 1973,8.3,GeorgeRoyHill,Paul Newman;Robert Redford;Robert Shaw;Charles Durning;Ray Walston;Eileen Brennan;Harold Gould;John Heffernan;Dana Elcar;Jack Kehoe;Dimitra Arliss;Robert Earl Jones;James Sloyan;Charles Dierkop;Lee Paul,5500000.0,129.0,,"Comedy; 
+Crime; 
+Drama 8.3 GeorgeRoyHill Paul Newman;Robert Redford;Robert Shaw;Charles Durning;Ray Walston;Eileen Brennan;Harold Gould;John Heffernan;Dana Elcar;Jack Kehoe;Dimitra Arliss;Robert Earl Jones;James Sloyan;Charles Dierkop;Lee Paul"
+100,Good Will Hunting ,"Drama; 
+Romance",9 January 1998,8.3,GusVanSant,Matt Damon;Ben Affleck;Stellan Skarsgård;John Mighton;Rachel Majorowski;Colleen McCauley;Casey Affleck;Cole Hauser;Matt Mercier;Ralph St. George;Rob Lynds;Dan Washington;Alison Folland;Derrick Bridgeman;Vik Sahay,10000000.0,126.0,225933435.0,"Drama; 
+Romance 8.3 GusVanSant Matt Damon;Ben Affleck;Stellan Skarsgård;John Mighton;Rachel Majorowski;Colleen McCauley;Casey Affleck;Cole Hauser;Matt Mercier;Ralph St. George;Rob Lynds;Dan Washington;Alison Folland;Derrick Bridgeman;Vik Sahay"
+101,Toy Story 3 ,,18 June 2010,8.3,LeeUnkrich,Tom Hanks;Tim Allen;Joan Cusack;Ned Beatty;Don Rickles;Michael Keaton;Wallace Shawn;John Ratzenberger;Estelle Harris;John Morris;Jodi Benson;Emily Hahn;Laurie Metcalf;Blake Clark;Teddy Newton,200000000.0,103.0,1063171911.0, 8.3 LeeUnkrich Tom Hanks;Tim Allen;Joan Cusack;Ned Beatty;Don Rickles;Michael Keaton;Wallace Shawn;John Ratzenberger;Estelle Harris;John Morris;Jodi Benson;Emily Hahn;Laurie Metcalf;Blake Clark;Teddy Newton
+102,Jagten ,Drama,10 January 2013,8.3,ThomasVinterberg,Mads Mikkelsen;Thomas Bo Larsen;Annika Wedderkopp;Lasse Fogelstrøm;Susse Wold;Anne Louise Hassing;Lars Ranthe;Alexandra Rapaport;Sebastian Bull Sarning;Steen Ordell Guldbrand Jensen;Daniel Engstrup;Troels Thorsen;Søren Rønholt;Hana Shuan;Jytte Kvinesdal,3800000.0,115.0,18309793.0,Drama 8.3 ThomasVinterberg Mads Mikkelsen;Thomas Bo Larsen;Annika Wedderkopp;Lasse Fogelstrøm;Susse Wold;Anne Louise Hassing;Lars Ranthe;Alexandra Rapaport;Sebastian Bull Sarning;Steen Ordell Guldbrand Jensen;Daniel Engstrup;Troels Thorsen;Søren Rønholt;Hana Shuan;Jytte Kvinesdal
+103,Snatch ,"Comedy; 
+Crime",1 September 2000,8.3,GuyRitchie,Benicio Del Toro;Dennis Farina;Vinnie Jones;Brad Pitt;Rade Serbedzija;Jason Statham;Alan Ford;Mike Reid;Robbie Gee;Lennie James;Ewen Bremner;Jason Flemyng;Ade;William Beck;Andy Beckwith,,104.0,83557872.0,"Comedy; 
+Crime 8.3 GuyRitchie Benicio Del Toro;Dennis Farina;Vinnie Jones;Brad Pitt;Rade Serbedzija;Jason Statham;Alan Ford;Mike Reid;Robbie Gee;Lennie James;Ewen Bremner;Jason Flemyng;Ade;William Beck;Andy Beckwith"
+104,Scarface ,"Crime; 
+Drama",9 December 1983,8.3,BrianDePalma,Al Pacino;Steven Bauer;Michelle Pfeiffer;Mary Elizabeth Mastrantonio;Robert Loggia;Miriam Colon;F. Murray Abraham;Paul Shenar;Harris Yulin;Ángel Salazar;Arnaldo Santana;Pepe Serna;Michael P. Moran;Al Israel;Dennis Holahan,25000000.0,170.0,65884703.0,"Crime; 
+Drama 8.3 BrianDePalma Al Pacino;Steven Bauer;Michelle Pfeiffer;Mary Elizabeth Mastrantonio;Robert Loggia;Miriam Colon;F. Murray Abraham;Paul Shenar;Harris Yulin;Ángel Salazar;Arnaldo Santana;Pepe Serna;Michael P. Moran;Al Israel;Dennis Holahan"
+105,Monty Python and the Holy Grail ,"Adventure; 
+Comedy; 
+Fantasy",27 June 1975,8.3,"TerryGilliam,TerryJones",Graham Chapman;John Cleese;Eric Idle;Terry Gilliam;Terry Jones;Michael Palin;Connie Booth;Carol Cleveland;Neil Innes;Bee Duffell;John Young;Rita Davies;Avril Stewart;Sally Kinghorn;Mark Zycon,,91.0,5028948.0,"Adventure; 
+Comedy; 
+Fantasy 8.3 TerryGilliam,TerryJones Graham Chapman;John Cleese;Eric Idle;Terry Gilliam;Terry Jones;Michael Palin;Connie Booth;Carol Cleveland;Neil Innes;Bee Duffell;John Young;Rita Davies;Avril Stewart;Sally Kinghorn;Mark Zycon"
+106,Per qualche dollaro in più ,,25 March 1966,8.3,SergioLeone,Clint Eastwood;Lee Van Cleef;Gian Maria Volontè;Mario Brega;Luigi Pistilli;Aldo Sambrell;Klaus Kinski;Benito Stefanelli;Luis Rodríguez;Panos Papadopulos;Mara Krupp;Roberto Camardiel;Joseph Egger;Tomás Blanco;Lorenzo Robledo,600000.0,132.0,, 8.3 SergioLeone Clint Eastwood;Lee Van Cleef;Gian Maria Volontè;Mario Brega;Luigi Pistilli;Aldo Sambrell;Klaus Kinski;Benito Stefanelli;Luis Rodríguez;Panos Papadopulos;Mara Krupp;Roberto Camardiel;Joseph Egger;Tomás Blanco;Lorenzo Robledo
+107,L.A. Confidential ,"Crime; 
+Drama; 
+Mystery",19 September 1997,8.3,CurtisHanson,Kevin Spacey;Russell Crowe;Guy Pearce;James Cromwell;Kim Basinger;Danny DeVito;David Strathairn;Ron Rifkin;Matt McCoy;Paul Guilfoyle;Paolo Seganti;Elisabeth Granli;Sandra Taylor;Steve Rankin;Graham Beckel,35000000.0,138.0,126216940.0,"Crime; 
+Drama; 
+Mystery 8.3 CurtisHanson Kevin Spacey;Russell Crowe;Guy Pearce;James Cromwell;Kim Basinger;Danny DeVito;David Strathairn;Ron Rifkin;Matt McCoy;Paul Guilfoyle;Paolo Seganti;Elisabeth Granli;Sandra Taylor;Steve Rankin;Graham Beckel"
+108,The Apartment ,"Comedy; 
+Drama; 
+Romance",16 September 1960,8.3,BillyWilder,Jack Lemmon;Shirley MacLaine;Fred MacMurray;Ray Walston;Jack Kruschen;David Lewis;Hope Holiday;Joan Shawlee;Naomi Stevens;Johnny Seven;Joyce Jameson;Willard Waterman;David White;Edie Adams,3000000.0,125.0,25000000.0,"Comedy; 
+Drama; 
+Romance 8.3 BillyWilder Jack Lemmon;Shirley MacLaine;Fred MacMurray;Ray Walston;Jack Kruschen;David Lewis;Hope Holiday;Joan Shawlee;Naomi Stevens;Johnny Seven;Joyce Jameson;Willard Waterman;David White;Edie Adams"
+109,Metropolis ,"Drama; 
+Sci-Fi",5 March 1927,8.3,FritzLang,Alfred Abel;Gustav Fröhlich;Rudolf Klein-Rogge;Fritz Rasp;Theodor Loos;Erwin Biswanger;Heinrich George;Brigitte Helm,,153.0,,"Drama; 
+Sci-Fi 8.3 FritzLang Alfred Abel;Gustav Fröhlich;Rudolf Klein-Rogge;Fritz Rasp;Theodor Loos;Erwin Biswanger;Heinrich George;Brigitte Helm"
+110,Jodaeiye Nader az Simin ,Drama,16 March 2011,8.3,AsgharFarhadi,Payman Maadi;Leila Hatami;Sareh Bayat;Shahab Hosseini;Sarina Farhadi;Merila Zare'i;Ali-Asghar Shahbazi;Babak Karimi;Kimia Hosseini;Shirin Yazdanbakhsh;Sohibanoo Zolqadr;Mohammadhasan Asghari;Shirin Azimiyannezhad;Hamid Dadju;Mohammad Ebrahimian,500000.0,123.0,24426169.0,Drama 8.3 AsgharFarhadi Payman Maadi;Leila Hatami;Sareh Bayat;Shahab Hosseini;Sarina Farhadi;Merila Zare'i;Ali-Asghar Shahbazi;Babak Karimi;Kimia Hosseini;Shirin Yazdanbakhsh;Sohibanoo Zolqadr;Mohammadhasan Asghari;Shirin Azimiyannezhad;Hamid Dadju;Mohammad Ebrahimian
+111,Indiana Jones and the Last Crusade ,"Action; 
+Adventure; 
+Fantasy",24 May 1989,8.2,StevenSpielberg,Harrison Ford;Sean Connery;Denholm Elliott;Alison Doody;John Rhys-Davies;Julian Glover;River Phoenix;Michael Byrne;Kevork Malikyan;Robert Eddison;Richard Young;Alexei Sayle;Alex Hyde-White;Paul Maxwell;Isla Blair,48000000.0,127.0,474171806.0,"Action; 
+Adventure; 
+Fantasy 8.2 StevenSpielberg Harrison Ford;Sean Connery;Denholm Elliott;Alison Doody;John Rhys-Davies;Julian Glover;River Phoenix;Michael Byrne;Kevork Malikyan;Robert Eddison;Richard Young;Alexei Sayle;Alex Hyde-White;Paul Maxwell;Isla Blair"
+112,Rashômon ,"Crime; 
+Drama; 
+Mystery",26 August 1950,8.3,AkiraKurosawa,Toshirô Mifune;Machiko Kyô;Masayuki Mori;Takashi Shimura;Minoru Chiaki;Kichijirô Ueda;Noriko Honma;Daisuke Katô,250000.0,88.0,,"Crime; 
+Drama; 
+Mystery 8.3 AkiraKurosawa Toshirô Mifune;Machiko Kyô;Masayuki Mori;Takashi Shimura;Minoru Chiaki;Kichijirô Ueda;Noriko Honma;Daisuke Katô"
+113,Up ,,29 May 2009,8.3,PeteDocter,Edward Asner;Christopher Plummer;Jordan Nagai;Bob Peterson;Delroy Lindo;Jerome Ranft;John Ratzenberger;David Kaye;Elie Docter;Jeremy Leary;Mickie McGowan;Danny Mann;Donald Fullilove;Jess Harnell;Josh Cooley,175000000.0,96.0,731342744.0, 8.3 PeteDocter Edward Asner;Christopher Plummer;Jordan Nagai;Bob Peterson;Delroy Lindo;Jerome Ranft;John Ratzenberger;David Kaye;Elie Docter;Jeremy Leary;Mickie McGowan;Danny Mann;Donald Fullilove;Jess Harnell;Josh Cooley
+114,All About Eve ,Drama,27 October 1950,8.3,JosephL.Mankiewicz,Bette Davis;Anne Baxter;George Sanders;Celeste Holm;Gary Merrill;Hugh Marlowe;Gregory Ratoff;Barbara Bates;Marilyn Monroe;Thelma Ritter;Walter Hampden;Randy Stuart;Craig Hill;Leland Harris;Barbara White,1400000.0,138.0,,Drama 8.3 JosephL.Mankiewicz Bette Davis;Anne Baxter;George Sanders;Celeste Holm;Gary Merrill;Hugh Marlowe;Gregory Ratoff;Barbara Bates;Marilyn Monroe;Thelma Ritter;Walter Hampden;Randy Stuart;Craig Hill;Leland Harris;Barbara White
+115,Batman Begins ,"Action; 
+Adventure; 
+Thriller",15 June 2005,8.3,ChristopherNolan,Christian Bale;Michael Caine;Liam Neeson;Katie Holmes;Gary Oldman;Cillian Murphy;Tom Wilkinson;Rutger Hauer;Ken Watanabe;Mark Boone Junior;Linus Roache;Morgan Freeman;Larry Holden;Gerard Murphy;Colin McFarlane,150000000.0,140.0,374218673.0,"Action; 
+Adventure; 
+Thriller 8.3 ChristopherNolan Christian Bale;Michael Caine;Liam Neeson;Katie Holmes;Gary Oldman;Cillian Murphy;Tom Wilkinson;Rutger Hauer;Ken Watanabe;Mark Boone Junior;Linus Roache;Morgan Freeman;Larry Holden;Gerard Murphy;Colin McFarlane"
+116,Yôjinbô ,"Action; 
+Drama; 
+Thriller",25 April 1961,8.3,AkiraKurosawa,Toshirô Mifune;Tatsuya Nakadai;Yôko Tsukasa;Isuzu Yamada;Daisuke Katô;Seizaburô Kawazu;Takashi Shimura;Hiroshi Tachikawa;Yôsuke Natsuki;Eijirô Tôno;Kamatari Fujiwara;Ikio Sawamura;Atsushi Watanabe;Susumu Fujita;Kyû Sazanka,,110.0,,"Action; 
+Drama; 
+Thriller 8.3 AkiraKurosawa Toshirô Mifune;Tatsuya Nakadai;Yôko Tsukasa;Isuzu Yamada;Daisuke Katô;Seizaburô Kawazu;Takashi Shimura;Hiroshi Tachikawa;Yôsuke Natsuki;Eijirô Tôno;Kamatari Fujiwara;Ikio Sawamura;Atsushi Watanabe;Susumu Fujita;Kyû Sazanka"
+117,Some Like It Hot ,"Comedy; 
+Romance",14 April 1959,8.2,BillyWilder,Marilyn Monroe;Tony Curtis;Jack Lemmon;George Raft;Pat O'Brien;Joe E. Brown;Nehemiah Persoff;Joan Shawlee;Billy Gray;George E. Stone;Dave Barry;Mike Mazurki;Harry Wilson;Beverly Wills;Barbara Drew,2883848.0,121.0,,"Comedy; 
+Romance 8.2 BillyWilder Marilyn Monroe;Tony Curtis;Jack Lemmon;George Raft;Pat O'Brien;Joe E. Brown;Nehemiah Persoff;Joan Shawlee;Billy Gray;George E. Stone;Dave Barry;Mike Mazurki;Harry Wilson;Beverly Wills;Barbara Drew"
+118,Unforgiven ,"Drama; 
+Western",7 August 1992,8.2,ClintEastwood,Clint Eastwood;Gene Hackman;Morgan Freeman;Richard Harris;Jaimz Woolvett;Saul Rubinek;Frances Fisher;Anna Levine;David Mucci;Rob Campbell;Anthony James;Tara Frederick;Beverley Elliott;Liisa Repo-Martell;Josie Smith,14400000.0,130.0,159157447.0,"Drama; 
+Western 8.2 ClintEastwood Clint Eastwood;Gene Hackman;Morgan Freeman;Richard Harris;Jaimz Woolvett;Saul Rubinek;Frances Fisher;Anna Levine;David Mucci;Rob Campbell;Anthony James;Tara Frederick;Beverley Elliott;Liisa Repo-Martell;Josie Smith"
+119,Der Untergang ,,16 September 2004,8.2,OliverHirschbiegel,Bruno Ganz;Alexandra Maria Lara;Corinna Harfouch;Ulrich Matthes;Juliane Köhler;Heino Ferch;Christian Berkel;Matthias Habich;Thomas Kretschmann;Michael Mendl;André Hennicke;Ulrich Noethen;Birgit Minichmayr;Rolf Kanies;Justus von Dohnányi,,156.0,92180910.0, 8.2 OliverHirschbiegel Bruno Ganz;Alexandra Maria Lara;Corinna Harfouch;Ulrich Matthes;Juliane Köhler;Heino Ferch;Christian Berkel;Matthias Habich;Thomas Kretschmann;Michael Mendl;André Hennicke;Ulrich Noethen;Birgit Minichmayr;Rolf Kanies;Justus von Dohnányi
+120,Die Hard ,"Action; 
+Thriller",20 July 1988,8.2,JohnMcTiernan,Bruce Willis;Bonnie Bedelia;Reginald VelJohnson;Paul Gleason;William Atherton;Hart Bochner;James Shigeta;Alan Rickman;Alexander Godunov;Bruno Doyon;De'voreaux White;Andreas Wisniewski;Clarence Gilyard Jr.;Joey Plewa;Lorenzo Caccialanza,28000000.0,132.0,140767956.0,"Action; 
+Thriller 8.2 JohnMcTiernan Bruce Willis;Bonnie Bedelia;Reginald VelJohnson;Paul Gleason;William Atherton;Hart Bochner;James Shigeta;Alan Rickman;Alexander Godunov;Bruno Doyon;De'voreaux White;Andreas Wisniewski;Clarence Gilyard Jr.;Joey Plewa;Lorenzo Caccialanza"
+121,The Treasure of the Sierra Madre ,"Adventure; 
+Drama; 
+Western",24 January 1948,8.2,JohnHuston,Humphrey Bogart;Walter Huston;Tim Holt;Bruce Bennett;Barton MacLane;Alfonso Bedoya;Arturo Soto Rangel;Manuel Dondé;José Torvay;Margarito Luna,3000000.0,126.0,,"Adventure; 
+Drama; 
+Western 8.2 JohnHuston Humphrey Bogart;Walter Huston;Tim Holt;Bruce Bennett;Barton MacLane;Alfonso Bedoya;Arturo Soto Rangel;Manuel Dondé;José Torvay;Margarito Luna"
+122,Heat ,"Crime; 
+Drama; 
+Thriller",15 December 1995,8.2,MichaelMann,Al Pacino;Robert De Niro;Val Kilmer;Jon Voight;Tom Sizemore;Diane Venora;Amy Brenneman;Ashley Judd;Mykelti Williamson;Wes Studi;Ted Levine;Dennis Haysbert;William Fichtner;Natalie Portman;Tom Noonan,60000000.0,170.0,107000000.0,"Crime; 
+Drama; 
+Thriller 8.2 MichaelMann Al Pacino;Robert De Niro;Val Kilmer;Jon Voight;Tom Sizemore;Diane Venora;Amy Brenneman;Ashley Judd;Mykelti Williamson;Wes Studi;Ted Levine;Dennis Haysbert;William Fichtner;Natalie Portman;Tom Noonan"
+123,Ikiru ,Drama,9 October 1952,8.3,AkiraKurosawa,Takashi Shimura;Shin'ichi Himori;Haruo Tanaka;Minoru Chiaki;Miki Odagiri;Bokuzen Hidari;Minosuke Yamada;Kamatari Fujiwara;Makoto Kobori;Nobuo Kaneko;Nobuo Nakamura;Atsushi Watanabe;Isao Kimura;Masao Shimizu;Yûnosuke Itô,,143.0,,Drama 8.3 AkiraKurosawa Takashi Shimura;Shin'ichi Himori;Haruo Tanaka;Minoru Chiaki;Miki Odagiri;Bokuzen Hidari;Minosuke Yamada;Kamatari Fujiwara;Makoto Kobori;Nobuo Kaneko;Nobuo Nakamura;Atsushi Watanabe;Isao Kimura;Masao Shimizu;Yûnosuke Itô
+124,Incendies ,"Drama; 
+Mystery; 
+War",12 January 2011,8.2,DenisVilleneuve,Mustafa Kamel;Hussein Sami;Rémy Girard;Mélissa Désormeaux-Poulin;Maxim Gaudette;Dominique Briand;Lubna Azabal;Frédéric Paquet;Hamed Najem;Ahmad Massad;Bader Alami;Majida Hussein;Asriah Nijres;John Dunn-Hill;Nadia Essadiqi,6800000.0,131.0,12597210.0,"Drama; 
+Mystery; 
+War 8.2 DenisVilleneuve Mustafa Kamel;Hussein Sami;Rémy Girard;Mélissa Désormeaux-Poulin;Maxim Gaudette;Dominique Briand;Lubna Azabal;Frédéric Paquet;Hamed Najem;Ahmad Massad;Bader Alami;Majida Hussein;Asriah Nijres;John Dunn-Hill;Nadia Essadiqi"
+125,Raging Bull ,,19 December 1980,8.2,MartinScorsese,Robert De Niro;Cathy Moriarty;Joe Pesci;Frank Vincent;Nicholas Colasanto;Theresa Saldana;Mario Gallo;Frank Adonis;Joseph Bono;Frank Topham;Lori Anne Flax;Charles Scorsese;Don Dunphy;Bill Hanrahan;Rita Bennett,18000000.0,129.0,, 8.2 MartinScorsese Robert De Niro;Cathy Moriarty;Joe Pesci;Frank Vincent;Nicholas Colasanto;Theresa Saldana;Mario Gallo;Frank Adonis;Joseph Bono;Frank Topham;Lori Anne Flax;Charles Scorsese;Don Dunphy;Bill Hanrahan;Rita Bennett
+126,The Great Escape ,"Adventure; 
+Drama; 
+History",4 July 1963,8.2,JohnSturges,Steve McQueen;James Garner;Richard Attenborough;James Donald;Charles Bronson;Donald Pleasence;James Coburn;Hannes Messemer;David McCallum;Gordon Jackson;John Leyton;Angus Lennie;Nigel Stock;Robert Graf;Jud Taylor,4000000.0,172.0,,"Adventure; 
+Drama; 
+History 8.2 JohnSturges Steve McQueen;James Garner;Richard Attenborough;James Donald;Charles Bronson;Donald Pleasence;James Coburn;Hannes Messemer;David McCallum;Gordon Jackson;John Leyton;Angus Lennie;Nigel Stock;Robert Graf;Jud Taylor"
+127,Bacheha-Ye aseman ,"Drama; 
+Family",1997,8.3,MajidMajidi,Mohammad Amir Naji;Amir Farrokh Hashemian;Bahare Seddiqi;Nafise Jafar-Mohammadi;Fereshte Sarabandi;Kamal Mirkarimi;Behzad Rafi;Dariush Mokhtari;Mohammad-Hasan Hosseinian;Masume Dair;Kambiz Peykarnegar;Hasan Roohparvari;Abbas-Ali Roomandi;Jafar Seyfollahi;Qolamreza Maleki,180000.0,89.0,,"Drama; 
+Family 8.3 MajidMajidi Mohammad Amir Naji;Amir Farrokh Hashemian;Bahare Seddiqi;Nafise Jafar-Mohammadi;Fereshte Sarabandi;Kamal Mirkarimi;Behzad Rafi;Dariush Mokhtari;Mohammad-Hasan Hosseinian;Masume Dair;Kambiz Peykarnegar;Hasan Roohparvari;Abbas-Ali Roomandi;Jafar Seyfollahi;Qolamreza Maleki"
+128,Pan's Labyrinth ,"Drama; 
+Fantasy; 
+War",19 January 2007,8.2,GuillermodelToro,Ivana Baquero;Sergi López;Maribel Verdú;Doug Jones;Ariadna Gil;Álex Angulo;Manolo Solo;César Vea;Roger Casamajor;Ivan Massagué;Gonzalo Uriarte;Eusebio Lázaro;Francisco Vidal;Juanjo Cucalón;Lina Mira,,118.0,87041569.0,"Drama; 
+Fantasy; 
+War 8.2 GuillermodelToro Ivana Baquero;Sergi López;Maribel Verdú;Doug Jones;Ariadna Gil;Álex Angulo;Manolo Solo;César Vea;Roger Casamajor;Ivan Massagué;Gonzalo Uriarte;Eusebio Lázaro;Francisco Vidal;Juanjo Cucalón;Lina Mira"
+129,Babam ve Oglum ,"Drama; 
+Family",18 November 2005,8.4,ÇaganIrmak,Çetin Tekindor;Fikret Kuskan;Hümeyra;Ege Tanman;Serif Sezer;Yetkin Dikinciler;Binnur Kaya;Mahmut Gökgöz;Nergis Çorakçi;Bilge Sen;Tuba Büyüküstün;Özge Özberk;Erdal Tosun;Halit Ergenç;Tugyan Akay Kavukçu,,113.0,,"Drama; 
+Family 8.4 ÇaganIrmak Çetin Tekindor;Fikret Kuskan;Hümeyra;Ege Tanman;Serif Sezer;Yetkin Dikinciler;Binnur Kaya;Mahmut Gökgöz;Nergis Çorakçi;Bilge Sen;Tuba Büyüküstün;Özge Özberk;Erdal Tosun;Halit Ergenç;Tugyan Akay Kavukçu"
+130,Chinatown ,"Drama; 
+Mystery; 
+Thriller",20 June 1974,8.2,RomanPolanski,Jack Nicholson;Faye Dunaway;John Huston;Perry Lopez;John Hillerman;Darrell Zwerling;Diane Ladd;Roy Jenson;Roman Polanski;Richard Bakalyan;Joe Mantell;Bruce Glover;Nandu Hinds;James O'Rear;James Hong,6000000.0,130.0,30000000.0,"Drama; 
+Mystery; 
+Thriller 8.2 RomanPolanski Jack Nicholson;Faye Dunaway;John Huston;Perry Lopez;John Hillerman;Darrell Zwerling;Diane Ladd;Roy Jenson;Roman Polanski;Richard Bakalyan;Joe Mantell;Bruce Glover;Nandu Hinds;James O'Rear;James Hong"
+131,The Third Man ,,12 October 1949,8.2,CarolReed,Joseph Cotten;Alida Valli;Orson Welles;Trevor Howard;Bernard Lee;Paul Hörbiger;Ernst Deutsch;Siegfried Breuer;Erich Ponto;Wilfrid Hyde-White;Hedwig Bleibtreu,,104.0,, 8.2 CarolReed Joseph Cotten;Alida Valli;Orson Welles;Trevor Howard;Bernard Lee;Paul Hörbiger;Ernst Deutsch;Siegfried Breuer;Erich Ponto;Wilfrid Hyde-White;Hedwig Bleibtreu
+132,Bohemian Rhapsody ,,2 November 2018,8.3,BryanSinger,Rami Malek;Lucy Boynton;Gwilym Lee;Ben Hardy;Joseph Mazzello;Aidan Gillen;Allen Leech;Tom Hollander;Mike Myers;Aaron McCusker;Meneka Das;Ace Bhatti;Priya Blackburn;Dermot Murphy;Dickie Beau,52000000.0,134.0,433000000.0, 8.3 BryanSinger Rami Malek;Lucy Boynton;Gwilym Lee;Ben Hardy;Joseph Mazzello;Aidan Gillen;Allen Leech;Tom Hollander;Mike Myers;Aaron McCusker;Meneka Das;Ace Bhatti;Priya Blackburn;Dermot Murphy;Dickie Beau
+133,Tonari no Totoro ,,16 April 1988,8.2,HayaoMiyazaki,Noriko Hidaka;Chika Sakamoto;Shigesato Itoi;Sumi Shimamoto;Tanie Kitabayashi;Hitoshi Takagi;Yûko Maruyama;Machiko Washio;Reiko Suzuki;Masashi Hirose;Toshiyuki Amagasa;Shigeru Chiba;Naoki Tatsuta;Tarako;Tomohiro Nishimura,3700000.0,86.0,, 8.2 HayaoMiyazaki Noriko Hidaka;Chika Sakamoto;Shigesato Itoi;Sumi Shimamoto;Tanie Kitabayashi;Hitoshi Takagi;Yûko Maruyama;Machiko Washio;Reiko Suzuki;Masashi Hirose;Toshiyuki Amagasa;Shigeru Chiba;Naoki Tatsuta;Tarako;Tomohiro Nishimura
+134,Hauru no ugoku shiro ,,17 June 2005,8.2,HayaoMiyazaki,Chieko Baishô;Takuya Kimura;Akihiro Miwa;Tatsuya Gashûin;Ryûnosuke Kamiki;Mitsunori Isaki;Yô Ôizumi;Akio Ôtsuka;Daijirô Harada;Haruko Katô;Jean Simmons;Christian Bale;Lauren Bacall;Blythe Danner;Emily Mortimer,24000000.0,119.0,235184110.0, 8.2 HayaoMiyazaki Chieko Baishô;Takuya Kimura;Akihiro Miwa;Tatsuya Gashûin;Ryûnosuke Kamiki;Mitsunori Isaki;Yô Ôizumi;Akio Ôtsuka;Daijirô Harada;Haruko Katô;Jean Simmons;Christian Bale;Lauren Bacall;Blythe Danner;Emily Mortimer
+135,Ran ,"Action; 
+Drama",1 June 1985,8.2,AkiraKurosawa,Tatsuya Nakadai;Akira Terao;Jinpachi Nezu;Daisuke Ryû;Mieko Harada;Yoshiko Miyazaki;Hisashi Igawa;Pîtâ;Masayuki Yui;Kazuo Katô;Norio Matsui;Toshiya Ito;Kenji Kodama;Takashi Watanabe;Mansai Nomura,11500000.0,162.0,,"Action; 
+Drama 8.2 AkiraKurosawa Tatsuya Nakadai;Akira Terao;Jinpachi Nezu;Daisuke Ryû;Mieko Harada;Yoshiko Miyazaki;Hisashi Igawa;Pîtâ;Masayuki Yui;Kazuo Katô;Norio Matsui;Toshiya Ito;Kenji Kodama;Takashi Watanabe;Mansai Nomura"
+136,Judgment at Nuremberg ,"Drama; 
+War",18 December 1961,8.2,StanleyKramer,Spencer Tracy;Burt Lancaster;Richard Widmark;Marlene Dietrich;Maximilian Schell;Judy Garland;Montgomery Clift;William Shatner;Werner Klemperer;Kenneth MacKenna;Torben Meyer;Joseph Bernard;Alan Baxter;Edward Binns;Virginia Christine,3000000.0,186.0,10000000.0,"Drama; 
+War 8.2 StanleyKramer Spencer Tracy;Burt Lancaster;Richard Widmark;Marlene Dietrich;Maximilian Schell;Judy Garland;Montgomery Clift;William Shatner;Werner Klemperer;Kenneth MacKenna;Torben Meyer;Joseph Bernard;Alan Baxter;Edward Binns;Virginia Christine"
+137,El secreto de sus ojos ,"Drama; 
+Mystery; 
+Romance",13 August 2009,8.2,JuanJoséCampanella,Soledad Villamil;Ricardo Darín;Carla Quevedo;Pablo Rago;Javier Godino;Bárbara Palladino;Rudy Romano;Alejandro Abelenda;Mario Alarcón;Guillermo Francella;Sebastián Blanco;Mariano Argento;José Luis Gioia;Juan José Ortíz;Kiko Cerone,2000000.0,129.0,33965843.0,"Drama; 
+Mystery; 
+Romance 8.2 JuanJoséCampanella Soledad Villamil;Ricardo Darín;Carla Quevedo;Pablo Rago;Javier Godino;Bárbara Palladino;Rudy Romano;Alejandro Abelenda;Mario Alarcón;Guillermo Francella;Sebastián Blanco;Mariano Argento;José Luis Gioia;Juan José Ortíz;Kiko Cerone"
+138,The Gold Rush ,"Adventure; 
+Comedy; 
+Drama",1925,8.2,CharlesChaplin,Charles Chaplin;Mack Swain;Tom Murray;Henry Bergman;Malcolm Waite;Georgia Hale,923000.0,95.0,,"Adventure; 
+Comedy; 
+Drama 8.2 CharlesChaplin Charles Chaplin;Mack Swain;Tom Murray;Henry Bergman;Malcolm Waite;Georgia Hale"
+139,The Bridge on the River Kwai ,"Adventure; 
+Drama; 
+War",11 October 1957,8.2,DavidLean,William Holden;Alec Guinness;Jack Hawkins;Sessue Hayakawa;James Donald;Geoffrey Horne;André Morell;Peter Williams;John Boxer;Percy Herbert;Harold Goodwin;Ann Sears;Heihachirô Ôkawa;Keiichirô Katsumoto;M.R.B. Chakrabandhu,3000000.0,161.0,,"Adventure; 
+Drama; 
+War 8.2 DavidLean William Holden;Alec Guinness;Jack Hawkins;Sessue Hayakawa;James Donald;Geoffrey Horne;André Morell;Peter Williams;John Boxer;Percy Herbert;Harold Goodwin;Ann Sears;Heihachirô Ôkawa;Keiichirô Katsumoto;M.R.B. Chakrabandhu"
+140,A Beautiful Mind ,,4 January 2002,8.2,RonHoward,Russell Crowe;Ed Harris;Jennifer Connelly;Christopher Plummer;Paul Bettany;Adam Goldberg;Josh Lucas;Anthony Rapp;Jason Gray-Stanford;Judd Hirsch;Austin Pendleton;Vivien Cardone;Jillie Simon;Victor Steinbach;Tanya Clarke,58000000.0,135.0,313542341.0, 8.2 RonHoward Russell Crowe;Ed Harris;Jennifer Connelly;Christopher Plummer;Paul Bettany;Adam Goldberg;Josh Lucas;Anthony Rapp;Jason Gray-Stanford;Judd Hirsch;Austin Pendleton;Vivien Cardone;Jillie Simon;Victor Steinbach;Tanya Clarke
+141,"Lock, Stock and Two Smoking Barrels ","Comedy; 
+Crime",28 August 1998,8.2,GuyRitchie,Jason Flemyng;Dexter Fletcher;Nick Moran;Jason Statham;Steven Mackintosh;Nicholas Rowe;Nick Marcq;Charles Forbes;Vinnie Jones;Lenny McLean;Peter McNicholl;P.H. Moriarty;Frank Harper;Steve Sweeney;Huggy Leaver,,107.0,28356188.0,"Comedy; 
+Crime 8.2 GuyRitchie Jason Flemyng;Dexter Fletcher;Nick Moran;Jason Statham;Steven Mackintosh;Nicholas Rowe;Nick Marcq;Charles Forbes;Vinnie Jones;Lenny McLean;Peter McNicholl;P.H. Moriarty;Frank Harper;Steve Sweeney;Huggy Leaver"
+142,Casino ,"Crime; 
+Drama",22 November 1995,8.2,MartinScorsese,Robert De Niro;Sharon Stone;Joe Pesci;James Woods;Don Rickles;Alan King;Kevin Pollak;L.Q. Jones;Dick Smothers;Frank Vincent;John Bloom;Pasquale Cajano;Melissa Prophet;Bill Allison;Vinny Vella,,178.0,,"Crime; 
+Drama 8.2 MartinScorsese Robert De Niro;Sharon Stone;Joe Pesci;James Woods;Don Rickles;Alan King;Kevin Pollak;L.Q. Jones;Dick Smothers;Frank Vincent;John Bloom;Pasquale Cajano;Melissa Prophet;Bill Allison;Vinny Vella"
+143,"Three Billboards Outside Ebbing, Missouri ","Comedy; 
+Crime; 
+Drama",1 December 2017,8.2,MartinMcDonagh,Frances McDormand;Caleb Landry Jones;Kerry Condon;Sam Rockwell;Alejandro Barrios;Jason Ledford;Darrell Britt-Gibson;Woody Harrelson;Abbie Cornish;Riya May Atwood;Selah Atwood;Lucas Hedges;Zeljko Ivanek;Amanda Warren;Malaya Rivera Drew,15000000.0,115.0,157880842.0,"Comedy; 
+Crime; 
+Drama 8.2 MartinMcDonagh Frances McDormand;Caleb Landry Jones;Kerry Condon;Sam Rockwell;Alejandro Barrios;Jason Ledford;Darrell Britt-Gibson;Woody Harrelson;Abbie Cornish;Riya May Atwood;Selah Atwood;Lucas Hedges;Zeljko Ivanek;Amanda Warren;Malaya Rivera Drew"
+144,On the Waterfront ,"Crime; 
+Drama; 
+Thriller",22 June 1954,8.2,EliaKazan,Marlon Brando;Karl Malden;Lee J. Cobb;Rod Steiger;Pat Henning;Leif Erickson;James Westerfield;Tony Galento;Tami Mauriello;John F. Hamilton;John Heldabrand;Rudy Bond;Don Blackman;Arthur Keegan;Abe Simon,910000.0,108.0,,"Crime; 
+Drama; 
+Thriller 8.2 EliaKazan Marlon Brando;Karl Malden;Lee J. Cobb;Rod Steiger;Pat Henning;Leif Erickson;James Westerfield;Tony Galento;Tami Mauriello;John F. Hamilton;John Heldabrand;Rudy Bond;Don Blackman;Arthur Keegan;Abe Simon"
+145,Det sjunde inseglet ,"Drama; 
+Fantasy",16 February 1957,8.2,IngmarBergman,Gunnar Björnstrand;Bengt Ekerot;Nils Poppe;Max von Sydow;Bibi Andersson;Inga Gill;Maud Hansson;Inga Landgré;Gunnel Lindblom;Bertil Anderberg;Anders Ek;Åke Fridell;Gunnar Olsson;Erik Strandmark,150000.0,96.0,,"Drama; 
+Fantasy 8.2 IngmarBergman Gunnar Björnstrand;Bengt Ekerot;Nils Poppe;Max von Sydow;Bibi Andersson;Inga Gill;Maud Hansson;Inga Landgré;Gunnel Lindblom;Bertil Anderberg;Anders Ek;Åke Fridell;Gunnar Olsson;Erik Strandmark"
+146,Inside Out ,,19 June 2015,8.2,PeteDocter,Amy Poehler;Phyllis Smith;Richard Kind;Bill Hader;Lewis Black;Mindy Kaling;Kaitlyn Dias;Diane Lane;Kyle MacLachlan;Paula Poundstone;Bobby Moynihan;Paula Pell;Dave Goelz;Frank Oz;Josh Cooley,175000000.0,95.0,857611174.0, 8.2 PeteDocter Amy Poehler;Phyllis Smith;Richard Kind;Bill Hader;Lewis Black;Mindy Kaling;Kaitlyn Dias;Diane Lane;Kyle MacLachlan;Paula Poundstone;Bobby Moynihan;Paula Pell;Dave Goelz;Frank Oz;Josh Cooley
+147,The Elephant Man ,,10 October 1980,8.2,DavidLynch,Anthony Hopkins;John Hurt;Anne Bancroft;John Gielgud;Wendy Hiller;Freddie Jones;Michael Elphick;Hannah Gordon;Helen Ryan;John Standing;Dexter Fletcher;Lesley Dunlop;Phoebe Nicholls;Pat Gorman;Claire Davenport,5000000.0,124.0,, 8.2 DavidLynch Anthony Hopkins;John Hurt;Anne Bancroft;John Gielgud;Wendy Hiller;Freddie Jones;Michael Elphick;Hannah Gordon;Helen Ryan;John Standing;Dexter Fletcher;Lesley Dunlop;Phoebe Nicholls;Pat Gorman;Claire Davenport
+148,Room ,"Drama; 
+Thriller",15 January 2016,8.2,LennyAbrahamson,Brie Larson;Jacob Tremblay;Sean Bridgers;Wendy Crewson;Sandy McMaster;Matt Gordon;Amanda Brugel;Joe Pingue;Joan Allen;Zarrin Darnell-Martin;Cas Anvar;William H. Macy;Jee-Yun Lee;Randal Edwards;Justin Mader,13000000.0,118.0,36262783.0,"Drama; 
+Thriller 8.2 LennyAbrahamson Brie Larson;Jacob Tremblay;Sean Bridgers;Wendy Crewson;Sandy McMaster;Matt Gordon;Amanda Brugel;Joe Pingue;Joan Allen;Zarrin Darnell-Martin;Cas Anvar;William H. Macy;Jee-Yun Lee;Randal Edwards;Justin Mader"
+149,The Wolf of Wall Street ,,25 December 2013,8.2,MartinScorsese,Leonardo DiCaprio;Jonah Hill;Margot Robbie;Matthew McConaughey;Kyle Chandler;Rob Reiner;Jon Bernthal;Jon Favreau;Jean Dujardin;Joanna Lumley;Cristin Milioti;Christine Ebersole;Shea Whigham;Katarina Cas;P.J. Byrne,100000000.0,180.0,392000694.0, 8.2 MartinScorsese Leonardo DiCaprio;Jonah Hill;Margot Robbie;Matthew McConaughey;Kyle Chandler;Rob Reiner;Jon Bernthal;Jon Favreau;Jean Dujardin;Joanna Lumley;Cristin Milioti;Christine Ebersole;Shea Whigham;Katarina Cas;P.J. Byrne
+150,Mr. Smith Goes to Washington ,"Comedy; 
+Drama",9 November 1939,8.2,FrankCapra,Jean Arthur;James Stewart;Claude Rains;Edward Arnold;Guy Kibbee;Thomas Mitchell;Eugene Pallette;Beulah Bondi;H.B. Warner;Harry Carey;Astrid Allwyn;Ruth Donnelly;Grant Mitchell;Porter Hall;H.V. Kaltenborn,1500000.0,129.0,,"Comedy; 
+Drama 8.2 FrankCapra Jean Arthur;James Stewart;Claude Rains;Edward Arnold;Guy Kibbee;Thomas Mitchell;Eugene Pallette;Beulah Bondi;H.B. Warner;Harry Carey;Astrid Allwyn;Ruth Donnelly;Grant Mitchell;Porter Hall;H.V. Kaltenborn"
+151,V for Vendetta ,"Action; 
+Drama; 
+Sci-Fi",17 March 2006,8.2,JamesMcTeigue,Natalie Portman;Hugo Weaving;Stephen Rea;Stephen Fry;John Hurt;Tim Pigott-Smith;Rupert Graves;Roger Allam;Ben Miles;Sinéad Cusack;Natasha Wightman;John Standing;Eddie Marsan;Clive Ashborn;Emma Field-Rayner,54000000.0,132.0,132511035.0,"Action; 
+Drama; 
+Sci-Fi 8.2 JamesMcTeigue Natalie Portman;Hugo Weaving;Stephen Rea;Stephen Fry;John Hurt;Tim Pigott-Smith;Rupert Graves;Roger Allam;Ben Miles;Sinéad Cusack;Natasha Wightman;John Standing;Eddie Marsan;Clive Ashborn;Emma Field-Rayner"
+152,Warrior ,"Drama; 
+Sport",9 September 2011,8.2,GavinO'Connor,Joel Edgerton;Tom Hardy;Nick Nolte;Jennifer Morrison;Frank Grillo;Kevin Dunn;Maximiliano Hernández;Bryan Callen;Sam Sheridan;Fernando Chien;Jake McLaughlin;Vanessa Martinez;Denzel Whitaker;Carlos Miranda;Manuel Espinosa,25000000.0,140.0,23057115.0,"Drama; 
+Sport 8.2 GavinO'Connor Joel Edgerton;Tom Hardy;Nick Nolte;Jennifer Morrison;Frank Grillo;Kevin Dunn;Maximiliano Hernández;Bryan Callen;Sam Sheridan;Fernando Chien;Jake McLaughlin;Vanessa Martinez;Denzel Whitaker;Carlos Miranda;Manuel Espinosa"
+153,Blade Runner ,"Sci-Fi; 
+Thriller",25 June 1982,8.2,RidleyScott,Harrison Ford;Rutger Hauer;Sean Young;Edward James Olmos;M. Emmet Walsh;Daryl Hannah;William Sanderson;Brion James;Joe Turkel;Joanna Cassidy;James Hong;Morgan Paull;Kevin Thompson;John Edward Allen;Hy Pyke,28000000.0,117.0,,"Sci-Fi; 
+Thriller 8.2 RidleyScott Harrison Ford;Rutger Hauer;Sean Young;Edward James Olmos;M. Emmet Walsh;Daryl Hannah;William Sanderson;Brion James;Joe Turkel;Joanna Cassidy;James Hong;Morgan Paull;Kevin Thompson;John Edward Allen;Hy Pyke"
+154,Dial M for Murder ,"Crime; 
+Thriller",29 May 1954,8.2,AlfredHitchcock,Ray Milland;Grace Kelly;Robert Cummings;John Williams;Anthony Dawson;Leo Britt;Patrick Allen;George Leigh;George Alderson;Robin Hughes,1400000.0,105.0,13080000.0,"Crime; 
+Thriller 8.2 AlfredHitchcock Ray Milland;Grace Kelly;Robert Cummings;John Williams;Anthony Dawson;Leo Britt;Patrick Allen;George Leigh;George Alderson;Robin Hughes"
+155,Smultronstället ,"Drama; 
+Romance",26 December 1957,8.2,IngmarBergman,Victor Sjöström;Bibi Andersson;Ingrid Thulin;Gunnar Björnstrand;Jullan Kindahl;Folke Sundquist;Björn Bjelfvenstam;Naima Wifstrand;Gunnel Broström;Gertrud Fridh;Sif Ruud;Gunnar Sjöberg;Max von Sydow;Åke Fridell;Yngve Nordwall,,91.0,,"Drama; 
+Romance 8.2 IngmarBergman Victor Sjöström;Bibi Andersson;Ingrid Thulin;Gunnar Björnstrand;Jullan Kindahl;Folke Sundquist;Björn Bjelfvenstam;Naima Wifstrand;Gunnel Broström;Gertrud Fridh;Sif Ruud;Gunnar Sjöberg;Max von Sydow;Åke Fridell;Yngve Nordwall"
+156,The General ,"Action; 
+Adventure; 
+Comedy",24 February 1927,8.2,"BusterKeaton,ClydeBruckman",Buster Keaton;Marion Mack;Glen Cavender;Jim Farley;Frederick Vroom;Charles Henry Smith;Frank Barnes;Joe Keaton;Mike Donlin;Tom Nawn,750000.0,67.0,,"Action; 
+Adventure; 
+Comedy 8.2 BusterKeaton,ClydeBruckman Buster Keaton;Marion Mack;Glen Cavender;Jim Farley;Frederick Vroom;Charles Henry Smith;Frank Barnes;Joe Keaton;Mike Donlin;Tom Nawn"
+157,No Country for Old Men ,"Crime; 
+Drama; 
+Thriller",21 November 2007,8.1,"EthanCoen,JoelCoen",Tommy Lee Jones;Javier Bardem;Josh Brolin;Woody Harrelson;Kelly Macdonald;Garret Dillahunt;Tess Harper;Barry Corbin;Stephen Root;Rodger Boyce;Beth Grant;Ana Reeder;Kit Gwin;Zach Hopkins;Chip Love,25000000.0,122.0,171627166.0,"Crime; 
+Drama; 
+Thriller 8.1 EthanCoen,JoelCoen Tommy Lee Jones;Javier Bardem;Josh Brolin;Woody Harrelson;Kelly Macdonald;Garret Dillahunt;Tess Harper;Barry Corbin;Stephen Root;Rodger Boyce;Beth Grant;Ana Reeder;Kit Gwin;Zach Hopkins;Chip Love"
+158,Trainspotting ,Drama,26 July 1996,8.2,DannyBoyle,Ewan McGregor;Ewen Bremner;Jonny Lee Miller;Kevin McKidd;Robert Carlyle;Kelly Macdonald;Peter Mullan;James Cosmo;Eileen Nicholas;Susan Vidler;Pauline Lynch;Shirley Henderson;Stuart McQuarrie;Irvine Welsh;Dale Winton,3500000.0,93.0,71558971.0,Drama 8.2 DannyBoyle Ewan McGregor;Ewen Bremner;Jonny Lee Miller;Kevin McKidd;Robert Carlyle;Kelly Macdonald;Peter Mullan;James Cosmo;Eileen Nicholas;Susan Vidler;Pauline Lynch;Shirley Henderson;Stuart McQuarrie;Irvine Welsh;Dale Winton
+159,There Will Be Blood ,Drama,25 January 2008,8.2,PaulThomasAnderson,Daniel Day-Lewis;Martin Stringer;Matthew Braden Stringer;Jacob Stringer;Joseph Mussey;Barry Del Sherman;Harrison Taylor;Stockton Taylor;Paul F. Tompkins;Dillon Freasier;Kevin Breznahan;Jim Meskimen;Erica Sullivan;Randall Carver;Coco Leigh,25000000.0,158.0,77208711.0,Drama 8.2 PaulThomasAnderson Daniel Day-Lewis;Martin Stringer;Matthew Braden Stringer;Jacob Stringer;Joseph Mussey;Barry Del Sherman;Harrison Taylor;Stockton Taylor;Paul F. Tompkins;Dillon Freasier;Kevin Breznahan;Jim Meskimen;Erica Sullivan;Randall Carver;Coco Leigh
+160,The Sixth Sense ,"Drama; 
+Mystery; 
+Thriller",6 August 1999,8.1,M.NightShyamalan,Bruce Willis;Haley Joel Osment;Toni Collette;Olivia Williams;Trevor Morgan;Donnie Wahlberg;Peter Anthony Tambakis;Jeffrey Zubernis;Bruce Norris;Glenn Fitzgerald;Greg Wood;Mischa Barton;Angelica Page;Lisa Summerour;Firdous Bamji,40000000.0,107.0,672806292.0,"Drama; 
+Mystery; 
+Thriller 8.1 M.NightShyamalan Bruce Willis;Haley Joel Osment;Toni Collette;Olivia Williams;Trevor Morgan;Donnie Wahlberg;Peter Anthony Tambakis;Jeffrey Zubernis;Bruce Norris;Glenn Fitzgerald;Greg Wood;Mischa Barton;Angelica Page;Lisa Summerour;Firdous Bamji"
+161,Gone with the Wind ,"Drama; 
+History; 
+Romance",17 January 1940,8.2,VictorFleming,Thomas Mitchell;Barbara O'Neil;Vivien Leigh;Evelyn Keyes;Ann Rutherford;George Reeves;Fred Crane;Hattie McDaniel;Oscar Polk;Butterfly McQueen;Victor Jory;Everett Brown;Howard C. Hickman;Alicia Rhett;Leslie Howard,3977000.0,238.0,400176459.0,"Drama; 
+History; 
+Romance 8.2 VictorFleming Thomas Mitchell;Barbara O'Neil;Vivien Leigh;Evelyn Keyes;Ann Rutherford;George Reeves;Fred Crane;Hattie McDaniel;Oscar Polk;Butterfly McQueen;Victor Jory;Everett Brown;Howard C. Hickman;Alicia Rhett;Leslie Howard"
+162,The Thing ,,25 June 1982,8.1,JohnCarpenter,Kurt Russell;Wilford Brimley;T.K. Carter;David Clennon;Keith David;Richard Dysart;Charles Hallahan;Peter Maloney;Richard Masur;Donald Moffat;Joel Polis;Thomas G. Waites;Norbert Weisser;Larry Franco;Nate Irwin,15000000.0,109.0,, 8.1 JohnCarpenter Kurt Russell;Wilford Brimley;T.K. Carter;David Clennon;Keith David;Richard Dysart;Charles Hallahan;Peter Maloney;Richard Masur;Donald Moffat;Joel Polis;Thomas G. Waites;Norbert Weisser;Larry Franco;Nate Irwin
+163,Fargo ,"Crime; 
+Drama; 
+Thriller",5 April 1996,8.1,"EthanCoen,JoelCoen",William H. Macy;Steve Buscemi;Peter Stormare;Kristin Rudrüd;Harve Presnell;Tony Denman;Gary Houston;Sally Wingert;Kurt Schweickhardt;Larissa Kokernot;Melissa Peterman;Steve Reevis;Warren Keith;Steve Edelman;Sharon Anderson,7000000.0,98.0,36000000.0,"Crime; 
+Drama; 
+Thriller 8.1 EthanCoen,JoelCoen William H. Macy;Steve Buscemi;Peter Stormare;Kristin Rudrüd;Harve Presnell;Tony Denman;Gary Houston;Sally Wingert;Kurt Schweickhardt;Larissa Kokernot;Melissa Peterman;Steve Reevis;Warren Keith;Steve Edelman;Sharon Anderson"
+164,Gran Torino ,Drama,9 January 2009,8.1,ClintEastwood,Clint Eastwood;Christopher Carley;Bee Vang;Ahney Her;Brian Haley;Geraldine Hughes;Dreama Walker;Brian Howe;John Carroll Lynch;William Hill;Brooke Chia Thao;Chee Thao;Choua Kue;Scott Eastwood;Xia Soua Chang,33000000.0,116.0,269958228.0,Drama 8.1 ClintEastwood Clint Eastwood;Christopher Carley;Bee Vang;Ahney Her;Brian Haley;Geraldine Hughes;Dreama Walker;Brian Howe;John Carroll Lynch;William Hill;Brooke Chia Thao;Chee Thao;Choua Kue;Scott Eastwood;Xia Soua Chang
+165,The Deer Hunter ,"Drama; 
+War",23 February 1979,8.1,MichaelCimino,Robert De Niro;John Cazale;John Savage;Christopher Walken;Meryl Streep;George Dzundza;Chuck Aspegren;Shirley Stoler;Rutanya Alda;Pierre Segui;Mady Kaplan;Amy Wright;Mary Ann Haenel;Richard Kuss;Joe Grifasi,15000000.0,183.0,,"Drama; 
+War 8.1 MichaelCimino Robert De Niro;John Cazale;John Savage;Christopher Walken;Meryl Streep;George Dzundza;Chuck Aspegren;Shirley Stoler;Rutanya Alda;Pierre Segui;Mady Kaplan;Amy Wright;Mary Ann Haenel;Richard Kuss;Joe Grifasi"
+166,Finding Nemo ,,30 May 2003,8.1,AndrewStanton,Albert Brooks;Ellen DeGeneres;Alexander Gould;Willem Dafoe;Brad Garrett;Allison Janney;Austin Pendleton;Stephen Root;Vicki Lewis;Joe Ranft;Geoffrey Rush;Andrew Stanton;Elizabeth Perkins;Nicholas Bird;Bob Peterson,94000000.0,100.0,936743261.0, 8.1 AndrewStanton Albert Brooks;Ellen DeGeneres;Alexander Gould;Willem Dafoe;Brad Garrett;Allison Janney;Austin Pendleton;Stephen Root;Vicki Lewis;Joe Ranft;Geoffrey Rush;Andrew Stanton;Elizabeth Perkins;Nicholas Bird;Bob Peterson
+167,Idi i smotri ,"Drama; 
+War",17 October 1985,8.2,ElemKlimov,Aleksey Kravchenko;Olga Mironova;Liubomiras Laucevicius;Vladas Bagdonas;Jüri Lumiste;Viktor Lorents;Kazimir Rabetsky;Evgeniy Tilicheev;Aleksandr Berda;G. Velts;V. Vasilyev;Igor Gnevashev;Vasiliy Domrachyov;G. Yelkin;Evgeniy Kryzhanovskiy,,142.0,,"Drama; 
+War 8.2 ElemKlimov Aleksey Kravchenko;Olga Mironova;Liubomiras Laucevicius;Vladas Bagdonas;Jüri Lumiste;Viktor Lorents;Kazimir Rabetsky;Evgeniy Tilicheev;Aleksandr Berda;G. Velts;V. Vasilyev;Igor Gnevashev;Vasiliy Domrachyov;G. Yelkin;Evgeniy Kryzhanovskiy"
+168,The Big Lebowski ,"Comedy; 
+Crime",6 March 1998,8.1,"EthanCoen,JoelCoen",Jeff Bridges;John Goodman;Julianne Moore;Steve Buscemi;David Huddleston;Philip Seymour Hoffman;Tara Reid;Philip Moon;Mark Pellegrino;Peter Stormare;Flea;Torsten Voges;Jimmie Dale Gilmore;Jack Kehler;John Turturro,15000000.0,117.0,46189568.0,"Comedy; 
+Crime 8.1 EthanCoen,JoelCoen Jeff Bridges;John Goodman;Julianne Moore;Steve Buscemi;David Huddleston;Philip Seymour Hoffman;Tara Reid;Philip Moon;Mark Pellegrino;Peter Stormare;Flea;Torsten Voges;Jimmie Dale Gilmore;Jack Kehler;John Turturro"
+169,Sherlock Jr. ,"Action; 
+Comedy; 
+Romance",11 May 1924,8.2,BusterKeaton,Buster Keaton;Kathryn McGuire;Joe Keaton;Erwin Connelly;Ward Crane,,45.0,,"Action; 
+Comedy; 
+Romance 8.2 BusterKeaton Buster Keaton;Kathryn McGuire;Joe Keaton;Erwin Connelly;Ward Crane"
+170,Shutter Island ,"Mystery; 
+Thriller",19 February 2010,8.1,MartinScorsese,Leonardo DiCaprio;Mark Ruffalo;Ben Kingsley;Max von Sydow;Michelle Williams;Emily Mortimer;Patricia Clarkson;Jackie Earle Haley;Ted Levine;John Carroll Lynch;Elias Koteas;Robin Bartlett;Christopher Denham;Nellie Sciutto;Joseph Sikora,80000000.0,138.0,294804195.0,"Mystery; 
+Thriller 8.1 MartinScorsese Leonardo DiCaprio;Mark Ruffalo;Ben Kingsley;Max von Sydow;Michelle Williams;Emily Mortimer;Patricia Clarkson;Jackie Earle Haley;Ted Levine;John Carroll Lynch;Elias Koteas;Robin Bartlett;Christopher Denham;Nellie Sciutto;Joseph Sikora"
+171,Kill Bill: Vol. 1 ,"Action; 
+Crime; 
+Thriller",10 October 2003,8.1,QuentinTarantino,Uma Thurman;Lucy Liu;Vivica A. Fox;Daryl Hannah;David Carradine;Michael Madsen;Julie Dreyfus;Chiaki Kuriyama;Shin'ichi Chiba;Chia-Hui Liu;Michael Parks;Michael Bowen;Jun Kunimura;Kenji Ohba;Yuki Kazamatsuri,30000000.0,111.0,180949045.0,"Action; 
+Crime; 
+Thriller 8.1 QuentinTarantino Uma Thurman;Lucy Liu;Vivica A. Fox;Daryl Hannah;David Carradine;Michael Madsen;Julie Dreyfus;Chiaki Kuriyama;Shin'ichi Chiba;Chia-Hui Liu;Michael Parks;Michael Bowen;Jun Kunimura;Kenji Ohba;Yuki Kazamatsuri"
+172,Cool Hand Luke ,"Crime; 
+Drama",1 November 1967,8.1,StuartRosenberg,Paul Newman;George Kennedy;J.D. Cannon;Lou Antonio;Robert Drivas;Strother Martin;Jo Van Fleet;Clifton James;Morgan Woodward;Luke Askew;Marc Cavell;Richard Davalos;Robert Donner;Warren Finnerty;Dennis Hopper,3200000.0,126.0,16217773.0,"Crime; 
+Drama 8.1 StuartRosenberg Paul Newman;George Kennedy;J.D. Cannon;Lou Antonio;Robert Drivas;Strother Martin;Jo Van Fleet;Clifton James;Morgan Woodward;Luke Askew;Marc Cavell;Richard Davalos;Robert Donner;Warren Finnerty;Dennis Hopper"
+173,Rebecca ,"Drama; 
+Mystery; 
+Romance",12 April 1940,8.1,AlfredHitchcock,Laurence Olivier;Joan Fontaine;George Sanders;Judith Anderson;Nigel Bruce;Reginald Denny;C. Aubrey Smith;Gladys Cooper;Florence Bates;Melville Cooper;Leo G. Carroll;Leonard Carey;Lumsden Hare;Edward Fielding;Philip Winter,1288000.0,130.0,7592465.0,"Drama; 
+Mystery; 
+Romance 8.1 AlfredHitchcock Laurence Olivier;Joan Fontaine;George Sanders;Judith Anderson;Nigel Bruce;Reginald Denny;C. Aubrey Smith;Gladys Cooper;Florence Bates;Melville Cooper;Leo G. Carroll;Leonard Carey;Lumsden Hare;Edward Fielding;Philip Winter"
+174,Tôkyô monogatari ,Drama,3 November 1953,8.2,YasujirôOzu,Chishû Ryû;Chieko Higashiyama;Setsuko Hara;Haruko Sugimura;Sô Yamamura;Kuniko Miyake;Kyôko Kagawa;Eijirô Tôno;Nobuo Nakamura;Shirô Ôsaka;Hisao Toake;Teruko Nagaoka;Mutsuko Sakura;Toyo Takahashi;Tôru Abe,,136.0,,Drama 8.2 YasujirôOzu Chishû Ryû;Chieko Higashiyama;Setsuko Hara;Haruko Sugimura;Sô Yamamura;Kuniko Miyake;Kyôko Kagawa;Eijirô Tôno;Nobuo Nakamura;Shirô Ôsaka;Hisao Toake;Teruko Nagaoka;Mutsuko Sakura;Toyo Takahashi;Tôru Abe
+175,Mary and Max ,,9 April 2009,8.1,AdamElliot,Toni Collette;Philip Seymour Hoffman;Barry Humphries;Eric Bana;Bethany Whitmore;Renée Geyer;Ian 'Molly' Meldrum;Julie Forsyth;John Flaus;Christopher Massey;Shaun Patten;Carolyn Shakespeare-Allen;Leanne Smith,,92.0,1739445.0, 8.1 AdamElliot Toni Collette;Philip Seymour Hoffman;Barry Humphries;Eric Bana;Bethany Whitmore;Renée Geyer;Ian 'Molly' Meldrum;Julie Forsyth;John Flaus;Christopher Massey;Shaun Patten;Carolyn Shakespeare-Allen;Leanne Smith
+176,Roma ,Drama,21 November 2018,8.2,AlfonsoCuarón,Yalitza Aparicio;Marina de Tavira;Diego Cortina Autrey;Carlos Peralta;Marco Graf;Daniela Demesa;Nancy García García;Verónica García;Andy Cortés;Fernando Grediaga;Jorge Antonio Guerrero;José Manuel Guerrero Mendoza;Latin Lover;Zarela Lizbeth Chinolla Arellano;José Luis López Gómez,,135.0,,Drama 8.2 AlfonsoCuarón Yalitza Aparicio;Marina de Tavira;Diego Cortina Autrey;Carlos Peralta;Marco Graf;Daniela Demesa;Nancy García García;Verónica García;Andy Cortés;Fernando Grediaga;Jorge Antonio Guerrero;José Manuel Guerrero Mendoza;Latin Lover;Zarela Lizbeth Chinolla Arellano;José Luis López Gómez
+177,Hacksaw Ridge ,,4 November 2016,8.1,MelGibson,Andrew Garfield;Richard Pyros;Jacob Warner;Milo Gibson;Darcy Bryce;Roman Guerriero;James Lugton;Kasia Stelmach;Hugo Weaving;Rachel Griffiths;Jarin Towney;Tim McGarry;Tyler Coppin;Teresa Palmer;Richard Platt,40000000.0,139.0,175302354.0, 8.1 MelGibson Andrew Garfield;Richard Pyros;Jacob Warner;Milo Gibson;Darcy Bryce;Roman Guerriero;James Lugton;Kasia Stelmach;Hugo Weaving;Rachel Griffiths;Jarin Towney;Tim McGarry;Tyler Coppin;Teresa Palmer;Richard Platt
+178,Gone Girl ,"Crime; 
+Drama; 
+Mystery",3 October 2014,8.1,DavidFincher,Ben Affleck;Rosamund Pike;Neil Patrick Harris;Tyler Perry;Carrie Coon;Kim Dickens;Patrick Fugit;David Clennon;Lisa Banes;Missi Pyle;Emily Ratajkowski;Casey Wilson;Lola Kirke;Boyd Holbrook;Sela Ward,61000000.0,149.0,369330363.0,"Crime; 
+Drama; 
+Mystery 8.1 DavidFincher Ben Affleck;Rosamund Pike;Neil Patrick Harris;Tyler Perry;Carrie Coon;Kim Dickens;Patrick Fugit;David Clennon;Lisa Banes;Missi Pyle;Emily Ratajkowski;Casey Wilson;Lola Kirke;Boyd Holbrook;Sela Ward"
+179,How to Train Your Dragon ,,26 March 2010,8.1,"ChrisSanders,DeanDeBlois",Jay Baruchel;Gerard Butler;Craig Ferguson;America Ferrera;Jonah Hill;Christopher Mintz-Plasse;T.J. Miller;Kristen Wiig;Robin Atkin Downes;Philip McGrade;Kieron Elliott;Ashley Jensen;David Tennant,165000000.0,98.0,494878759.0," 8.1 ChrisSanders,DeanDeBlois Jay Baruchel;Gerard Butler;Craig Ferguson;America Ferrera;Jonah Hill;Christopher Mintz-Plasse;T.J. Miller;Kristen Wiig;Robin Atkin Downes;Philip McGrade;Kieron Elliott;Ashley Jensen;David Tennant"
+180,Sunrise: A Song of Two Humans ,"Drama; 
+Romance",4 November 1927,8.2,F.W.Murnau,George O'Brien;Janet Gaynor;Margaret Livingston;Bodil Rosing;J. Farrell MacDonald;Ralph Sipperly;Jane Winton;Arthur Housman;Eddie Boland;Vondell Darr,,94.0,,"Drama; 
+Romance 8.2 F.W.Murnau George O'Brien;Janet Gaynor;Margaret Livingston;Bodil Rosing;J. Farrell MacDonald;Ralph Sipperly;Jane Winton;Arthur Housman;Eddie Boland;Vondell Darr"
+181,Relatos salvajes ,"Comedy; 
+Drama; 
+Thriller",21 August 2014,8.1,DamiánSzifron,Darío Grandinetti;María Marull;Mónica Villa;Diego Starosta;Marcelo Frasca;Lucila Mangone;María Laura Caccamo;Carlos Alberto Vavassori;Pablo Machado;Horacio Vay;Javier Pedersoli;Héctor Drachtman;María Rosa López Ottonello;Rita Cortese;Julieta Zylberberg,3300000.0,122.0,36353750.0,"Comedy; 
+Drama; 
+Thriller 8.1 DamiánSzifron Darío Grandinetti;María Marull;Mónica Villa;Diego Starosta;Marcelo Frasca;Lucila Mangone;María Laura Caccamo;Carlos Alberto Vavassori;Pablo Machado;Horacio Vay;Javier Pedersoli;Héctor Drachtman;María Rosa López Ottonello;Rita Cortese;Julieta Zylberberg"
+182,Jurassic Park ,"Adventure; 
+Sci-Fi; 
+Thriller",11 June 1993,8.1,StevenSpielberg,Sam Neill;Laura Dern;Jeff Goldblum;Richard Attenborough;Bob Peck;Martin Ferrero;BD Wong;Joseph Mazzello;Ariana Richards;Samuel L. Jackson;Wayne Knight;Gerald R. Molen;Miguel Sandoval;Cameron Thor;Christopher John Fields,63000000.0,127.0,1029153882.0,"Adventure; 
+Sci-Fi; 
+Thriller 8.1 StevenSpielberg Sam Neill;Laura Dern;Jeff Goldblum;Richard Attenborough;Bob Peck;Martin Ferrero;BD Wong;Joseph Mazzello;Ariana Richards;Samuel L. Jackson;Wayne Knight;Gerald R. Molen;Miguel Sandoval;Cameron Thor;Christopher John Fields"
+183,Into the Wild ,"Adventure; 
+Biography; 
+Drama",28 September 2007,8.1,SeanPenn,Emile Hirsch;Marcia Gay Harden;William Hurt;Jena Malone;Brian H. Dierker;Catherine Keener;Vince Vaughn;Kristen Stewart;Hal Holbrook;Jim Gallien;James O'Neill;Malinda McCollum;Paul Knauls;Zach Galifianakis;Craig Mutsch,15000000.0,148.0,56255142.0,"Adventure; 
+Biography; 
+Drama 8.1 SeanPenn Emile Hirsch;Marcia Gay Harden;William Hurt;Jena Malone;Brian H. Dierker;Catherine Keener;Vince Vaughn;Kristen Stewart;Hal Holbrook;Jim Gallien;James O'Neill;Malinda McCollum;Paul Knauls;Zach Galifianakis;Craig Mutsch"
+184,Life of Brian ,Comedy,8 November 1979,8.1,TerryJones,Graham Chapman;John Cleese;Terry Gilliam;Eric Idle;Terry Jones;Michael Palin;Terence Bayler;Carol Cleveland;Kenneth Colley;Neil Innes;Charles McKeown;John Young;Gwen Taylor;Sue Jones-Davies;Peter Brett,4000000.0,94.0,36045115.0,Comedy 8.1 TerryJones Graham Chapman;John Cleese;Terry Gilliam;Eric Idle;Terry Jones;Michael Palin;Terence Bayler;Carol Cleveland;Kenneth Colley;Neil Innes;Charles McKeown;John Young;Gwen Taylor;Sue Jones-Davies;Peter Brett
+185,In the Name of the Father ,,21 January 1994,8.1,JimSheridan,Alison Crosbie;Daniel Day-Lewis;Philip King;Emma Thompson;Nye Heron;Anthony Brophy;Frankie McCafferty;Paul Warriner;Julian Walsh;Stuart Wolfenden;Jo Connor;Karen Carlisle;Seamus Moran;Billy Byrne;Maureen McBride,13000000.0,133.0,40700000.0, 8.1 JimSheridan Alison Crosbie;Daniel Day-Lewis;Philip King;Emma Thompson;Nye Heron;Anthony Brophy;Frankie McCafferty;Paul Warriner;Julian Walsh;Stuart Wolfenden;Jo Connor;Karen Carlisle;Seamus Moran;Billy Byrne;Maureen McBride
+186,The Truman Show ,"Comedy; 
+Drama; 
+Sci-Fi",5 June 1998,8.1,PeterWeir,Jim Carrey;Laura Linney;Noah Emmerich;Natascha McElhone;Holland Taylor;Brian Delate;Blair Slater;Peter Krause;Heidi Schanz;Ron Taylor;Don Taylor;Ted Raymond;Judy Clayton;Fritz Dominique;Angel Schmiedt,60000000.0,103.0,264118201.0,"Comedy; 
+Drama; 
+Sci-Fi 8.1 PeterWeir Jim Carrey;Laura Linney;Noah Emmerich;Natascha McElhone;Holland Taylor;Brian Delate;Blair Slater;Peter Krause;Heidi Schanz;Ron Taylor;Don Taylor;Ted Raymond;Judy Clayton;Fritz Dominique;Angel Schmiedt"
+187,The Grand Budapest Hotel ,"Adventure; 
+Comedy; 
+Drama",6 March 2014,8.1,WesAnderson,Ralph Fiennes;F. Murray Abraham;Mathieu Amalric;Adrien Brody;Willem Dafoe;Jeff Goldblum;Harvey Keitel;Jude Law;Bill Murray;Edward Norton;Saoirse Ronan;Jason Schwartzman;Léa Seydoux;Tilda Swinton;Tom Wilkinson,25000000.0,99.0,174600318.0,"Adventure; 
+Comedy; 
+Drama 8.1 WesAnderson Ralph Fiennes;F. Murray Abraham;Mathieu Amalric;Adrien Brody;Willem Dafoe;Jeff Goldblum;Harvey Keitel;Jude Law;Bill Murray;Edward Norton;Saoirse Ronan;Jason Schwartzman;Léa Seydoux;Tilda Swinton;Tom Wilkinson"
+188,It Happened One Night ,"Comedy; 
+Romance",22 February 1934,8.1,FrankCapra,Clark Gable;Claudette Colbert;Walter Connolly;Roscoe Karns;Jameson Thomas;Alan Hale;Arthur Hoyt;Blanche Friderici;Charles C. Wilson,325000.0,105.0,,"Comedy; 
+Romance 8.1 FrankCapra Clark Gable;Claudette Colbert;Walter Connolly;Roscoe Karns;Jameson Thomas;Alan Hale;Arthur Hoyt;Blanche Friderici;Charles C. Wilson"
+189,Platoon ,"Drama; 
+War",6 February 1987,8.1,OliverStone,Tom Berenger;Keith David;Willem Dafoe;Forest Whitaker;Francesco Quinn;Kevin Dillon;John C. McGinley;Reggie Johnson;Mark Moses;Corey Glover;Johnny Depp;Chris Pedersen;Bob Orwig;Corkey Ford;David Neidorf,6000000.0,120.0,,"Drama; 
+War 8.1 OliverStone Tom Berenger;Keith David;Willem Dafoe;Forest Whitaker;Francesco Quinn;Kevin Dillon;John C. McGinley;Reggie Johnson;Mark Moses;Corey Glover;Johnny Depp;Chris Pedersen;Bob Orwig;Corkey Ford;David Neidorf"
+190,Stand by Me ,"Adventure; 
+Drama",26 November 1986,8.1,RobReiner,Wil Wheaton;River Phoenix;Corey Feldman;Jerry O'Connell;Kiefer Sutherland;Casey Siemaszko;Gary Riley;Bradley Gregg;Jason Oliver;Marshall Bell;Frances Lee McCain;Bruce Kirby;William Bronder;Scott Beach;Richard Dreyfuss,8000000.0,89.0,,"Adventure; 
+Drama 8.1 RobReiner Wil Wheaton;River Phoenix;Corey Feldman;Jerry O'Connell;Kiefer Sutherland;Casey Siemaszko;Gary Riley;Bradley Gregg;Jason Oliver;Marshall Bell;Frances Lee McCain;Bruce Kirby;William Bronder;Scott Beach;Richard Dreyfuss"
+191,Eskiya ,"Crime; 
+Drama; 
+Thriller",29 November 1996,8.3,YavuzTurgul,Sener Sen;Ugur Yücel;Sermin Hürmeriç;Yesim Salkim;Kamran Usluer;Ülkü Duru;Özkan Ugur;Necdet Mahfi Ayral;Kayhan Yildizoglu;Güven Hokna;Kemal Inci;Melih Çardak;Settar Tanriögen;Celal Perk;Ümit Çirak,,128.0,1979000.0,"Crime; 
+Drama; 
+Thriller 8.3 YavuzTurgul Sener Sen;Ugur Yücel;Sermin Hürmeriç;Yesim Salkim;Kamran Usluer;Ülkü Duru;Özkan Ugur;Necdet Mahfi Ayral;Kayhan Yildizoglu;Güven Hokna;Kemal Inci;Melih Çardak;Settar Tanriögen;Celal Perk;Ümit Çirak"
+192,Network ,Drama,27 November 1976,8.1,SidneyLumet,Faye Dunaway;William Holden;Peter Finch;Robert Duvall;Wesley Addy;Ned Beatty;Arthur Burghardt;Bill Burrows;John Carpenter;Jordan Charney;Kathy Cronkite;Ed Crowley;Jerome Dempsey;Conchata Ferrell;Gene Gross,,121.0,,Drama 8.1 SidneyLumet Faye Dunaway;William Holden;Peter Finch;Robert Duvall;Wesley Addy;Ned Beatty;Arthur Burghardt;Bill Burrows;John Carpenter;Jordan Charney;Kathy Cronkite;Ed Crowley;Jerome Dempsey;Conchata Ferrell;Gene Gross
+193,Stalker ,"Drama; 
+Sci-Fi",17 April 1980,8.1,AndreiTarkovsky,Alisa Freyndlikh;Aleksandr Kaydanovskiy;Anatoliy Solonitsyn;Nikolay Grinko;Natalya Abramova;Faime Jurno;E. Kostin;Raymo Rendi,,162.0,,"Drama; 
+Sci-Fi 8.1 AndreiTarkovsky Alisa Freyndlikh;Aleksandr Kaydanovskiy;Anatoliy Solonitsyn;Nikolay Grinko;Natalya Abramova;Faime Jurno;E. Kostin;Raymo Rendi"
+194,Persona ,"Drama; 
+Thriller",18 October 1966,8.1,IngmarBergman,Bibi Andersson;Liv Ullmann;Margaretha Krook;Gunnar Björnstrand,,85.0,,"Drama; 
+Thriller 8.1 IngmarBergman Bibi Andersson;Liv Ullmann;Margaretha Krook;Gunnar Björnstrand"
+195,Salinui chueok ,"Action; 
+Crime; 
+Drama",2 May 2003,8.1,Joon-hoBong,Kang-ho Song;Sang-kyung Kim;Roe-ha Kim;Jae-ho Song;Hee-Bong Byun;Seo-hie Ko;No-shik Park;Hae-il Park;Mi-seon Jeon;Young-hwa Seo;Bong-gi Baek;Hyeon-gi Choi;Jong-ryol Choi;Deok-jae Jo;Moon-ee Jo,2800000.0,131.0,,"Action; 
+Crime; 
+Drama 8.1 Joon-hoBong Kang-ho Song;Sang-kyung Kim;Roe-ha Kim;Jae-ho Song;Hee-Bong Byun;Seo-hie Ko;No-shik Park;Hae-il Park;Mi-seon Jeon;Young-hwa Seo;Bong-gi Baek;Hyeon-gi Choi;Jong-ryol Choi;Deok-jae Jo;Moon-ee Jo"
+196,Ben-Hur ,"Adventure; 
+Drama; 
+History",29 January 1960,8.1,WilliamWyler,Charlton Heston;Jack Hawkins;Haya Harareet;Stephen Boyd;Hugh Griffith;Martha Scott;Cathy O'Donnell;Sam Jaffe;Finlay Currie;Frank Thring;Terence Longdon;George Relph;André Morell,15900000.0,212.0,196200000.0,"Adventure; 
+Drama; 
+History 8.1 WilliamWyler Charlton Heston;Jack Hawkins;Haya Harareet;Stephen Boyd;Hugh Griffith;Martha Scott;Cathy O'Donnell;Sam Jaffe;Finlay Currie;Frank Thring;Terence Longdon;George Relph;André Morell"
+197,Hotel Rwanda ,,4 March 2005,8.1,TerryGeorge,Don Cheadle;Xolani Mali;Desmond Dube;Hakeem Kae-Kazim;Tony Kgoroge;Rosie Motene;Neil McCarthy;Mabutho 'Kid' Sithole;Nick Nolte;Fana Mokoena;Jeremiah Ndlovu;Sophie Okonedo;Lebo Mashile;Antonio David Lyons;Leleti Khumalo,17500000.0,121.0,36532987.0, 8.1 TerryGeorge Don Cheadle;Xolani Mali;Desmond Dube;Hakeem Kae-Kazim;Tony Kgoroge;Rosie Motene;Neil McCarthy;Mabutho 'Kid' Sithole;Nick Nolte;Fana Mokoena;Jeremiah Ndlovu;Sophie Okonedo;Lebo Mashile;Antonio David Lyons;Leleti Khumalo
+198,12 Years a Slave ,,8 November 2013,8.1,SteveMcQueen,Chiwetel Ejiofor;Dwight Henry;Dickie Gravois;Bryan Batt;Ashley Dyke;Kelsey Scott;Quvenzhané Wallis;Cameron Zeigler;Tony Bentley;Scoot McNairy;Taran Killam;Christopher Berry;Bill Camp;Mister Mackey Jr.;Chris Chalk,20000000.0,134.0,187733202.0, 8.1 SteveMcQueen Chiwetel Ejiofor;Dwight Henry;Dickie Gravois;Bryan Batt;Ashley Dyke;Kelsey Scott;Quvenzhané Wallis;Cameron Zeigler;Tony Bentley;Scoot McNairy;Taran Killam;Christopher Berry;Bill Camp;Mister Mackey Jr.;Chris Chalk
+199,Million Dollar Baby ,"Drama; 
+Sport",28 January 2005,8.1,ClintEastwood,Clint Eastwood;Hilary Swank;Morgan Freeman;Jay Baruchel;Mike Colter;Lucia Rijker;Brían F. O'Byrne;Anthony Mackie;Margo Martindale;Riki Lindhome;Michael Peña;Benito Martinez;Bruce MacVittie;David Powledge;Joe D'Angerio,30000000.0,132.0,216763646.0,"Drama; 
+Sport 8.1 ClintEastwood Clint Eastwood;Hilary Swank;Morgan Freeman;Jay Baruchel;Mike Colter;Lucia Rijker;Brían F. O'Byrne;Anthony Mackie;Margo Martindale;Riki Lindhome;Michael Peña;Benito Martinez;Bruce MacVittie;David Powledge;Joe D'Angerio"
+200,Andrei Rublev ,,December 1969,8.2,AndreiTarkovsky,Anatoliy Solonitsyn;Ivan Lapikov;Nikolay Grinko;Nikolay Sergeev;Irina Tarkovskaya;Nikolay Burlyaev;Yuriy Nazarov;Yuriy Nikulin;Rolan Bykov;Nikolay Grabbe;Mikhail Kononov;Stepan Krylov;Bolot Beyshenaliev;B. Matysik;Anatoliy Obukhov,,165.0,, 8.2 AndreiTarkovsky Anatoliy Solonitsyn;Ivan Lapikov;Nikolay Grinko;Nikolay Sergeev;Irina Tarkovskaya;Nikolay Burlyaev;Yuriy Nazarov;Yuriy Nikulin;Rolan Bykov;Nikolay Grabbe;Mikhail Kononov;Stepan Krylov;Bolot Beyshenaliev;B. Matysik;Anatoliy Obukhov
+201,Rush ,"Action; 
+Biography; 
+Drama",27 September 2013,8.1,RonHoward,Chris Hemsworth;Daniel Brühl;Olivia Wilde;Alexandra Maria Lara;Pierfrancesco Favino;David Calder;Natalie Dormer;Stephen Mangan;Christian McKay;Alistair Petrie;Julian Rhind-Tutt;Colin Stinton;Jamie de Courcey;Augusto Dallara;Ilario Calvo,38000000.0,123.0,90247624.0,"Action; 
+Biography; 
+Drama 8.1 RonHoward Chris Hemsworth;Daniel Brühl;Olivia Wilde;Alexandra Maria Lara;Pierfrancesco Favino;David Calder;Natalie Dormer;Stephen Mangan;Christian McKay;Alistair Petrie;Julian Rhind-Tutt;Colin Stinton;Jamie de Courcey;Augusto Dallara;Ilario Calvo"
+202,La passion de Jeanne d'Arc ,,25 October 1928,8.2,CarlTheodorDreyer,Maria Falconetti;Eugene Silvain;André Berley;Maurice Schutz;Antonin Artaud;Michel Simon;Jean d'Yd;Louis Ravet;Armand Lurville;Jacques Arnna;Alexandre Mihalesco;Léon Larive,,110.0,, 8.2 CarlTheodorDreyer Maria Falconetti;Eugene Silvain;André Berley;Maurice Schutz;Antonin Artaud;Michel Simon;Jean d'Yd;Louis Ravet;Armand Lurville;Jacques Arnna;Alexandre Mihalesco;Léon Larive
+203,Le salaire de la peur ,"Adventure; 
+Drama; 
+Thriller",22 April 1953,8.1,Henri-GeorgesClouzot,Yves Montand;Charles Vanel;Folco Lulli;Peter van Eyck;Véra Clouzot;William Tubbs;Darío Moreno;Jo Dest;Antonio Centa;Luis De Lima;Grégoire Gromoff;Joseph Palau-Fabre;Faustini;Seguna;Darling Légitimus,,131.0,,"Adventure; 
+Drama; 
+Thriller 8.1 Henri-GeorgesClouzot Yves Montand;Charles Vanel;Folco Lulli;Peter van Eyck;Véra Clouzot;William Tubbs;Darío Moreno;Jo Dest;Antonio Centa;Luis De Lima;Grégoire Gromoff;Joseph Palau-Fabre;Faustini;Seguna;Darling Légitimus"
+204,Before Sunrise ,"Drama; 
+Romance",27 January 1995,8.1,RichardLinklater,Ethan Hawke;Julie Delpy;Andrea Eckert;Hanno Pöschl;Karl Bruckschwaiger;Tex Rubinowitz;Erni Mangold;Dominik Castell;Haymon Maria Buttinger;Harald Waiglein;Bilge Jeschim;Kurti;Hans Weingartner;Liese Lyon;Peter Ily Huemer,2500000.0,101.0,17200000.0,"Drama; 
+Romance 8.1 RichardLinklater Ethan Hawke;Julie Delpy;Andrea Eckert;Hanno Pöschl;Karl Bruckschwaiger;Tex Rubinowitz;Erni Mangold;Dominik Castell;Haymon Maria Buttinger;Harald Waiglein;Bilge Jeschim;Kurti;Hans Weingartner;Liese Lyon;Peter Ily Huemer"
+205,Mad Max: Fury Road ,"Action; 
+Adventure; 
+Sci-Fi",15 May 2015,8.1,GeorgeMiller,Tom Hardy;Charlize Theron;Nicholas Hoult;Hugh Keays-Byrne;Josh Helman;Nathan Jones;Zoë Kravitz;Rosie Huntington-Whiteley;Riley Keough;Abbey Lee;Courtney Eaton;John Howard;Richard Carter;Iota;Angus Sampson,,120.0,,"Action; 
+Adventure; 
+Sci-Fi 8.1 GeorgeMiller Tom Hardy;Charlize Theron;Nicholas Hoult;Hugh Keays-Byrne;Josh Helman;Nathan Jones;Zoë Kravitz;Rosie Huntington-Whiteley;Riley Keough;Abbey Lee;Courtney Eaton;John Howard;Richard Carter;Iota;Angus Sampson"
+206,Les quatre cents coups ,"Crime; 
+Drama",3 June 1959,8.1,FrançoisTruffaut,Jean-Pierre Léaud;Claire Maurier;Albert Rémy;Guy Decomble;Georges Flamant;Patrick Auffay;Daniel Couturier;François Nocher;Richard Kanayan;Renaud Fontanarosa;Michel Girard;Serge Moati;Bernard Abbou;Jean-François Bergouignan;Michel Lesignor,,99.0,,"Crime; 
+Drama 8.1 FrançoisTruffaut Jean-Pierre Léaud;Claire Maurier;Albert Rémy;Guy Decomble;Georges Flamant;Patrick Auffay;Daniel Couturier;François Nocher;Richard Kanayan;Renaud Fontanarosa;Michel Girard;Serge Moati;Bernard Abbou;Jean-François Bergouignan;Michel Lesignor"
+207,Prisoners ,"Crime; 
+Drama; 
+Mystery",20 September 2013,8.1,DenisVilleneuve,Hugh Jackman;Jake Gyllenhaal;Viola Davis;Maria Bello;Terrence Howard;Melissa Leo;Paul Dano;Dylan Minnette;Zoë Soul;Erin Gerasimovich;Kyla-Drew;Wayne Duvall;Len Cariou;David Dastmalchian;Brad James,46000000.0,153.0,122126687.0,"Crime; 
+Drama; 
+Mystery 8.1 DenisVilleneuve Hugh Jackman;Jake Gyllenhaal;Viola Davis;Maria Bello;Terrence Howard;Melissa Leo;Paul Dano;Dylan Minnette;Zoë Soul;Erin Gerasimovich;Kyla-Drew;Wayne Duvall;Len Cariou;David Dastmalchian;Brad James"
+208,Hachi: A Dog's Tale ,"Drama; 
+Family",12 March 2010,8.1,LasseHallström,Richard Gere;Joan Allen;Cary-Hiroyuki Tagawa;Sarah Roemer;Jason Alexander;Erick Avari;Davenia McFadden;Robbie Sublett;Kevin DeCoste;Rob Degnan;Tora Hallström;Donna Sorbello;Frank S. Aronson;Troy Doherty;Ian Sherman,16000000.0,93.0,47707417.0,"Drama; 
+Family 8.1 LasseHallström Richard Gere;Joan Allen;Cary-Hiroyuki Tagawa;Sarah Roemer;Jason Alexander;Erick Avari;Davenia McFadden;Robbie Sublett;Kevin DeCoste;Rob Degnan;Tora Hallström;Donna Sorbello;Frank S. Aronson;Troy Doherty;Ian Sherman"
+209,Spotlight ,"Crime; 
+Drama; 
+History",20 November 2015,8.1,TomMcCarthy,Mark Ruffalo;Michael Keaton;Rachel McAdams;Liev Schreiber;John Slattery;Brian d'Arcy James;Stanley Tucci;Elena Wohl;Gene Amoroso;Doug Murray;Sharon McFarlane;Jamey Sheridan;Neal Huff;Billy Crudup;Robert B. Kennedy,20000000.0,129.0,98275238.0,"Crime; 
+Drama; 
+History 8.1 TomMcCarthy Mark Ruffalo;Michael Keaton;Rachel McAdams;Liev Schreiber;John Slattery;Brian d'Arcy James;Stanley Tucci;Elena Wohl;Gene Amoroso;Doug Murray;Sharon McFarlane;Jamey Sheridan;Neal Huff;Billy Crudup;Robert B. Kennedy"
+210,Logan ,"Action; 
+Drama; 
+Sci-Fi",3 March 2017,8.1,JamesMangold,Hugh Jackman;Patrick Stewart;Dafne Keen;Boyd Holbrook;Stephen Merchant;Elizabeth Rodriguez;Richard E. Grant;Eriq La Salle;Elise Neal;Quincy Fouse;Al Coronel;Frank Gallegos;Anthony Escobar;Reynaldo Gallegos;Krzysztof Soszynski,97000000.0,137.0,619021436.0,"Action; 
+Drama; 
+Sci-Fi 8.1 JamesMangold Hugh Jackman;Patrick Stewart;Dafne Keen;Boyd Holbrook;Stephen Merchant;Elizabeth Rodriguez;Richard E. Grant;Eriq La Salle;Elise Neal;Quincy Fouse;Al Coronel;Frank Gallegos;Anthony Escobar;Reynaldo Gallegos;Krzysztof Soszynski"
+211,Rang De Basanti ,"Comedy; 
+Drama",26 January 2006,8.2,RakeyshOmprakashMehra,Aamir Khan;Siddharth;Sharman Joshi;Kunal Kapoor;Atul Kulkarni;Alice Patten;Soha Ali Khan;Steven Mackintosh;Madhavan;Waheeda Rehman;Anupam Kher;Kiron Kher;Om Puri;Lekh Tandon;Cyrus Sahukar,,157.0,,"Comedy; 
+Drama 8.2 RakeyshOmprakashMehra Aamir Khan;Siddharth;Sharman Joshi;Kunal Kapoor;Atul Kulkarni;Alice Patten;Soha Ali Khan;Steven Mackintosh;Madhavan;Waheeda Rehman;Anupam Kher;Kiron Kher;Om Puri;Lekh Tandon;Cyrus Sahukar"
+212,Amores perros ,"Drama; 
+Thriller",16 June 2000,8.1,AlejandroG.Iñárritu,Emilio Echevarría;Gael García Bernal;Goya Toledo;Álvaro Guerrero;Vanessa Bauche;Jorge Salinas;Marco Pérez;Rodrigo Murray;Humberto Busto;Gerardo Campbell;Rosa María Bianchi;Dunia Saldívar;Adriana Barraza;José Sefami;Lourdes Echevarría,2000000.0,154.0,,"Drama; 
+Thriller 8.1 AlejandroG.Iñárritu Emilio Echevarría;Gael García Bernal;Goya Toledo;Álvaro Guerrero;Vanessa Bauche;Jorge Salinas;Marco Pérez;Rodrigo Murray;Humberto Busto;Gerardo Campbell;Rosa María Bianchi;Dunia Saldívar;Adriana Barraza;José Sefami;Lourdes Echevarría"
+213,The Princess Bride ,"Adventure; 
+Family; 
+Fantasy",9 October 1987,8.1,RobReiner,Cary Elwes;Mandy Patinkin;Chris Sarandon;Christopher Guest;Wallace Shawn;André the Giant;Fred Savage;Robin Wright;Peter Falk;Peter Cook;Mel Smith;Carol Kane;Billy Crystal;Anne Dyson;Margery Mason,16000000.0,98.0,,"Adventure; 
+Family; 
+Fantasy 8.1 RobReiner Cary Elwes;Mandy Patinkin;Chris Sarandon;Christopher Guest;Wallace Shawn;André the Giant;Fred Savage;Robin Wright;Peter Falk;Peter Cook;Mel Smith;Carol Kane;Billy Crystal;Anne Dyson;Margery Mason"
+214,Catch Me If You Can ,,2 January 2003,8.1,StevenSpielberg,Leonardo DiCaprio;Tom Hanks;Christopher Walken;Martin Sheen;Nathalie Baye;Amy Adams;James Brolin;Brian Howe;Frank John Hughes;Steve Eastin;Chris Ellis;John Finn;Jennifer Garner;Nancy Lenehan;Ellen Pompeo,52000000.0,141.0,352114312.0, 8.1 StevenSpielberg Leonardo DiCaprio;Tom Hanks;Christopher Walken;Martin Sheen;Nathalie Baye;Amy Adams;James Brolin;Brian Howe;Frank John Hughes;Steve Eastin;Chris Ellis;John Finn;Jennifer Garner;Nancy Lenehan;Ellen Pompeo
+215,Kaze no tani no Naushika ,,11 March 1984,8.1,HayaoMiyazaki,Sumi Shimamoto;Mahito Tsujimura;Hisako Kyôda;Gorô Naya;Ichirô Nagai;Kôhei Miyauchi;Jôji Yanami;Minoru Yada;Rihoko Yoshida;Masako Sugaya;Takako Sasuga;Chika Sakamoto;Tarako;Yôji Matsuda;Mîna Tominaga,1000000.0,117.0,, 8.1 HayaoMiyazaki Sumi Shimamoto;Mahito Tsujimura;Hisako Kyôda;Gorô Naya;Ichirô Nagai;Kôhei Miyauchi;Jôji Yanami;Minoru Yada;Rihoko Yoshida;Masako Sugaya;Takako Sasuga;Chika Sakamoto;Tarako;Yôji Matsuda;Mîna Tominaga
+216,Harry Potter and the Deathly Hallows: Part 2 ,"Adventure; 
+Drama; 
+Fantasy",15 July 2011,8.1,DavidYates,Ralph Fiennes;Michael Gambon;Alan Rickman;Daniel Radcliffe;Rupert Grint;Emma Watson;Evanna Lynch;Domhnall Gleeson;Clémence Poésy;Warwick Davis;John Hurt;Helena Bonham Carter;Graham Duff;Anthony Allgood;Rusty Goffe,125000000.0,130.0,1341511219.0,"Adventure; 
+Drama; 
+Fantasy 8.1 DavidYates Ralph Fiennes;Michael Gambon;Alan Rickman;Daniel Radcliffe;Rupert Grint;Emma Watson;Evanna Lynch;Domhnall Gleeson;Clémence Poésy;Warwick Davis;John Hurt;Helena Bonham Carter;Graham Duff;Anthony Allgood;Rusty Goffe"
+217,Butch Cassidy and the Sundance Kid ,,24 October 1969,8.1,GeorgeRoyHill,Paul Newman;Robert Redford;Katharine Ross;Strother Martin;Henry Jones;Jeff Corey;George Furth;Cloris Leachman;Ted Cassidy;Kenneth Mars;Donnelly Rhodes;Jody Gilbert;Timothy Scott;Don Keefer;Charles Dierkop,6000000.0,110.0,, 8.1 GeorgeRoyHill Paul Newman;Robert Redford;Katharine Ross;Strother Martin;Henry Jones;Jeff Corey;George Furth;Cloris Leachman;Ted Cassidy;Kenneth Mars;Donnelly Rhodes;Jody Gilbert;Timothy Scott;Don Keefer;Charles Dierkop
+218,Rocky ,"Drama; 
+Sport",3 December 1976,8.1,JohnG.Avildsen,Sylvester Stallone;Talia Shire;Burt Young;Carl Weathers;Burgess Meredith;Thayer David;Joe Spinell;Jimmy Gambina;Bill Baldwin;Al Silvani;George Memmoli;Jodi Letizia;Diana Lewis;George O'Hanlon;Larry Carroll,960000.0,120.0,225000000.0,"Drama; 
+Sport 8.1 JohnG.Avildsen Sylvester Stallone;Talia Shire;Burt Young;Carl Weathers;Burgess Meredith;Thayer David;Joe Spinell;Jimmy Gambina;Bill Baldwin;Al Silvani;George Memmoli;Jodi Letizia;Diana Lewis;George O'Hanlon;Larry Carroll"
+219,Barry Lyndon ,"Adventure; 
+Drama; 
+History",18 December 1975,8.1,StanleyKubrick,Ryan O'Neal;Marisa Berenson;Patrick Magee;Hardy Krüger;Steven Berkoff;Gay Hamilton;Marie Kean;Diana Körner;Murray Melvin;Frank Middlemass;André Morell;Arthur O'Sullivan;Godfrey Quigley;Leonard Rossiter;Philip Stone,11000000.0,185.0,31500000.0,"Adventure; 
+Drama; 
+History 8.1 StanleyKubrick Ryan O'Neal;Marisa Berenson;Patrick Magee;Hardy Krüger;Steven Berkoff;Gay Hamilton;Marie Kean;Diana Körner;Murray Melvin;Frank Middlemass;André Morell;Arthur O'Sullivan;Godfrey Quigley;Leonard Rossiter;Philip Stone"
+220,"Monsters, Inc. ",,2 November 2001,8.1,PeteDocter,John Goodman;Billy Crystal;Mary Gibbs;Steve Buscemi;James Coburn;Jennifer Tilly;Bob Peterson;John Ratzenberger;Frank Oz;Daniel Gerson;Steve Susskind;Bonnie Hunt;Jeff Pidgeon;Samuel Lord Black;Jack Angel,115000000.0,92.0,562816256.0, 8.1 PeteDocter John Goodman;Billy Crystal;Mary Gibbs;Steve Buscemi;James Coburn;Jennifer Tilly;Bob Peterson;John Ratzenberger;Frank Oz;Daniel Gerson;Steve Susskind;Bonnie Hunt;Jeff Pidgeon;Samuel Lord Black;Jack Angel
+221,The Grapes of Wrath ,"Drama; 
+History",15 March 1940,8.1,JohnFord,Henry Fonda;Jane Darwell;John Carradine;Charley Grapewin;Dorris Bowdon;Russell Simpson;O.Z. Whitehead;John Qualen;Eddie Quillan;Zeffie Tilbury;Frank Sully;Frank Darien;Darryl Hickman;Shirley Mills;Roger Imhof,800000.0,129.0,,"Drama; 
+History 8.1 JohnFord Henry Fonda;Jane Darwell;John Carradine;Charley Grapewin;Dorris Bowdon;Russell Simpson;O.Z. Whitehead;John Qualen;Eddie Quillan;Zeffie Tilbury;Frank Sully;Frank Darien;Darryl Hickman;Shirley Mills;Roger Imhof"
+222,The Maltese Falcon ,,18 October 1941,8.1,JohnHuston,Humphrey Bogart;Mary Astor;Gladys George;Peter Lorre;Barton MacLane;Lee Patrick;Sydney Greenstreet;Ward Bond;Jerome Cowan;Elisha Cook Jr.;James Burke;Murray Alper;John Hamilton,375000.0,100.0,1772000.0, 8.1 JohnHuston Humphrey Bogart;Mary Astor;Gladys George;Peter Lorre;Barton MacLane;Lee Patrick;Sydney Greenstreet;Ward Bond;Jerome Cowan;Elisha Cook Jr.;James Burke;Murray Alper;John Hamilton
+223,Dead Poets Society ,"Comedy; 
+Drama",9 June 1989,8.1,PeterWeir,Robin Williams;Robert Sean Leonard;Ethan Hawke;Josh Charles;Gale Hansen;Dylan Kussman;Allelon Ruggiero;James Waterston;Norman Lloyd;Kurtwood Smith;Carla Belver;Leon Pownall;George Martin;Joe Aufiery;Matt Carey,16400000.0,128.0,140000000.0,"Comedy; 
+Drama 8.1 PeterWeir Robin Williams;Robert Sean Leonard;Ethan Hawke;Josh Charles;Gale Hansen;Dylan Kussman;Allelon Ruggiero;James Waterston;Norman Lloyd;Kurtwood Smith;Carla Belver;Leon Pownall;George Martin;Joe Aufiery;Matt Carey"
+224,Donnie Darko ,"Drama; 
+Sci-Fi; 
+Thriller",26 October 2001,8.1,RichardKelly,Jake Gyllenhaal;Holmes Osborne;Maggie Gyllenhaal;Daveigh Chase;Mary McDonnell;James Duval;Arthur Taxier;Patrick Swayze;Mark Hoffman;David St. James;Tom Tangen;Jazzie Mahannah;Jolene Purdy;Stuart Stone;Gary Lundy,,113.0,,"Drama; 
+Sci-Fi; 
+Thriller 8.1 RichardKelly Jake Gyllenhaal;Holmes Osborne;Maggie Gyllenhaal;Daveigh Chase;Mary McDonnell;James Duval;Arthur Taxier;Patrick Swayze;Mark Hoffman;David St. James;Tom Tangen;Jazzie Mahannah;Jolene Purdy;Stuart Stone;Gary Lundy"
+225,The Terminator ,"Action; 
+Sci-Fi",26 October 1984,8.0,JamesCameron,Arnold Schwarzenegger;Michael Biehn;Linda Hamilton;Paul Winfield;Lance Henriksen;Rick Rossovich;Bess Motta;Earl Boen;Dick Miller;Shawn Schepps;Bruce M. Kerner;Franco Columbu;Bill Paxton;Brad Rearden;Brian Thompson,6400000.0,107.0,40000000.0,"Action; 
+Sci-Fi 8.0 JamesCameron Arnold Schwarzenegger;Michael Biehn;Linda Hamilton;Paul Winfield;Lance Henriksen;Rick Rossovich;Bess Motta;Earl Boen;Dick Miller;Shawn Schepps;Bruce M. Kerner;Franco Columbu;Bill Paxton;Brad Rearden;Brian Thompson"
+226,Gandhi ,,17 February 1983,8.1,RichardAttenborough,Ben Kingsley;Rohini Hattangadi;Roshan Seth;Candice Bergen;Edward Fox;John Gielgud;Trevor Howard;John Mills;Martin Sheen;Ian Charleson;Günther Maria Halmer;Athol Fugard;Saeed Jaffrey;Geraldine James;Alyque Padamsee,22000000.0,191.0,127767889.0, 8.1 RichardAttenborough Ben Kingsley;Rohini Hattangadi;Roshan Seth;Candice Bergen;Edward Fox;John Gielgud;Trevor Howard;John Mills;Martin Sheen;Ian Charleson;Günther Maria Halmer;Athol Fugard;Saeed Jaffrey;Geraldine James;Alyque Padamsee
+227,Les diaboliques ,"Crime; 
+Drama; 
+Horror",29 January 1955,8.1,Henri-GeorgesClouzot,Simone Signoret;Véra Clouzot;Paul Meurisse;Charles Vanel;Jean Brochard;Thérèse Dorny;Michel Serrault;Georges Chamarat;Robert Dalban;Camille Guérini;Jacques Hilling;Jean Lefebvre;Aminda Montserrat;Jean Témerson;Jacques Varennes,,117.0,,"Crime; 
+Drama; 
+Horror 8.1 Henri-GeorgesClouzot Simone Signoret;Véra Clouzot;Paul Meurisse;Charles Vanel;Jean Brochard;Thérèse Dorny;Michel Serrault;Georges Chamarat;Robert Dalban;Camille Guérini;Jacques Hilling;Jean Lefebvre;Aminda Montserrat;Jean Témerson;Jacques Varennes"
+228,La haine ,"Crime; 
+Drama",1 September 1995,8.1,MathieuKassovitz,Vincent Cassel;Hubert Koundé;Saïd Taghmaoui;Abdel Ahmed Ghili;Solo;Joseph Momo;Héloïse Rauth;Rywka Wajsbrot;Olga Abrego;Laurent Labasse;Choukri Gabteni;Nabil Ben Mhamed;Benoît Magimel;Médard Niang;Arash Mansour,,98.0,,"Crime; 
+Drama 8.1 MathieuKassovitz Vincent Cassel;Hubert Koundé;Saïd Taghmaoui;Abdel Ahmed Ghili;Solo;Joseph Momo;Héloïse Rauth;Rywka Wajsbrot;Olga Abrego;Laurent Labasse;Choukri Gabteni;Nabil Ben Mhamed;Benoît Magimel;Médard Niang;Arash Mansour"
+229,Groundhog Day ,"Comedy; 
+Fantasy; 
+Romance",12 February 1993,8.0,HaroldRamis,Bill Murray;Andie MacDowell;Chris Elliott;Stephen Tobolowsky;Brian Doyle-Murray;Marita Geraghty;Angela Paton;Rick Ducommun;Rick Overton;Robin Duke;Carol Bivins;Willie Garson;Ken Hudson Campbell;Les Podewell;Rod Sell,14600000.0,101.0,,"Comedy; 
+Fantasy; 
+Romance 8.0 HaroldRamis Bill Murray;Andie MacDowell;Chris Elliott;Stephen Tobolowsky;Brian Doyle-Murray;Marita Geraghty;Angela Paton;Rick Ducommun;Rick Overton;Robin Duke;Carol Bivins;Willie Garson;Ken Hudson Campbell;Les Podewell;Rod Sell"
+230,The Wizard of Oz ,"Adventure; 
+Family; 
+Fantasy",21 August 1939,8.0,VictorFleming,Judy Garland;Frank Morgan;Ray Bolger;Bert Lahr;Jack Haley;Billie Burke;Margaret Hamilton;Charley Grapewin;Pat Walshe;Clara Blandick;Terry;The Singer Midgets,2800000.0,102.0,,"Adventure; 
+Family; 
+Fantasy 8.0 VictorFleming Judy Garland;Frank Morgan;Ray Bolger;Bert Lahr;Jack Haley;Billie Burke;Margaret Hamilton;Charley Grapewin;Pat Walshe;Clara Blandick;Terry;The Singer Midgets"
+231,Jaws ,"Adventure; 
+Drama; 
+Thriller",20 June 1975,8.0,StevenSpielberg,Roy Scheider;Robert Shaw;Richard Dreyfuss;Lorraine Gary;Murray Hamilton;Carl Gottlieb;Jeffrey Kramer;Susan Backlinie;Jonathan Filley;Ted Grossman;Chris Rebello;Jay Mello;Lee Fierro;Jeffrey Voorhees;Craig Kingsbury,8000000.0,124.0,470653000.0,"Adventure; 
+Drama; 
+Thriller 8.0 StevenSpielberg Roy Scheider;Robert Shaw;Richard Dreyfuss;Lorraine Gary;Murray Hamilton;Carl Gottlieb;Jeffrey Kramer;Susan Backlinie;Jonathan Filley;Ted Grossman;Chris Rebello;Jay Mello;Lee Fierro;Jeffrey Voorhees;Craig Kingsbury"
+232,Le notti di Cabiria ,Drama,16 October 1957,8.1,FedericoFellini,Giulietta Masina;François Périer;Franca Marzi;Dorian Gray;Aldo Silvani;Ennio Girolami;Mario Passante;Christian Tassou;Amedeo Nazzari,,110.0,,Drama 8.1 FedericoFellini Giulietta Masina;François Périer;Franca Marzi;Dorian Gray;Aldo Silvani;Ennio Girolami;Mario Passante;Christian Tassou;Amedeo Nazzari
+233,The Help ,Drama,10 August 2011,8.1,TateTaylor,Emma Stone;Viola Davis;Bryce Dallas Howard;Octavia Spencer;Jessica Chastain;Ahna O'Reilly;Allison Janney;Anna Camp;Eleanor Henry;Emma Henry;Chris Lowell;Cicely Tyson;Mike Vogel;Sissy Spacek;Brian Kerwin,25000000.0,146.0,216639112.0,Drama 8.1 TateTaylor Emma Stone;Viola Davis;Bryce Dallas Howard;Octavia Spencer;Jessica Chastain;Ahna O'Reilly;Allison Janney;Anna Camp;Eleanor Henry;Emma Henry;Chris Lowell;Cicely Tyson;Mike Vogel;Sissy Spacek;Brian Kerwin
+234,Faa yeung nin wa ,"Drama; 
+Romance",29 September 2000,8.1,Kar-WaiWong,Maggie Cheung;Tony Chiu-Wai Leung;Ping Lam Siu;Tung Cho 'Joe' Cheung;Rebecca Pan;Kelly Lai Chen;Man-Lei Chan;Szu-Ying Chien;Roy Cheung;Paulyn Sun;Po-chun Chow;Kam-Wah Koo;Hsien Yu,,98.0,,"Drama; 
+Romance 8.1 Kar-WaiWong Maggie Cheung;Tony Chiu-Wai Leung;Ping Lam Siu;Tung Cho 'Joe' Cheung;Rebecca Pan;Kelly Lai Chen;Man-Lei Chan;Szu-Ying Chien;Roy Cheung;Paulyn Sun;Po-chun Chow;Kam-Wah Koo;Hsien Yu"
+235,Mandariinid ,"Drama; 
+War",17 October 2013,8.2,ZazaUrushadze,Lembit Ulfsak;Giorgi Nakashidze;Misha Meskhi;Elmo Nüganen;Raivo Trass;Zura Begalishvili;Dato Khakhidze;Jano Izoria;Gia Gogishvili;Vamekh Jangidze;Aleko Begalishvili;Temo Khutsishvili;Giorgi Tsaava;Denis Khlibov;Victor Gegeshidze,,87.0,942487.0,"Drama; 
+War 8.2 ZazaUrushadze Lembit Ulfsak;Giorgi Nakashidze;Misha Meskhi;Elmo Nüganen;Raivo Trass;Zura Begalishvili;Dato Khakhidze;Jano Izoria;Gia Gogishvili;Vamekh Jangidze;Aleko Begalishvili;Temo Khutsishvili;Giorgi Tsaava;Denis Khlibov;Victor Gegeshidze"
+236,Sanjuro ,"Action; 
+Crime; 
+Drama",1 January 1962,8.1,AkiraKurosawa,Toshirô Mifune;Tatsuya Nakadai;Keiju Kobayashi;Yûzô Kayama;Reiko Dan;Takashi Shimura;Kamatari Fujiwara;Takako Irie;Masao Shimizu;Yûnosuke Itô;Akira Kubo;Hiroshi Tachikawa;Yoshio Tsuchiya;Kunie Tanaka;Tatsuyoshi Ehara,,96.0,,"Action; 
+Crime; 
+Drama 8.1 AkiraKurosawa Toshirô Mifune;Tatsuya Nakadai;Keiju Kobayashi;Yûzô Kayama;Reiko Dan;Takashi Shimura;Kamatari Fujiwara;Takako Irie;Masao Shimizu;Yûnosuke Itô;Akira Kubo;Hiroshi Tachikawa;Yoshio Tsuchiya;Kunie Tanaka;Tatsuyoshi Ehara"
+237,Before Sunset ,"Drama; 
+Romance",30 July 2004,8.1,RichardLinklater,Ethan Hawke;Julie Delpy;Vernon Dobtcheff;Louise Lemoine Torrès;Rodolphe Pauly;Mariane Plasteig;Diabolo;Denis Evrard;Albert Delpy;Marie Pillet,2700000.0,80.0,,"Drama; 
+Romance 8.1 RichardLinklater Ethan Hawke;Julie Delpy;Vernon Dobtcheff;Louise Lemoine Torrès;Rodolphe Pauly;Mariane Plasteig;Diabolo;Denis Evrard;Albert Delpy;Marie Pillet"
+238,Paper Moon ,"Comedy; 
+Drama",9 May 1973,8.1,PeterBogdanovich,Ryan O'Neal;Tatum O'Neal;Madeline Kahn;John Hillerman;P.J. Johnson;Jessie Lee Fulton;James N. Harrell;Lila Waters;Noble Willingham;Bob Young;Jack Saunders;Jody Wilbur;Liz Ross;Yvonne Harrison;Ed Reed,2500000.0,102.0,,"Comedy; 
+Drama 8.1 PeterBogdanovich Ryan O'Neal;Tatum O'Neal;Madeline Kahn;John Hillerman;P.J. Johnson;Jessie Lee Fulton;James N. Harrell;Lila Waters;Noble Willingham;Bob Young;Jack Saunders;Jody Wilbur;Liz Ross;Yvonne Harrison;Ed Reed"
+239,Ah-ga-ssi ,"Drama; 
+Romance; 
+Thriller",28 October 2016,8.1,Chan-wookPark,Min-hee Kim;Tae-ri Kim;Jung-woo Ha;Jin-Woong Cho;Hae-sook Kim;So-Ri Moon;Si-yeon Ha;Ha-na Han;Ha-dam Jeong;Eun-hyung Jo;Eun-yeong Kim;In-woo Kim;Dong-hwi Lee;Kyu-jung Lee;Yong-nyeo Lee,,144.0,1968494.0,"Drama; 
+Romance; 
+Thriller 8.1 Chan-wookPark Min-hee Kim;Tae-ri Kim;Jung-woo Ha;Jin-Woong Cho;Hae-sook Kim;So-Ri Moon;Si-yeon Ha;Ha-na Han;Ha-dam Jeong;Eun-hyung Jo;Eun-yeong Kim;In-woo Kim;Dong-hwi Lee;Kyu-jung Lee;Yong-nyeo Lee"
+240,"Paris, Texas ",Drama,23 August 1984,8.1,WimWenders,Harry Dean Stanton;Nastassja Kinski;Dean Stockwell;Aurore Clément;Hunter Carson;Bernhard Wicki;Sam Berry;Claresie Mobley;Viva;Edward Fayton;Socorro Valdez;Justin Hogg;Tom Farrell;John Lurie;Jeni Vici,,145.0,,Drama 8.1 WimWenders Harry Dean Stanton;Nastassja Kinski;Dean Stockwell;Aurore Clément;Hunter Carson;Bernhard Wicki;Sam Berry;Claresie Mobley;Viva;Edward Fayton;Socorro Valdez;Justin Hogg;Tom Farrell;John Lurie;Jeni Vici
+241,Tenkû no shiro Rapyuta ,,2 August 1986,8.1,HayaoMiyazaki,Anna Paquin;James Van Der Beek;Cloris Leachman;Mark Hamill;Richard Dysart;Jim Cummings;John Hostetter;Michael McShane;Mandy Patinkin;Andy Dick;Corey Burton;John DeMita;Debi Derryberry;Eddie Frierson;Susan Hickman,,125.0,, 8.1 HayaoMiyazaki Anna Paquin;James Van Der Beek;Cloris Leachman;Mark Hamill;Richard Dysart;Jim Cummings;John Hostetter;Michael McShane;Mandy Patinkin;Andy Dick;Corey Burton;John DeMita;Debi Derryberry;Eddie Frierson;Susan Hickman
+242,The Best Years of Our Lives ,"Drama; 
+Romance; 
+War",29 May 1947,8.1,WilliamWyler,Myrna Loy;Fredric March;Dana Andrews;Teresa Wright;Virginia Mayo;Cathy O'Donnell;Hoagy Carmichael;Harold Russell;Gladys George;Roman Bohnen;Ray Collins;Minna Gombell;Walter Baldwin;Steve Cochran;Dorothy Adams,2100000.0,170.0,44309982.0,"Drama; 
+Romance; 
+War 8.1 WilliamWyler Myrna Loy;Fredric March;Dana Andrews;Teresa Wright;Virginia Mayo;Cathy O'Donnell;Hoagy Carmichael;Harold Russell;Gladys George;Roman Bohnen;Ray Collins;Minna Gombell;Walter Baldwin;Steve Cochran;Dorothy Adams"
+243,Pirates of the Caribbean: The Curse of the Black Pearl ,"Action; 
+Adventure; 
+Fantasy",9 July 2003,8.0,GoreVerbinski,Johnny Depp;Geoffrey Rush;Orlando Bloom;Keira Knightley;Jack Davenport;Jonathan Pryce;Lee Arenberg;Mackenzie Crook;Damian O'Hare;Giles New;Angus Barnett;David Bailie;Michael Berry Jr.;Isaac C. Singleton Jr.;Kevin McNally,140000000.0,143.0,654264015.0,"Action; 
+Adventure; 
+Fantasy 8.0 GoreVerbinski Johnny Depp;Geoffrey Rush;Orlando Bloom;Keira Knightley;Jack Davenport;Jonathan Pryce;Lee Arenberg;Mackenzie Crook;Damian O'Hare;Giles New;Angus Barnett;David Bailie;Michael Berry Jr.;Isaac C. Singleton Jr.;Kevin McNally"
+244,Gangs of Wasseypur ,"Action; 
+Comedy; 
+Crime",2 August 2012,8.2,AnuragKashyap,Manoj Bajpayee;Richa Chadha;Nawazuddin Siddiqui;Tigmanshu Dhulia;Jameel Khan;Piyush Mishra;Jaideep Ahlawat;Huma Qureshi;Zeishan Quadri;Vipin Sharma;Satyakam Anand;Aditya Kumar;Rajkummar Rao;Vineet Kumar Singh;Sankalp Acharekar,,321.0,,"Action; 
+Comedy; 
+Crime 8.2 AnuragKashyap Manoj Bajpayee;Richa Chadha;Nawazuddin Siddiqui;Tigmanshu Dhulia;Jameel Khan;Piyush Mishra;Jaideep Ahlawat;Huma Qureshi;Zeishan Quadri;Vipin Sharma;Satyakam Anand;Aditya Kumar;Rajkummar Rao;Vineet Kumar Singh;Sankalp Acharekar"
+245,Guardians of the Galaxy ,"Action; 
+Adventure; 
+Comedy",1 August 2014,8.1,JamesGunn,Chris Pratt;Zoe Saldana;Dave Bautista;Vin Diesel;Bradley Cooper;Lee Pace;Michael Rooker;Karen Gillan;Djimon Hounsou;John C. Reilly;Glenn Close;Benicio Del Toro;Laura Haddock;Sean Gunn;Peter Serafinowicz,170000000.0,121.0,774176600.0,"Action; 
+Adventure; 
+Comedy 8.1 JamesGunn Chris Pratt;Zoe Saldana;Dave Bautista;Vin Diesel;Bradley Cooper;Lee Pace;Michael Rooker;Karen Gillan;Djimon Hounsou;John C. Reilly;Glenn Close;Benicio Del Toro;Laura Haddock;Sean Gunn;Peter Serafinowicz"
+246,Fanny och Alexander ,Drama,17 December 1982,8.1,IngmarBergman,Kristina Adolphson;Börje Ahlstedt;Pernilla Allwin;Kristian Almgren;Carl Billquist;Axel Düberg;Allan Edwall;Siv Ericks;Ewa Fröling;Patricia Gélin;Majlis Granlund;Maria Granlund;Bertil Guve;Eva von Hanno;Sonya Hedenbratt,6000000.0,188.0,,Drama 8.1 IngmarBergman Kristina Adolphson;Börje Ahlstedt;Pernilla Allwin;Kristian Almgren;Carl Billquist;Axel Düberg;Allan Edwall;Siv Ericks;Ewa Fröling;Patricia Gélin;Majlis Granlund;Maria Granlund;Bertil Guve;Eva von Hanno;Sonya Hedenbratt
+247,La La Land ,"Comedy; 
+Drama; 
+Music",25 December 2016,8.0,DamienChazelle,Ryan Gosling;Emma Stone;Amiée Conn;Terry Walters;Thom Shelton;Cinda Adams;Callie Hernandez;Jessica Rothe;Sonoya Mizuno;Rosemarie DeWitt;J.K. Simmons;Claudine Claudio;Jason Fuchs;D.A. Wallach;Trevor Lissauer,30000000.0,128.0,446092357.0,"Comedy; 
+Drama; 
+Music 8.0 DamienChazelle Ryan Gosling;Emma Stone;Amiée Conn;Terry Walters;Thom Shelton;Cinda Adams;Callie Hernandez;Jessica Rothe;Sonoya Mizuno;Rosemarie DeWitt;J.K. Simmons;Claudine Claudio;Jason Fuchs;D.A. Wallach;Trevor Lissauer"
+248,Drishyam ,"Crime; 
+Drama; 
+Thriller",31 July 2015,8.3,NishikantKamat,Ajay Devgn;Shriya Saran;Tabu;Rajat Kapoor;Ishita Dutta;Mrunal Jadhav;Prasanna Ketkar;Yogesh Sonam;Prathamesh Parab;Rishab Chadha;Ashish Warang;Anil Nagarkar;Tarun Shukla;Smita Inamdar;Sanjay Bhatia,9400000.0,163.0,,"Crime; 
+Drama; 
+Thriller 8.3 NishikantKamat Ajay Devgn;Shriya Saran;Tabu;Rajat Kapoor;Ishita Dutta;Mrunal Jadhav;Prasanna Ketkar;Yogesh Sonam;Prathamesh Parab;Rishab Chadha;Ashish Warang;Anil Nagarkar;Tarun Shukla;Smita Inamdar;Sanjay Bhatia"
+249,8½ ,Drama,16 February 1963,8.1,FedericoFellini,Marcello Mastroianni;Claudia Cardinale;Anouk Aimée;Sandra Milo;Rossella Falk;Barbara Steele;Madeleine Lebeau;Caterina Boratto;Eddra Gale;Guido Alberti;Mario Conocchia;Bruno Agostini;Cesarino Miceli Picardi;Jean Rougeul;Mario Pisu,,138.0,,Drama 8.1 FedericoFellini Marcello Mastroianni;Claudia Cardinale;Anouk Aimée;Sandra Milo;Rossella Falk;Barbara Steele;Madeleine Lebeau;Caterina Boratto;Eddra Gale;Guido Alberti;Mario Conocchia;Bruno Agostini;Cesarino Miceli Picardi;Jean Rougeul;Mario Pisu

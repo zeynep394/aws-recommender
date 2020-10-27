@@ -1,0 +1,30 @@
+import sqlalchemy
+
+import pandas as pds
+
+ 
+
+ 
+
+# Data - Marks scored
+
+
+
+# Create a DataFrame
+
+dataFrame   = pds.read_csv("movies_IMDb.csv")
+
+         
+
+alchemyEngine           = sqlalchemy.create_engine('postgresql://user:f1t3S.!klm?@localhost/postgres')
+
+postgreSQLConnection    = alchemyEngine.connect()
+
+postgreSQLTable         = "movie_data"
+
+dataFrame.to_sql(postgreSQLTable, postgreSQLConnection, if_exists='append',index=False)
+
+
+print("PostgreSQL Table %s has been created successfully."%postgreSQLTable)
+
+postgreSQLConnection.close()

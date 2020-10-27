@@ -1,0 +1,18 @@
+
+#class MyCSvModel(CsvModel):
+    title=CharField()
+    
+    genre=CharField()
+    release_date=DateField()
+    
+    ranking=FloatField()
+    director=CharField()
+    cast=CharField()
+    budget=FloatField()
+    runtime=FloatField()
+    cum_worldwide_gross=FloatField()
+
+
+    class Meta:
+        delimiter = ";"
+        dbModel = Post
