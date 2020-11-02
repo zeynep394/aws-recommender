@@ -1,0 +1,121 @@
+*{
+    padding:0;
+    margin:0;
+
+}
+
+@media secreen and (max-width: 1060px){
+    #primary{width:67%;}
+    #secondary{width:30%; margin-left:3%;}
+
+}
+@media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
+}
+
+
+body{
+    font-family:montserrat;
+    
+
+}
+
+.header{
+    background-color:#262626;
+    padding: 0 !important;
+    height: 5em;
+    /*margin-bottom:80px; */
+  
+   
+}
+.header .navbar-nav{ /*ul kÄ±smÄ±*/
+    list-style: none;
+    padding: 0;
+    display: flex; /* flex koyunca alt alta dizili olan liste elemanlarÄ± yanyana dizili hale geliyor ama bitiÅŸik oluyorlar*/
+    justify-content: center;
+    
+}
+
+.header .navbar{/*img in iÃ§inde bulunduÄŸu nav ona yukarÄ±dan 30px bÄ±raktÄ±rdÄ±k */
+    padding: .5em; 
+
+}
+
+.navbar img{/*zensa yazÄ±sÄ± sola kaydÄ± dÃ¼zelt ortala*/
+    /*display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width:80%;%80di 29/08 22.22 saat*/
+    margin-left: 650px;
+   /* background-color: #000000;*/
+
+   
+
+   
+    /*there is smt wrong here
+    /*position: absolute;*/
+}
+.başlık{
+    margin-left: 20px;
+}
+.navbar-nav li{
+    margin:0 1em;
+}
+.navbar-nav a{
+    font-family: 'MedievalSharp';
+    color: #fff;
+    text-decoration: none;/*link kÄ±smÄ±nÄ± siliyor*/
+
+}
+
+.movies{
+    
+    margin-left:20%;
+    width: 60%;
+    height: 250px;
+    background: #C7CEEA;
+    margin-bottom: 20px;
+}
+img{
+    margin-top:-53%;
+    width:100%;
+    height:200px;
+    
+}
+.content{
+    
+    margin-left:100px;
+    margin-top:0;
+}
+
+.recommender{
+    width: 80%;
+    margin-left: 10%;
+
+}
+.recommender img{
+    height: 100%;
+    width: 10%;
+    margin-top:10% ;
+}
+.recommendations{
+    margin-top:20%;
+    width: 60%;
+    height: 250px;
+    margin-left: 20%;
+}
+
+.box{
+    width: 12%;
+    height: 100%;
+}
+
+footer{
+    background-color:#262626;
+    width:100%;
+    height:200px;
+    margin-bottom:0;
+   
+}

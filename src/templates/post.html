@@ -1,0 +1,68 @@
+{% extends 'base.html'%}
+{% load static %}
+{% block content %}
+<div class="containerr">
+    <div class="post-single">
+      
+      <div class="post-details">
+
+
+        <div class="post-body">
+          <div class="recommender">
+            <a href="{{ post.get_absolute_url }}"></a>
+            
+            
+            <!-- eğer tıklayınca biryerin açılmasını istiyorsan 
+            <a href="{{ post.get_absolute_url }}"><img src="{{post.thumbnail.url}}" class="slider-img"></a>
+        gibi a taglarının içine yazmalısın-->
+            
+            <h1 class="rec-header"><a href="{{ post.get_absolute_url }}">{{post.title}}</a></h1>
+            <a href="{{ post.get_absolute_url }}"><img src="{{post.pic.url|default_if_none:'#'}}"> </a>
+            <div class="üst-bilgi">
+            <div class="">{{post.runtime}}</div>
+            <div>{{post.genre}}</div>
+            </div>
+            <div>{{post.ranking}}</div>
+            <p>info about the movie</p>
+            
+            
+            <div>{{post.director}}</div>
+            <div>{{post.stars}}</div>
+            <div>{{post.release_date}}</div>
+            <div>{{post.budget}}</div>
+            <div>{{post.cum_worldwide_gross}}</div>
+            
+        </div>
+
+        <div class="recommendations">
+          <h2>Recommendations For</h2>
+          <h3>{{post.title}}</h3> 
+          <script src="{% static 'js/app.js' %}"></script>
+       <div class="vl"></div>
+        <!--<div id="slider">-->
+            <main class="posts-listing col-lg-8">
+            <div class="container "> 
+            
+            {% for rec in deneme_list %}    
+             <div class="box"> 
+                 <div class="imgBox">
+                  <a href="{{ rec.get_absolute_url }}"><img src="{{rec.pic.url|default_if_none:'#'}}"></a> 
+                 </div>
+                 
+                  <h3><a href="{{ rec.get_absolute_url }}">{{rec.title}}</a></h3>                                          
+             </div> 
+             {% endfor %}
+        </div>
+      </main>
+        </div>
+          <!--her postun kendi içeriği var biz mesela 20 tane post oluşturucaz 
+              o tüm postlar için post sayfaları yapacak ama çok satanlar kısmında küçük bir bölümü gözükecek
+            yani 1 postun hem overview kısmı hem de content kısmı olacak html kodlarında hangisini yazdıysak o gözükecek
+          mesela blog un içinde overview gözükecek şekilde ayarladık burada content kullandık. BUnu biz html ile ayarlıyoruz-->
+        </div>
+
+      </div>
+    </div>
+</div>
+
+{% endblock content %}

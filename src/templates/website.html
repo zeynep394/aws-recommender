@@ -1,0 +1,36 @@
+{% extends 'base.html'%}
+{% load static %}
+{% block content %}
+
+{% for obj in object_list %}
+    <div class="movies">
+        <a href="{{ obj.get_absolute_url }}"></a>
+
+        <div class="content" >
+            <h1><a href="{{ obj.get_absolute_url }}">{{obj.title}}</a></h1>
+            <div class="üst-bilgi">
+            <div class="">{{obj.runtime}}</div>
+            <div>{{obj.genre}}</div>
+            </div>
+            <div>{{obj.ranking}}</div>
+            <p>info about the movie</p>
+            
+            
+            <div>{{obj.director}}</div>
+            <div>{{obj.stars}}</div>
+            <div>{{obj.release_date}}</div>
+            <div>{{obj.budget}}</div>
+            <div>{{obj.cum_worldwide_gross}}</div>
+        </div>  
+        
+        <a href="{{ obj.get_absolute_url }}"><img src="{{post.pic.url|default_if_none:'#'}}"> </a>
+        
+        <!-- eğer tıklayınca biryerin açılmasını istiyorsan 
+        <a href="{{ obj.get_absolute_url }}"><img src="{{obj.thumbnail.url}}" class="slider-img"></a>
+    gibi a taglarının içine yazmalısın-->
+
+        
+    </div>
+    {% endfor %}
+
+{% endblock content %}
