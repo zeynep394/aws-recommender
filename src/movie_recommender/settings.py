@@ -15,7 +15,7 @@ SECRET_KEY = 'xb)jhn@1)zgo)rcql1dor!$_nav@dat-95q*$!0e%v=&%n7py('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['IMDb-movie-reccomender-dev.us-east-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
